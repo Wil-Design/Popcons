@@ -1,5 +1,7 @@
 # Popcons
 
+<img src="https://raw.githubusercontent.com/Wil-Design/Popcons/main/githubmedia/app-icon.png" alt="Popcons" style="zoom:25%;" />
+
 A free icon pack that's round and has some colourrrrrr.
 
 Download the pack on the [Play Store](https://play.google.com/store/apps/details?id=com.wil.popcons) or check out the latest releases on Github.
