@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Leave empty if you don't want to show changelog date -->
+    <string name="changelog_date">13 August 2022</string>
+
+    <!-- Changelog support html formatting
+    * <b> for Bold
+    * <i> for Italic
+    * <u> for Underline
+    * <a href="linkUrl">Link Text</a> for links -->
+    <string-array name="changelog">
+        <item>Added 13 icons</item>
+        <item>Fixed some icons not applying.</item>
+        <item>Send icon requests!</item>
+        <item>Thank <b>Mr. Donnno</b> for all the help!</item>
+        <!-- <item>
+            <![CDATA[
+            Formatted Changelog with <u>Underline</u>, <b>Bold</b>, <i>Italic</i> and <a href="https://your.link.here">Link</a>.
+            ]]>
+        </item> -->
+    </string-array>
+
+</resources>

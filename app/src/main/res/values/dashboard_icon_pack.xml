@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <!-- YOUR ICON PACK NAME -->
+    <string name="app_name">Popcons</string>
+
+    <string name="theme_title">Popcons</string>
+    <string name="theme_name">Popcons</string>
+
+    <string name="theme_author">Wil Design</string>
+    <string name="developer_name">Wil Design</string>
+    <string name="developerName">Wil Design</string>
+    <string name="authorName">Wil Design</string>
+
+    <string name="authorLink">https://fosstodon.org/@wil</string>
+    <string name="developer_link">https://fosstodon.org/@wil</string>
+
+    <string name="theme_description">A circular icon pack.</string>
+    <string name="theme_info">A circular icon pack.</string>
+    <string name="theme_ad_msg">A circular icon pack.</string>
+
+    <string name="theme_feature">feature</string>
+
+    <string name="theme_preview1">preview1</string>
+    <string name="theme_preview2">preview2</string>
+
+    <string name="iconpack">com.wil.popcons</string>
+
+</resources>

@@ -1,0 +1,49 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion rootProject.ext.CompileSdk
+
+    defaultConfig {
+        applicationId 'com.wil.popcons'
+        minSdkVersion rootProject.ext.MinSdk
+        targetSdkVersion rootProject.ext.TargetSdk
+        versionCode 5
+        versionName '0.5'
+        multiDexEnabled true
+
+        // Naming app bundles
+        setArchivesBaseName("${parent.name}-v${versionCode}")
+    }
+
+    bundle {
+        language {
+            enableSplit false
+        }
+    }
+
+    buildTypes {
+        release {
+            debuggable false
+            minifyEnabled true
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+    /*
+     * CandyBar Material Dashboard Library
+     *
+     * TODO: How to update the dashboard?!
+     * Check this update guide for every version
+     *      - https://github.com/zixpo/candybar-sample/wiki/Updating-the-dashboard
+     * If you've missed some versions you've to also follow update guide for those versions
+     */
+
+    implementation 'com.github.Donnnno:candybar-foss:3.14.2'
+
+}

@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appmap>
+
+    <!-- FOR ATOM LAUNCHER -->
+
+    <!-- Chrome & Chrome Beta -->
+    <item
+        class="com.google.android.apps.chrome.Main"
+        name="chrome" />
+		
+	<!-- 1DM+ -->
+	<item 
+		class="idm.internet.download.manager.MainActivity" 
+		name="___idm"/>
+		
+		
+	<!-- Backdrops -->
+	<item 
+		class="com.backdrops.wallpapers.WelcomeActivity" 
+		name="backdrops"/>
+	
+
+    <!--  Antutu Benchmark -->
+    <item
+        class="com.antutu.ABenchMark.ABenchMarkStart"
+        name="antutu_benchmark" />
+
+    <!-- AccuWeather -->
+    <item
+        class="com.accuweather.android.activities.SplashActivity"
+        name="accuweather"/>
+
+    <!-- Adobe Scan -->
+    <item
+        class="com.adobe.scan.android.SplashActivity"
+        name="adobe_scan"/>
+
+    <!-- Aegis -->
+    <item
+        class="com.beemdevelopment.aegis.ui.MainActivity"
+        name="aegis"/>
+
+    <!-- AnkiDroid -->
+    <item
+        class="com.ichi2.anki.IntentHandler"
+        name="ankidroid"/>
+
+    <!-- AR Zone -->
+    <item
+        class="com.samsung.android.arzone.ARZoneLauncher"
+        name="ar_zone"/>
+
+    <!-- Arcticons -->
+    <item
+        class="com.donnnno.arcticons.activities.MainActivity"
+        name="arcticons"/>
+
+    <!-- Audius Music -->
+    <item
+        class="co.audius.app.MainActivity"
+        name="audius"/>
+
+    <!-- Authy -->
+    <item
+        class="com.authy.authy.activities.InitializationActivity"
+        name="authy"/>
+
+    <!-- Apple Music -->
+    <item
+        class="com.apple.android.music.onboarding.activities.SplashActivity"
+        name="apple_music"/>
+
+    <!-- Bitwarden -->
+    <item
+        class="com.x8bit.bitwarden.MainActivity"
+        name="bitwarden"/>
+
+    <!-- Boost -->
+    <item
+        class="com.rubenmayayo.reddit.ui.submissions.subreddit.MainActivity"
+        name="boost"/>
+
+    <!-- Brave -->
+    <item
+        class="com.google.android.apps.chrome.Main"
+        name="brave"/>
+
+    <!-- Business Calendar -->
+    <item
+        class="com.appgenix.bizcal.LaunchActivity"
+        name="business_calendar"/>
+
+    <!-- Calendar -->
+    <item
+        class="com.samsung.android.app.calendar.activity.MainActivity"
+        name="calendar"/>
+
+    <!-- Camera -->
+    <item
+        class="com.sec.android.app.camera.Camera"
+        name="camera"/>
+
+    <!-- Chess -->
+    <item
+        class="com.chess.splash.SplashActivity"
+        name="chess"/>
+
+    <!-- Chrome -->
+    <item
+        class="com.google.android.apps.chrome.Main"
+        name="google_chrome"/>
+
+    <!-- Clock -->
+    <item
+        class="com.sec.android.app.clockpackage.ClockPackage"
+        name="clock"/>
+
+    <!-- Clover -->
+    <item
+        class="org.floens.chan.ui.activity.BoardActivity"
+        name="clover"/>
+
+    <!-- CoinCalc -->
+    <item
+        class="com.samruston.flip.Launcher"
+        name="coincalc"/>
+
+    <!-- Contacts -->
+    <item
+        class="com.samsung.android.contacts.contactslist.PeopleActivity"
+        name="contacts"/>
+
+    <!-- Deezer -->
+    <item
+        class="com.deezer.android.ui.activity.LauncherActivity"
+        name="deezer"/>
+
+    <!-- Discord Beta -->
+    <item
+        class="com.discord.app.AppActivity$Main"
+        name="discord"/>
+
+    <!-- Download Navi -->
+    <item
+        class="com.tachibana.downloader.ui.main.MainActivity"
+        name="download_navi"/>
+
+    <!-- DraStic -->
+    <item
+        class="com.dsemu.drastic.DraSticActivity"
+        name="drastic"/>
+
+    <!-- Drive -->
+    <item
+        class="com.google.android.apps.docs.app.NewMainProxyActivity"
+        name="google_drive"/>
+
+    <!-- Dropbox -->
+    <item
+        class="com.dropbox.android.activity.DropboxBrowser"
+        name="dropbox"/>
+
+    <!-- DStv -->
+    <item
+        class="com.dstv.now.android.ui.splash.SplashActivity"
+        name="dstv"/>
+
+    <!-- DuckDuckGo -->
+    <item
+        class="com.duckduckgo.app.launch.Launcher"
+        name="duckduckgo"/>
+
+    <!-- Duo -->
+    <item
+        class="com.google.android.apps.tachyon.MainActivity"
+        name="google_duo"/>
+
+    <!-- Duolingo -->
+    <item
+        class="com.duolingo.app.LoginActivity"
+        name="duolingo"/>
+
+    <!-- Element -->
+    <item
+        class="im.vector.app.features.Alias"
+        name="element"/>
+
+    <!-- Email -->
+    <item
+        class="com.samsung.android.email.ui.activity.MessageListXL"
+        name="email"/>
+
+    <!-- Engross -->
+    <item
+        class="com.engross.MainActivity"
+        name="engross"/>
+
+    <!-- EskomSePush -->
+    <item
+        class="com.ashwhale.sepush.eskom.MainActivity"
+        name="eskomsepush"/>
+
+    <!-- Evernote -->
+    <item
+        class="com.evernote.SplashActivity"
+        name="evernote"/>
+
+    <!-- F Droid -->
+    <item
+        class="org.fdroid.fdroid.views.main.MainActivity"
+        name="f_droid"/>
+
+    <!-- F Stop -->
+    <item
+        class="com.fstop.photo.activity.MainActivity"
+        name="fstop"/>
+
+    <!-- Firefox -->
+    <item
+        class="org.mozilla.firefox.App"
+        name="firefox"/>
+
+    <!-- Firefox Focus -->
+    <item
+        class="org.mozilla.focus.activity.MainActivity"
+        name="firefox_focus"/>
+
+    <!-- Fit -->
+    <item
+        class="com.google.android.apps.fitness.welcome.WelcomeActivity"
+        name="google_fit"/>
+
+    <!-- Fitloop -->
+    <item
+        class="com.fitloop.MainActivity"
+        name="fitloop"/>
+
+    <!-- Flud -->
+    <item
+        class="com.delphicoder.flud.MainActivity"
+        name="flud"/>
+
+    <!-- FNB -->
+    <item
+        class="za.co.fnb.connect.itt.gui.ZoneWelcomeActivity"
+        name="fnb"/>
+
+    <!-- FolderSync Pro -->
+    <item
+        class="dk.tacit.android.foldersync.activity.MainActivity"
+        name="foldersync_pro"/>
+
+    <!-- Formula 1 -->
+    <item
+        class="com.formula1.base.MainActivity"
+        name="formula_one"/>
+
+    <!-- Galaxy Store -->
+    <item
+        class="com.sec.android.app.samsungapps.SamsungAppsMainActivity"
+        name="galaxy_store"/>
+
+    <!-- Gallery -->
+    <item
+        class="com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange"
+        name="simple_gallery_pro"/>
+
+    <!-- Gallery -->
+    <item
+        class="com.samsung.android.gallery.app.activity.GalleryActivity"
+        name="gallery"/>
+
+    <!-- Game Launcher -->
+    <item
+        class="com.samsung.android.game.gamehome.activity.StartActivity"
+        name="game_launcher"/>
+
+    <!-- Gboard -->
+    <item
+        class="com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity"
+        name="gboard"/>
+
+    <!-- Gmail -->
+    <item
+        class="com.google.android.gm.ConversationListActivityGmail"
+        name="gmail"/>
+
+    <!-- Goodreads -->
+    <item
+        class="com.goodreads.kindle.ui.activity.SplashActivity"
+        name="goodreads"/>
+
+    <!-- Google -->
+    <item
+        class="com.google.android.googlequicksearchbox.SearchActivity"
+        name="google"/>
+
+    <!-- Google Play Store -->
+    <item
+        class="com.android.vending.AssetBrowserActivity"
+        name="google_play_store"/>
+
+    <!-- Google Podcasts -->
+    <item
+        class="com.google.android.apps.podcasts.PodcastsActivity"
+        name="google_podcasts"/>
+
+    <!-- Instagram -->
+    <item
+        class="com.instagram.android.activity.MainTabActivity"
+        name="instagram"/>
+
+    <!-- Internet Speed Meter Lite -->
+    <item
+        class="com.internet.speed.meter.lite.MainActivity"
+        name="internet_speed_meter_lite"/>
+
+    <!-- Loop Habits -->
+    <item
+        class="org.isoron.uhabits.MainActivity"
+        name="loop_habits"/>
+
+    <!-- Inoreader -->
+    <item
+        class="com.innologica.inoreader.activities.BootstrapActivity"
+        name="inoreader"/>
+
+    <!-- Jaxx Liberty -->
+    <item
+        class="com.liberty.jaxx.MainActivity"
+        name="jaxx_liberty"/>
+
+    <!-- Joplin -->
+    <item
+        class="net.cozic.joplin.MainActivity"
+        name="joplin"/>
+
+    <!-- Journey -->
+    <item
+        class="com.journey.app.SplashActivity"
+        name="journey"/>
+
+    <!-- Keep Notes -->
+    <item
+        class="com.google.android.keep.activities.BrowseActivity"
+        name="keep_notes"/>
+
+    <!-- KeePassDX -->
+    <item
+        class="com.kunzisoft.keepass.activities.FileDatabaseSelectActivity"
+        name="keepassdx"/>
+
+    <!-- Lens -->
+    <item
+        class="com.google.vr.apps.ornament.app.lens.LensLauncherActivity"
+        name="lens"/>
+
+    <!-- Librera PRO -->
+    <item
+        class="com.foobnix.ui2.MainTabs2"
+        name="librera_pro"/>
+
+    <!-- LibreTorrent -->
+    <item
+        class="org.proninyaroslav.libretorrent.ui.main.MainActivity"
+        name="libretorrent"/>
+
+    <!-- LinkedIn -->
+    <item
+        class="com.linkedin.android.authenticator.LaunchActivity"
+        name="linkedin"/>
+
+    <!-- Google Maps -->
+    <item
+        class="com.google.android.maps.MapsActivity"
+        name="google_maps"/>
+
+    <!-- Markor -->
+    <item
+        class="net.gsantner.markor.activity.MainActivity"
+        name="markor"/>
+
+    <!-- MEGA -->
+    <item
+        class="mega.privacy.android.app.lollipop.ManagerActivityLollipop"
+        name="mega"/>
+
+    <!-- Messages -->
+    <item
+        class="com.android.mms.ui.ConversationComposer"
+        name="messages"/>
+
+    <!-- Microsoft SwiftKey Keyboard -->
+    <item
+        class="com.touchtype.LauncherActivityIcon"
+        name="microsoft_swiftkey_keyboard"/>
+
+    <!-- Microsoft To Do -->
+    <item
+        class="com.microsoft.todos.ui.LaunchActivity"
+        name="microsoft_todo"/>
+
+    <!-- MTN -->
+    <item
+        class="com.comviva.webaxn.ui.WebAxnActivity"
+        name="mtn"/>
+
+    <!-- My Files -->
+    <item
+        class="com.sec.android.app.myfiles.external.ui.MainActivity"
+        name="my_files"/>
+
+    <!-- MyFitnessPal -->
+    <item
+        class="com.myfitnesspal.android.login.WelcomeActivity"
+        name="myfitnesspal"/>
+
+    <!-- NewPipe -->
+    <item
+        class="org.schabi.newpipe.MainActivity"
+        name="newpipe"/>
+
+    <!-- Notion -->
+    <item
+        class="notion.local.id.MainActivity"
+        name="notion"/>
+
+    <!-- Nova Launcher -->
+    <item
+        class="com.teslacoilsw.launcher.NovaShortcutHandler"
+        name="nova_launcher"/>
+
+    <!-- Oujo -->
+    <item
+        class="com.ikn.oujo.activities.startup.LauncherActivity"
+        name="oujo"/>
+
+    <!-- Phone -->
+    <item
+        class="com.samsung.android.dialer.DialtactsActivity"
+        name="phone"/>
+
+    <!-- Google Photos -->
+    <item
+        class="com.google.android.apps.photos.home.HomeActivity"
+        name="photos"/>
+
+    <!-- Pinterest -->
+    <item
+        class="com.pinterest.activity.PinterestActivity"
+        name="pinterest"/>
+
+    <!-- Pocket -->
+    <item
+        class="com.ideashower.readitlater.activity.AppCacheCheckActivity"
+        name="pocket"/>
+
+    <!-- Pocket Casts -->
+    <item
+        class="au.com.shiftyjelly.pocketcasts.ui.MainActivity"
+        name="pocket_casts"/>
+
+    <!-- ProtonMail -->
+    <item
+        class="ch.protonmail.android.activities.SplashActivity"
+        name="protonmail"/>
+
+    <!-- Samsung Internet -->
+    <item
+        class="com.sec.android.app.sbrowser.SBrowserMainActivity"
+        name="samsung_internet"/>
+
+    <!-- Samsung Members -->
+    <item
+        class="com.samsung.android.voc.LauncherActivity"
+        name="samsung_members"/>
+
+    <!-- Samsung Notes -->
+    <item
+        class="com.samsung.android.app.notes.memolist.MemoListActivity"
+        name="samsung_notes"/>
+
+    <!-- Samsung Pay -->
+    <item
+        class="com.samsung.android.spay.ui.SpayMainActivity"
+        name="samsung_pay"/>
+
+    <!-- Settings -->
+    <item
+        class="com.android.settings.Settings"
+        name="settings"/>
+
+    <!-- Shazam -->
+    <item
+        class="com.shazam.android.activities.SplashActivity"
+        name="shazam"/>
+
+    <!-- Sheets -->
+    <item
+        class="com.google.android.apps.docs.app.NewMainProxyActivity"
+        name="sheets"/>
+
+    <!-- Showmax -->
+    <item
+        class="com.showmax.app.feature.uiFragments.mobile.UIFragmentsActivity"
+        name="showmax"/>
+
+    <!-- Signal -->
+    <item
+        class="org.thoughtcrime.securesms.RoutingActivity"
+        name="signal"/>
+
+    <!-- Slack -->
+    <item
+        class="slack.app.ui.HomeActivity"
+        name="slack"/>
+
+    <!-- Snapchat -->
+    <item
+        class="com.snapchat.android.LandingPageActivity"
+        name="snapchat"/>
+
+    <!-- Snapseed -->
+    <item
+        class="com.google.android.apps.snapseed.WelcomeScreenActivity"
+        name="snapseed"/>
+
+    <!-- Solid Explorer -->
+    <item
+        class="pl.solidexplorer.SolidExplorer"
+        name="solid_explorer"/>
+
+    <!-- Speedtest -->
+    <item
+        class="com.ookla.mobile4.screens.main.MainActivity"
+        name="speedtest"/>
+
+    <!-- Spotify -->
+    <item
+        class="com.spotify.music.MainActivity"
+        name="spotify"/>
+
+    <!-- Steam -->
+    <item
+        class="com.valvesoftware.android.steam.community.activity.MainActivity"
+        name="steam"/>
+
+    <!-- Stingle Photos -->
+    <item
+        class="org.stingle.photos.GalleryActivity"
+        name="stingle_photos"/>
+
+    <!-- Strafe -->
+    <item
+        class="com.strafe.android.ui.main.activities.MainActivity"
+        name="strafe"/>
+
+    <!-- Sync for reddit -->
+    <item
+        class="com.laurencedawson.reddit_sync.ui.activities.HomeActivity.Default"
+        name="sync_for_reddit"/>
+
+    <!-- Tachiyomi -->
+    <item
+        class="eu.kanade.tachiyomi.ui.main.MainActivity"
+        name="tachiyomi"/>
+
+    <!-- Takealot -->
+    <item
+        class="fi.android.takealot.clean.presentation.splash.ViewSplashScreenActivity"
+        name="takealot"/>
+
+    <!-- Talon -->
+    <item
+        class="com.klinker.android.twitter_l.activities.MainActivity"
+        name="talon"/>
+
+    <!-- Tasks -->
+    <item
+        class="com.todoroo.astrid.activity.TaskListActivity"
+        name="tasksdotorg"/>
+
+    <!-- Telegram -->
+    <item
+        class="org.telegram.ui.LaunchActivity"
+        name="telegram"/>
+		
+	<!-- Telegram -->
+	<item 
+		class="org.telegram.messenger.DefaultIcon" 
+		name="telegram"/>
+
+    <!-- Threema -->
+    <item
+        class="ch.threema.app.activities.MainActivity"
+        name="threema"/>
+
+    <!-- Tusky -->
+    <item
+        class="com.keylesspalace.tusky.SplashActivity"
+        name="tusky"/>
+
+    <!-- Twitch -->
+    <item
+        class="tv.twitch.android.app.core.LandingActivity"
+        name="twitch"/>
+
+    <!-- Twitter -->
+    <item
+        class="com.twitter.android.StartActivity"
+        name="twitter"/>
+
+    <!-- Uber -->
+    <item
+        class="com.ubercab.presidio.app.core.root.RootActivity"
+        name="uber"/>
+
+    <!-- Unit Lab -->
+    <item
+        class="com.samruston.converter.ui.MainActivity"
+        name="unitlab"/>
+
+    <!-- VLC -->
+    <item
+        class="org.videolan.vlc.StartActivity"
+        name="vlc"/>
+
+    <!-- Wikipedia -->
+    <item
+        class="org.wikipedia.main.MainActivity"
+        name="wikipedia"/>
+
+    <!-- WhatsApp -->
+    <item
+        class="com.whatsapp.Main"
+        name="whatsapp"/>
+
+    <!-- Workflowy -->
+    <item
+        class="com.workflowy.android.MainActivity"
+        name="workflowy"/>
+
+    <!-- YouTube -->
+    <item
+        class="com.google.android.youtube.app.honeycomb.Shell$HomeActivity"
+        name="youtube"/>
+
+    <!-- YouTube Music -->
+    <item
+        class="com.google.android.apps.youtube.music.activities.MusicActivity"
+        name="youtube_music"/>
+		
+		
+	<!-- Popcons -->
+	<item 
+		class="com.wil.popcons.activities.SplashActivity" 
+		name="popcons"/>
+
+	<!-- Delta -->
+	<item 
+		class="website.leifs.delta.activities.SplashActivity" 
+		name="delta_icon_pack"/>
+
+	<!-- Figma -->
+	<item 
+		class="com.figma.figma.MainActivity" 
+		name="figma_mirror"/>
+		
+	<!-- Sync Pro -->
+	<item 
+		class="com.laurencedawson.reddit_sync.ui.activities.HomeActivity.Default" 
+		name="sync_pro" />
+		
+	<!-- Syncthing-Fork -->
+	<item 
+		class="com.nutomic.syncthingandroid.activities.FirstStartActivity" 
+		name="syncthing_fork"/>
+		
+	<!-- Logseq -->
+	<item 
+		class="com.logseq.app.MainActivity" 
+		name="logseq"/>
+	
+	<!-- Productivity -->
+	<item 
+		class="com.apps.adrcotfas.goodtime.main.TimerActivity" 
+		name="goodtime_productivity"/>
+
+	<!-- TickTick -->
+	<item class="com.ticktick.task.activity.MeTaskActivity" name="tick__tick"/>
+	
+	<!-- GoneMAD -->
+	<item class="gonemad.gmmp.ui.main.MainActivity" name="gonemad_music_player"/>
+	
+	<!-- Glassdoor -->
+	<item class="com.glassdoor.app.launch.activities.LaunchActivity" name="glassdoor"/>
+
+	<!-- Open Radio -->
+	<item class="com.yuriy.openradio.mobile.view.activity.MainActivity" name="open_radio"/>
+
+	<!-- Pano Scrobbler -->
+	<item class="com.arn.scrobble.MainActivity" name="pano_scrobbler"/>
+
+	<!-- PPSSPP -->
+	<item class="org.ppsspp.ppsspp.PpssppActivity" name="ppsspp"/>
+
+	<!-- AetherSX2 -->
+	<item class="xyz.aethersx2.android.MainActivity" name="aethersx2"/>
+
+	<!-- Photok -->
+	<item class="dev.leonlatsch.photok.MainLauncher" name="photok"/>
+
+	<!-- PNet -->
+	<item class="com.stepstone.feature.splash.presentation.view.SCSplashActivity" name="pnet"/>
+
+	<!-- Findroid -->
+	<item class="dev.jdtech.jellyfin.MainActivity" name="findroid"/>
+
+	<!-- Unified Remote Full -->
+	<item class="com.unified.v3.frontend.views.MainActivity" name="unified_remote_full"/>
+
+    <!-- Other -->
+
+    <!-- Contacts App -->
+    <item
+        class="com.android.contacts.DialtactsContactsEntryActivity"
+        name="people" />
+		
+	<!-- Telephone -->
+	<item class="com.android.dialer.main.impl.MainActivity" name="telephone"/>
+
+
+</appmap>
