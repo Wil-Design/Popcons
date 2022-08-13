@@ -9,13 +9,13 @@ A free icon pack that's round and has some colourrrrrr.
 
 ---
 
-## Request icons
+### Request icons
 
 If you have icons that you wanted to get themed, please request icons using the Icon Request tool in the app!
 
 ---
 
-## Contact Me
+### Contact Me
 
 - [Masstodon](https://fosstodon.org/@wil)
 - **Threema**: WYZR6RC3
@@ -23,18 +23,18 @@ If you have icons that you wanted to get themed, please request icons using the 
 
 ---
 
-## Tips for creating your own icons (Adobe Illustrator)
+### Tips for creating your own icons (Adobe Illustrator)
 
 <sup>*Use **base.ai** / **base-light.ai** depending on the original icon's colour scheme.*</sup>
 
 <sup>You can use something like [Coolors](https://www.coolors.co/) for colour assistance.</sup>
 
-### Gradient
+#### Gradient
 
 - **Bottom left** colour is the same as the icon's default colour.
 - **Top right** gradient is *1* shade lighter.
 
-### Icon glyphs
+#### Icon glyphs
 
 - Max width / height of 440.
 - Shadow
@@ -47,4 +47,5 @@ If you have icons that you wanted to get themed, please request icons using the 
   
 ---
 
+<img src="https://raw.githubusercontent.com/Wil-Design/Popcons/main/githubmedia/app-icon.png" alt="Popcons Icon" height="96">
 Popcons is made using [Candybar FOSS](https://github.com/Donnnno/candybar-foss).
