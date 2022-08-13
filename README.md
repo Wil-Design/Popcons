@@ -1,5 +1,5 @@
 # Popcons
-<img src="https://raw.githubusercontent.com/Wil-Design/Popcons/main/githubmedia/app-icon.png" alt="Popcons Icon" height="132">
+<img src="https://raw.githubusercontent.com/Wil-Design/Popcons/main/githubmedia/play-store-banner.png" alt="Popcons Banner">
 
 A free icon pack that's round and has some colourrrrrr.
 
