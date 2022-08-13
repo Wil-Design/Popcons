@@ -1,5 +1,5 @@
 # Popcons
-![Popcons Icon](https://raw.githubusercontent.com/Wil-Design/Popcons/main/githubmedia/app-icon.png | width=100)
+[<img src="https://raw.githubusercontent.com/Wil-Design/Popcons/main/githubmedia/app-icon.png" alt="Popcons Icon" height="132">]
 
 A free icon pack that's round and has some colourrrrrr.
 
