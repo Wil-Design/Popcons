@@ -369,6 +369,9 @@
         component="ComponentInfo{mega.privacy.android.app/mega.privacy.android.app.lollipop.ManagerActivityLollipop}"
         drawable="mega"/>
 
+	<!-- MEGA -->
+	<item component="ComponentInfo{mega.privacy.android.app/mega.privacy.android.app.main.ManagerActivity}" drawable="mega" />
+
     <!-- Microsoft SwiftKey Keyboard -->
     <item
         component="ComponentInfo{com.touchtype.swiftkey/com.touchtype.LauncherActivityIcon}"
@@ -899,7 +902,6 @@
         component="ComponentInfo{com.kizitonwose.lasttime/com.kizitonwose.lasttime.feature.home.HomeActivity}"
         drawable="time__jot"/>
 
-
     <!-- AdAway -->
     <item
         component="ComponentInfo{org.adaway/org.adaway.ui.home.HomeActivity}"
@@ -998,6 +1000,10 @@
 
 	<!-- Unified Remote Full -->
 	<item component="ComponentInfo{com.Relmtech.RemotePaid/com.unified.v3.frontend.views.MainActivity}" drawable="unified_remote_full" />
+	
+	<!-- Seal -->
+	<item component="ComponentInfo{com.junkfood.seal/com.junkfood.seal.MainActivity}" drawable="seal" />
+
 
     <!-- Other -->
 

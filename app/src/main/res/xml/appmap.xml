@@ -385,6 +385,9 @@
         class="mega.privacy.android.app.lollipop.ManagerActivityLollipop"
         name="mega"/>
 
+	<!-- MEGA -->
+	<item class="mega.privacy.android.app.main.ManagerActivity" name="mega"/>
+
     <!-- Messages -->
     <item
         class="com.android.mms.ui.ConversationComposer"
@@ -718,6 +721,9 @@
 
 	<!-- Unified Remote Full -->
 	<item class="com.unified.v3.frontend.views.MainActivity" name="unified_remote_full"/>
+
+	<!-- Seal -->
+	<item class="com.junkfood.seal.MainActivity" name="seal"/>
 
     <!-- Other -->
 

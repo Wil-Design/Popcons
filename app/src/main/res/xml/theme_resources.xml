@@ -419,6 +419,9 @@
         name="mega.privacy.android.app/mega.privacy.android.app.lollipop.ManagerActivityLollipop"
         image="mega"/>
 
+	<!-- MEGA -->
+	<AppIcon name="mega.privacy.android.app/mega.privacy.android.app.main.ManagerActivity" image="mega"/>
+
     <!-- Messages -->
     <AppIcon
         name="com.samsung.android.messaging/com.android.mms.ui.ConversationComposer"
@@ -726,6 +729,9 @@
 
 	<!-- Unified Remote Full -->
 	<AppIcon name="com.Relmtech.RemotePaid/com.unified.v3.frontend.views.MainActivity" image="unified_remote_full"/>
+
+	<!-- Seal -->
+	<AppIcon name="com.junkfood.seal/com.junkfood.seal.MainActivity" image="seal"/>
 
 
     <!-- Other -->
