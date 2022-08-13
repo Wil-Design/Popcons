@@ -1,8 +1,11 @@
-# Popcons
 <img src="https://raw.githubusercontent.com/Wil-Design/Popcons/main/githubmedia/play-store-banner.png" alt="Popcons Banner">
 
+# Popcons
 A free icon pack that's round and has some colourrrrrr.
+- Supports multiple launchers thanks to an amazing dashboard by *Dani Mahardhika*, [Zixpo](https://github.com/zixpo) and [Donno](https://github.com/Donnnno).
+- 227 themed icons.
 
+Sounds good?
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=com.wil.popcons)
 
 ---
@@ -15,7 +18,7 @@ A free icon pack that's round and has some colourrrrrr.
 
 ### Gradient
 
-- **Bottom right** colour is the same as the icon's default colour.
+- **Bottom left** colour is the same as the icon's default colour.
 - **Top right** gradient is *1* shade lighter.
 
 ### Icon glyphs
@@ -28,6 +31,14 @@ A free icon pack that's round and has some colourrrrrr.
   - **Blur:** 56px
   - **Mode:** Multiply
   - **Colour:** #000000
+  
+---
+
+# Contact Me
+
+- [Masstodon](https://fosstodon.org/@wil)
+- **Threema**: WYZR6RC3
+- **Matrix**: @wilard:matrix.org
 
 ---
 
