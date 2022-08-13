@@ -1,10 +1,9 @@
 # Popcons
-
-<img src="https://raw.githubusercontent.com/Wil-Design/Popcons/main/githubmedia/app-icon.png" alt="Popcons" style="zoom:25%;" />
+![Popcons Icon](https://raw.githubusercontent.com/Wil-Design/Popcons/main/githubmedia/app-icon.png | width=100)
 
 A free icon pack that's round and has some colourrrrrr.
 
-Download the pack on the [Play Store](https://play.google.com/store/apps/details?id=com.wil.popcons) or check out the latest releases on Github.
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=com.wil.popcons)
 
 ---
 
