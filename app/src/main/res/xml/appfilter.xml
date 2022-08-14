@@ -1004,6 +1004,9 @@
 	<!-- Seal -->
 	<item component="ComponentInfo{com.junkfood.seal/com.junkfood.seal.MainActivity}" drawable="seal" />
 
+	<!-- Relay Pro -->
+	<item component="ComponentInfo{reddit.news/reddit.news.RedditNavigation}" drawable="relay_for_reddit" />
+
 
     <!-- Other -->
 

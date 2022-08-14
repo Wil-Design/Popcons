@@ -733,6 +733,9 @@
 	<!-- Seal -->
 	<AppIcon name="com.junkfood.seal/com.junkfood.seal.MainActivity" image="seal"/>
 
+	<!-- Relay Pro -->
+	<AppIcon name="reddit.news/reddit.news.RedditNavigation" image="relay_for_reddit"/>
+
 
     <!-- Other -->
 

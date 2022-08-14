@@ -725,6 +725,9 @@
 	<!-- Seal -->
 	<item class="com.junkfood.seal.MainActivity" name="seal"/>
 
+	<!-- Relay Pro -->
+	<item class="reddit.news.RedditNavigation" name="relay_for_reddit"/>
+
     <!-- Other -->
 
     <!-- Contacts App -->
