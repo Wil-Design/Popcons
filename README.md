@@ -48,4 +48,6 @@ If you have icons that you wanted to get themed, please request icons using the 
 ---
 
 <img src="https://raw.githubusercontent.com/Wil-Design/Popcons/main/githubmedia/app-icon.png" alt="Popcons Icon" height="96">
-Popcons is made using [Candybar FOSS](https://github.com/Donnnno/candybar-foss).
+
+Popcons is made using [Candybar FOSS](https://www.github.com/Donnnno/candybar-foss/). 
+Icons are licenced under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) ](https://creativecommons.org/licenses/by-sa/4.0/).
