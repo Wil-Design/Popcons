@@ -2,7 +2,7 @@
 <resources>
 
     <!-- Leave empty if you don't want to show changelog date -->
-    <string name="changelog_date">13 August 2022</string>
+    <string name="changelog_date">21 August 2022</string>
 
     <!-- Changelog support html formatting
     * <b> for Bold
@@ -10,10 +10,9 @@
     * <u> for Underline
     * <a href="linkUrl">Link Text</a> for links -->
     <string-array name="changelog">
-        <item>Added 13 icons</item>
+        <item>Added 47 icons.</item>
         <item>Fixed some icons not applying.</item>
-        <item>Send icon requests!</item>
-        <item>Thank <b>Mr. Donnno</b> for all the help!</item>
+        <item>Thanks everyone for the requests!</item>
         <!-- <item>
             <![CDATA[
             Formatted Changelog with <u>Underline</u>, <b>Bold</b>, <i>Italic</i> and <a href="https://your.link.here">Link</a>.

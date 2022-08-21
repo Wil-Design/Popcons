@@ -140,6 +140,9 @@
         class="com.discord.app.AppActivity$Main"
         name="discord"/>
 
+	<!-- Discord -->
+	<item class="com.discord.main.MainActivity" name="discord"/>
+
     <!-- Download Navi -->
     <item
         class="com.tachibana.downloader.ui.main.MainActivity"
@@ -728,7 +731,155 @@
 	<!-- Relay Pro -->
 	<item class="reddit.news.RedditNavigation" name="relay_for_reddit"/>
 
+	<!-- AntennaPod -->
+	<item class="de.danoeh.antennapod.activity.SplashActivity" name="antennapod"/>
+
+	<!-- Telegram -->
+	<item class="org.telegram.messenger.DefaultIcon" name="telegram"/>
+
+	<!-- PixelDroid -->
+	<item class="org.pixeldroid.app.MainActivity" name="pixeldroid"/>
+
+	<!-- WordPress -->
+	<item class="org.wordpress.android.ui.WPLaunchActivity" name="wordpress"/>
+
+	<!-- Session -->
+	<item class="network.loki.messenger.RoutingActivity" name="session"/>
+
+	<!-- Snapdrop -->
+	<item class="com.fmsys.snapdrop.MainActivity" name="snapdrop"/>
+
+	<!-- Simplenote -->
+	<item class="com.automattic.simplenote.NotesActivity" name="simplenote"/>
+
+	<!-- Tutanota -->
+	<item class="de.tutao.tutanota.MainActivity" name="tutanota"/>
+
+	<!-- Briar -->
+	<item class="org.briarproject.briar.android.splash.SplashScreenActivity" name="briar"/>
+
+	<!-- FairEmail -->
+	<item class="eu.faircode.email.ActivityMain" name="fairemail"/>
+
+	<!-- Reddit -->
+	<item class="launcher.default" name="reddit"/>
+
+	<!-- Zedge -->
+	<item class="net.zedge.android.MainDefault" name="zedge"/>
+
+	<!-- BBC News -->
+	<item class="bbc.mobile.news.v3.ui.splash.SplashActivity" name="bbc_news"/>
+
+	<!-- BBC Weather -->
+	<item class="bbc.mobile.weather.ui.main.MainActivity" name="bbc_weather"/>
+
+	<!-- Castbox -->
+	<item class="fm.castbox.audio.radio.podcast.ui.main.MainActivity" name="castbox"/>
+
+	<!-- eBay -->
+	<item class="com.ebay.mobile.activities.MainActivity" name="ebay"/>
+
+	<!-- YouTube Vanced -->
+	<item class="com.google.android.youtube.app.honeycomb.Shell$HomeActivity" name="youtube_vanced"/>
+
+	<!-- GitHub -->
+	<item class="com.github.android.activities.MainActivity" name="github"/>
+
+	<!-- Amazon -->
+	<item class="com.amazon.mShop.home.HomeActivity" name="amazon"/>
+
+	<!-- Axis Mobile -->
+	<item class="com.axis.mobile.MainActivity" name="axis_mobile"/>
+
+	<!-- Rewards -->
+	<item class="com.google.android.apps.paidtasks.activity.LaunchActivity" name="rewards"/>
+
+	<!-- NewPipe SponsorBlock -->
+	<item class="org.schabi.newpipe.MainActivity" name="newpipe_sponsorblock"/>
+
+	<!-- Netflix -->
+	<item class="com.netflix.mediaclient.ui.launch.UIWebViewActivity" name="netflix"/>
+
+	<!-- TC -->
+	<item class="eu.faircode.netguard.ActivityMain" name="trackercontrol"/>
+
+	<!-- Termux -->
+	<item class="com.termux.app.TermuxActivity" name="termux"/>
+
+	<!-- MiX -->
+	<item class="com.mixplorer.activities.BrowseActivity" name="mixplorer"/>
+	
+	<!-- PhonePe -->
+	<item class="com.phonepe.app.v4.nativeapps.splash.Navigator_SplashActivity" name="phonepe"/>
+
+	<!-- Paytm -->
+	<item class="net.one97.paytm.app.LauncherActivity" name="paytm"/>
+
+	<!-- KWGT -->
+	<item class="org.kustom.widget.picker.WidgetPicker" name="kwgt"/>
+
+	<!-- KWGT Pro -->
+	<item class="org.kustom.pro.MainActivity" name="kwgt"/>
+
+	<!-- Teams -->
+	<item class="com.microsoft.skype.teams.Launcher" name="teams"/>
+
+	<!-- Venmo -->
+	<item class="com.venmo.TabCentralActivity" name="venmo"/>
+
+	<!-- Wear OS -->
+	<item class="com.google.android.clockwork.companion.launcher.LauncherActivity" name="wear_os"/>
+
+	<!-- Wallet -->
+	<item class="com.google.commerce.tapandpay.android.wallet.WalletActivity" name="google_wallet"/>
+
+	<!-- Fenix -->
+	<item class="it.mvilla.android.fenix2.login.WelcomeActivity" name="fenix_for_twitter"/>
+
+	<!-- Podcast Republic -->
+	<item class="com.itunestoppodcastplayer.app.StartupActivity" name="podcast_republic"/>
+
+	<!-- SeriesGuide -->
+	<item class="com.battlelancer.seriesguide.ui.ShowsActivity" name="seriesguide"/>
+
+	<!-- Proton Mail -->
+	<item class="ch.protonmail.android.mailbox.presentation.ui.MailboxActivity" name="proton_mail"/>
+
+	<!-- KLWP -->
+	<item class="org.kustom.app.OnBoardingActivity" name="klwp"/>
+
+	<!-- Google TV -->
+	<item class="com.google.android.videos.GoogleTvEntryPoint" name="google_tv"/>
+
+	<!-- Stadia -->
+	<item class="com.google.chrome.cloudcast.client.mobile.android.MobileActivity" name="stadia"/>
+
+	<!-- Google Docs -->
+	<item class="com.google.android.apps.docs.app.NewMainProxyActivity" name="google_docs"/>
+
+	<!-- Google Home -->
+	<item class="com.google.android.apps.chromecast.app.DiscoveryActivity" name="google_home"/>
+
+	<!-- AppBar -->
+	<item class="rk.android.app.appbar.activities.launch.LaunchActivity" name="appbar"/>
+
+	<!-- Auxio -->
+	<item class="org.oxycblt.auxio.MainActivity" name="auxio"/>
+
+	<!-- Musicolet -->
+	<item class="in.krosbits.musicolet.MusicActivity" name="musicolet"/>
+	
+	<!-- Muzei -->
+	<item class="com.google.android.apps.muzei.MuzeiActivity" name="muzei"/>
+
+	<!-- Samsung Music -->
+	<item class="com.sec.android.app.music.common.activity.MusicMainActivity" name="samsung_music"/>
+
+
     <!-- Other -->
+
+	<!-- Caamera -->
+	<item class="com.motorola.camera.Camera" name="camera"/>
 
     <!-- Contacts App -->
     <item
@@ -737,6 +888,9 @@
 		
 	<!-- Telephone -->
 	<item class="com.android.dialer.main.impl.MainActivity" name="telephone"/>
+
+	<!-- Phone -->
+	<item class="com.google.android.dialer.extensions.GoogleDialtactsActivity" name="phone"/>
 
 
 </appmap>

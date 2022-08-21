@@ -21,10 +21,10 @@
         CONFIG: MUZEI
     -->
     <!-- Muzei art source name -->
-    <string name="muzei_art_source_name">Your Art Source Name</string>
+    <string name="muzei_art_source_name">Popcons</string>
 
     <!-- Muzei art source description -->
-    <string name="muzei_art_source_desc">Your Art Source Description</string>
+    <string name="muzei_art_source_desc">Wallpapers from Popcons.</string>
 
     <!-- Muzei base color -->
     <color name="muzei_color">#0082B4</color>

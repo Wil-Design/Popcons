@@ -18,7 +18,6 @@
     <item component=":SMS" drawable="messaging" />
     <item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="app_drawer" />
 
-    <item component="ComponentInfo{some.app.sample/some.app.sample.MainActivity}" drawable="some_app" />
     <!-- AccuWeather -->
     <item
         component="ComponentInfo{com.accuweather.android/com.accuweather.android.activities.SplashActivity}"
@@ -123,6 +122,10 @@
     <item
         component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}"
         drawable="discord"/>
+
+	<!-- Discord -->
+	<item component="ComponentInfo{com.discord/com.discord.main.MainActivity}" drawable="discord" />
+
 
     <!-- Download Navi -->
     <item
@@ -567,6 +570,9 @@
 		component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.DefaultIcon}" 
 		drawable="telegram" />
 
+	<!-- Telegram -->
+	<item component="ComponentInfo{org.telegram.messenger.web/org.telegram.messenger.DefaultIcon}" drawable="telegram" />
+
     <!-- Threema -->
     <item
         component="ComponentInfo{ch.threema.app/ch.threema.app.activities.MainActivity}"
@@ -1006,7 +1012,147 @@
 
 	<!-- Relay Pro -->
 	<item component="ComponentInfo{reddit.news/reddit.news.RedditNavigation}" drawable="relay_for_reddit" />
+	
+	<!-- AntennaPod -->
+	<item component="ComponentInfo{de.danoeh.antennapod/de.danoeh.antennapod.activity.SplashActivity}" drawable="antennapod" />
 
+	<!-- PixelDroid -->
+	<item component="ComponentInfo{org.pixeldroid.app/org.pixeldroid.app.MainActivity}" drawable="pixeldroid" />
+
+	<!-- WordPress -->
+	<item component="ComponentInfo{org.wordpress.android/org.wordpress.android.ui.WPLaunchActivity}" drawable="wordpress" />
+
+	<!-- Session -->
+	<item component="ComponentInfo{network.loki.messenger/network.loki.messenger.RoutingActivity}" drawable="session" />
+
+	<!-- Snapdrop -->
+	<item component="ComponentInfo{com.fmsys.snapdrop/com.fmsys.snapdrop.MainActivity}" drawable="snapdrop" />
+
+	<!-- Simplenote -->
+	<item component="ComponentInfo{com.automattic.simplenote/com.automattic.simplenote.NotesActivity}" drawable="simplenote" />
+
+	<!-- Tutanota -->
+	<item component="ComponentInfo{de.tutao.tutanota/de.tutao.tutanota.MainActivity}" drawable="tutanota" />
+
+	<!-- Briar -->
+	<item component="ComponentInfo{org.briarproject.briar.android/org.briarproject.briar.android.splash.SplashScreenActivity}" drawable="briar" />
+
+	<!-- FairEmail -->
+	<item component="ComponentInfo{eu.faircode.email/eu.faircode.email.ActivityMain}" drawable="fairemail" />
+
+	<!-- Reddit -->
+	<item component="ComponentInfo{com.reddit.frontpage/launcher.default}" drawable="reddit" />
+
+	<!-- Zedge -->
+	<item component="ComponentInfo{net.zedge.android/net.zedge.android.MainDefault}" drawable="zedge" />
+
+	<!-- BBC News -->
+	<item component="ComponentInfo{bbc.mobile.news.uk/bbc.mobile.news.v3.ui.splash.SplashActivity}" drawable="bbc_news" />
+
+	<!-- BBC Weather -->
+	<item component="ComponentInfo{bbc.mobile.weather/bbc.mobile.weather.ui.main.MainActivity}" drawable="bbc_weather" />
+
+	<!-- Castbox -->
+	<item component="ComponentInfo{fm.castbox.audiobook.radio.podcast/fm.castbox.audio.radio.podcast.ui.main.MainActivity}" drawable="castbox" />
+
+	<!-- eBay -->
+	<item component="ComponentInfo{com.ebay.mobile/com.ebay.mobile.activities.MainActivity}" drawable="ebay" />
+
+	<!-- YouTube Vanced -->
+	<item component="ComponentInfo{com.vanced.android.youtube/com.google.android.youtube.app.honeycomb.ShellHomeActivity}" drawable="youtube_vanced" />
+
+	<!-- GitHub -->
+	<item component="ComponentInfo{com.github.android/com.github.android.activities.MainActivity}" drawable="github" />
+
+	<!-- Amazon -->
+	<item component="ComponentInfo{in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazon" />
+
+	<!-- Axis Mobile -->
+	<item component="ComponentInfo{com.axis.mobile/com.axis.mobile.MainActivity}" drawable="axis_mobile" />
+
+	<!-- Rewards -->
+	<item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity}" drawable="rewards" />
+
+	<!-- NewPipe SponsorBlock -->
+	<item component="ComponentInfo{org.polymorphicshade.newpipe/org.schabi.newpipe.MainActivity}" drawable="newpipe_sponsorblock" />
+
+	<!-- Netflix -->
+	<item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}" drawable="netflix" />
+
+	<!-- TC -->
+	<item component="ComponentInfo{net.kollnig.missioncontrol.fdroid/eu.faircode.netguard.ActivityMain}" drawable="trackercontrol" />
+
+	<!-- Termux -->
+	<item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="termux" />
+
+	<!-- MiX -->
+	<item component="ComponentInfo{com.mixplorer.silver/com.mixplorer.activities.BrowseActivity}" drawable="mixplorer" />
+
+	<!-- PhonePe -->
+	<item component="ComponentInfo{com.phonepe.app/com.phonepe.app.v4.nativeapps.splash.Navigator_SplashActivity}" drawable="phonepe" />
+
+	<!-- Paytm -->
+	<item component="ComponentInfo{net.one97.paytm/net.one97.paytm.app.LauncherActivity}" drawable="paytm" />
+
+	<!-- KWGT -->
+	<item component="ComponentInfo{org.kustom.widget/org.kustom.widget.picker.WidgetPicker}" drawable="kwgt" />
+
+	<!-- KWGT Pro -->
+	<item component="ComponentInfo{org.kustom.widget.pro/org.kustom.pro.MainActivity}" drawable="kwgt" />
+
+	<!-- Teams -->
+	<item component="ComponentInfo{com.microsoft.teams/com.microsoft.skype.teams.Launcher}" drawable="teams" />
+
+	<!-- Venmo -->
+	<item component="ComponentInfo{com.venmo/com.venmo.TabCentralActivity}" drawable="venmo" />
+
+	<!-- Wear OS -->
+	<item component="ComponentInfo{com.google.android.wearable.app/com.google.android.clockwork.companion.launcher.LauncherActivity}" drawable="wear_os" />
+
+	<!-- Wallet -->
+	<item component="ComponentInfo{com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.wallet.WalletActivity}" drawable="google_wallet" />
+
+	<!-- Fenix -->
+	<item component="ComponentInfo{it.mvilla.android.fenix2/it.mvilla.android.fenix2.login.WelcomeActivity}" drawable="fenix_for_twitter" />
+
+	<!-- Podcast Republic -->
+	<item component="ComponentInfo{com.itunestoppodcastplayer.app/com.itunestoppodcastplayer.app.StartupActivity}" drawable="podcast_republic" />
+
+	<!-- SeriesGuide -->
+	<item component="ComponentInfo{com.battlelancer.seriesguide/com.battlelancer.seriesguide.ui.ShowsActivity}" drawable="seriesguide" />
+
+	<!-- Proton Mail -->
+	<item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.mailbox.presentation.ui.MailboxActivity}" drawable="proton_mail" />
+
+	<!-- KLWP -->
+	<item component="ComponentInfo{org.kustom.wallpaper/org.kustom.app.OnBoardingActivity}" drawable="klwp" />
+
+	<!-- Google TV -->
+	<item component="ComponentInfo{com.google.android.videos/com.google.android.videos.GoogleTvEntryPoint}" drawable="google_tv" />
+
+	<!-- Stadia -->
+	<item component="ComponentInfo{com.google.stadia.android/com.google.chrome.cloudcast.client.mobile.android.MobileActivity}" drawable="stadia" />
+
+	<!-- Google Docs -->
+	<item component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="google_docs" />
+
+	<!-- Home -->
+	<item component="ComponentInfo{com.google.android.apps.chromecast.app/com.google.android.apps.chromecast.app.DiscoveryActivity}" drawable="google_home" />
+
+	<!-- AppBar -->
+	<item component="ComponentInfo{rk.android.app.appbar/rk.android.app.appbar.activities.launch.LaunchActivity}" drawable="appbar" />
+
+	<!-- Auxio -->
+	<item component="ComponentInfo{org.oxycblt.auxio/org.oxycblt.auxio.MainActivity}" drawable="auxio" />
+
+	<!-- Musicolet -->
+	<item component="ComponentInfo{in.krosbits.musicolet/in.krosbits.musicolet.MusicActivity}" drawable="musicolet" />
+
+	<!-- Muzei -->
+	<item component="ComponentInfo{net.nurik.roman.muzei/com.google.android.apps.muzei.MuzeiActivity}" drawable="muzei" />
+
+	<!-- Samsung Music -->
+	<item component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.common.activity.MusicMainActivity}" drawable="samsung_music" />
 
     <!-- Other -->
 
@@ -1038,6 +1184,8 @@
     <item
         component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}"
         drawable="camera"/>
+
+	<item component="ComponentInfo{com.motorola.camera2/com.motorola.camera.Camera}" drawable="camera" />
 
     <!-- Contacts -->
     <item
@@ -1098,6 +1246,9 @@
 
 	<!-- Telephone -->
 	<item component="ComponentInfo{com.android.dialer/com.android.dialer.main.impl.MainActivity}" drawable="phone" />
+
+	<!-- Phone -->
+	<item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="phone" />
 
 
 </resources>

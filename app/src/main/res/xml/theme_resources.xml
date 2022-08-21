@@ -129,11 +129,6 @@
         name="com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity"
         image="calendar"/>
 
-    <!-- Camera -->
-    <AppIcon
-        name="com.sec.android.app.camera/com.sec.android.app.camera.Camera"
-        image="camera"/>
-
     <!-- Chess -->
     <AppIcon
         name="com.chess/com.chess.splash.SplashActivity"
@@ -173,6 +168,9 @@
     <AppIcon
         name="com.discord/com.discord.app.AppActivity$Main"
         image="discord"/>
+
+	<!-- Discord -->
+	<AppIcon name="com.discord/com.discord.main.MainActivity" image="discord"/>
 
     <!-- Download Navi -->
     <AppIcon
@@ -736,8 +734,163 @@
 	<!-- Relay Pro -->
 	<AppIcon name="reddit.news/reddit.news.RedditNavigation" image="relay_for_reddit"/>
 
+	<!-- AntennaPod -->
+	<AppIcon name="de.danoeh.antennapod/de.danoeh.antennapod.activity.SplashActivity" image="antennapod"/>
+
+	<!-- Telegram -->
+	<AppIcon name="org.telegram.messenger.web/org.telegram.messenger.DefaultIcon" image="telegram"/>
+
+	<!-- PixelDroid -->
+	<AppIcon name="org.pixeldroid.app/org.pixeldroid.app.MainActivity" image="pixeldroid"/>
+
+	<!-- WordPress -->
+	<AppIcon name="org.wordpress.android/org.wordpress.android.ui.WPLaunchActivity" image="wordpress"/>
+
+	<!-- Session -->
+	<AppIcon name="network.loki.messenger/network.loki.messenger.RoutingActivity" image="session"/>
+
+	<!-- Snapdrop -->
+	<AppIcon name="com.fmsys.snapdrop/com.fmsys.snapdrop.MainActivity" image="snapdrop"/>
+
+	<!-- Simplenote -->
+	<AppIcon name="com.automattic.simplenote/com.automattic.simplenote.NotesActivity" image="simplenote"/>
+
+	<!-- Tutanota -->
+	<AppIcon name="de.tutao.tutanota/de.tutao.tutanota.MainActivity" image="tutanota"/>
+
+	<!-- Briar -->
+	<AppIcon name="org.briarproject.briar.android/org.briarproject.briar.android.splash.SplashScreenActivity" image="briar"/>
+
+	<!-- FairEmail -->
+	<AppIcon name="eu.faircode.email/eu.faircode.email.ActivityMain" image="fairemail"/>
+
+	<!-- Reddit -->
+	<AppIcon name="com.reddit.frontpage/launcher.default" image="reddit"/>
+
+	<!-- Zedge -->
+	<AppIcon name="net.zedge.android/net.zedge.android.MainDefault" image="zedge"/>
+
+	<!-- BBC News -->
+	<AppIcon name="bbc.mobile.news.uk/bbc.mobile.news.v3.ui.splash.SplashActivity" image="bbc_news"/>
+
+	<!-- BBC Weather -->
+	<AppIcon name="bbc.mobile.weather/bbc.mobile.weather.ui.main.MainActivity" image="bbc_weather"/>
+
+	<!-- Castbox -->
+	<AppIcon name="fm.castbox.audiobook.radio.podcast/fm.castbox.audio.radio.podcast.ui.main.MainActivity" image="castbox"/>
+
+	<!-- eBay -->
+	<AppIcon name="com.ebay.mobile/com.ebay.mobile.activities.MainActivity" image="ebay"/>
+
+	<!-- YouTube Vanced -->
+	<AppIcon name="com.vanced.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity" image="youtube_vanced"/>
+
+	<!-- GitHub -->
+	<AppIcon name="com.github.android/com.github.android.activities.MainActivity" image="github"/>
+
+	<!-- Amazon -->
+	<AppIcon name="in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity" image="amazon"/>
+
+	<!-- Axis Mobile -->
+	<AppIcon name="com.axis.mobile/com.axis.mobile.MainActivity" image="axis_mobile"/>
+
+	<!-- Rewards -->
+	<AppIcon name="com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity" image="rewards"/>
+
+	<!-- NewPipe SponsorBlock -->
+	<AppIcon name="org.polymorphicshade.newpipe/org.schabi.newpipe.MainActivity" image="newpipe_sponsorblock"/>
+
+	<!-- Netflix -->
+	<AppIcon name="com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity" image="netflix"/>
+
+	<!-- TC -->
+	<AppIcon name="net.kollnig.missioncontrol.fdroid/eu.faircode.netguard.ActivityMain" image="tc"/>
+
+	<!-- Termux -->
+	<AppIcon name="com.termux/com.termux.app.TermuxActivity" image="termux"/>
+
+	<!-- MiX -->
+	<AppIcon name="com.mixplorer.silver/com.mixplorer.activities.BrowseActivity" image="mixplorer"/>
+
+	<!-- PhonePe -->
+	<AppIcon name="com.phonepe.app/com.phonepe.app.v4.nativeapps.splash.Navigator_SplashActivity" image="phonepe"/>
+
+	<!-- Phone -->
+	<AppIcon name="com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity" image="phone"/>
+
+	<!-- Paytm -->
+	<AppIcon name="net.one97.paytm/net.one97.paytm.app.LauncherActivity" image="paytm"/>
+
+	<!-- KWGT -->
+	<AppIcon name="org.kustom.widget/org.kustom.widget.picker.WidgetPicker" image="kwgt"/>
+
+	<!-- KWGT Pro -->
+	<AppIcon name="org.kustom.widget.pro/org.kustom.pro.MainActivity" image="kwgt"/>
+
+	<!-- Teams -->
+	<AppIcon name="com.microsoft.teams/com.microsoft.skype.teams.Launcher" image="teams"/>
+
+	<!-- Venmo -->
+	<AppIcon name="com.venmo/com.venmo.TabCentralActivity" image="venmo"/>
+
+	<!-- Wear OS -->
+	<AppIcon name="com.google.android.wearable.app/com.google.android.clockwork.companion.launcher.LauncherActivity" image="wear_os"/>
+
+	<!-- Wallet -->
+	<AppIcon name="com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.wallet.WalletActivity" image="google_wallet"/>
+
+	<!-- Fenix -->
+	<AppIcon name="it.mvilla.android.fenix2/it.mvilla.android.fenix2.login.WelcomeActivity" image="fenix_for_twitter"/>
+
+	<!-- Podcast Republic -->
+	<AppIcon name="com.itunestoppodcastplayer.app/com.itunestoppodcastplayer.app.StartupActivity" image="podcast_republic"/>
+
+	<!-- SeriesGuide -->
+	<AppIcon name="com.battlelancer.seriesguide/com.battlelancer.seriesguide.ui.ShowsActivity" image="seriesguide"/>
+
+	<!-- Proton Mail -->
+	<AppIcon name="ch.protonmail.android/ch.protonmail.android.mailbox.presentation.ui.MailboxActivity" image="proton_mail"/>
+
+	<!-- KLWP -->
+	<AppIcon name="org.kustom.wallpaper/org.kustom.app.OnBoardingActivity" image="klwp"/>
+
+	<!-- Google TV -->
+	<AppIcon name="com.google.android.videos/com.google.android.videos.GoogleTvEntryPoint" image="google_tv"/>
+
+	<!-- Stadia -->
+	<AppIcon name="com.google.stadia.android/com.google.chrome.cloudcast.client.mobile.android.MobileActivity" image="stadia"/>
+
+	<!-- Google Docs -->
+	<AppIcon name="com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity" image="google_docs"/>
+
+	<!-- Home -->
+	<AppIcon name="com.google.android.apps.chromecast.app/com.google.android.apps.chromecast.app.DiscoveryActivity" image="google_home"/>
+
+	<!-- AppBar -->
+	<AppIcon name="rk.android.app.appbar/rk.android.app.appbar.activities.launch.LaunchActivity" image="appbar"/>
+
+	<!-- Auxio -->
+	<AppIcon name="org.oxycblt.auxio/org.oxycblt.auxio.MainActivity" image="auxio"/>
+
+	<!-- Musicolet -->
+	<AppIcon name="in.krosbits.musicolet/in.krosbits.musicolet.MusicActivity" image="musicolet"/>
+	
+	<!-- Muzei -->
+	<AppIcon name="net.nurik.roman.muzei/com.google.android.apps.muzei.MuzeiActivity" image="muzei"/>
+
+	<!-- Samsung Music -->
+	<AppIcon name="com.sec.android.app.music/com.sec.android.app.music.common.activity.MusicMainActivity" image="samsung_music"/>
+	
 
     <!-- Other -->
+	
+	<!-- Camera -->
+	<AppIcon name="com.motorola.camera2/com.motorola.camera.Camera" image="camera"/>
+	
+    <AppIcon
+        name="com.sec.android.app.camera/com.sec.android.app.camera.Camera"
+        image="camera"/>
+
 
     <!-- Contacts App -->
     <AppIcon
