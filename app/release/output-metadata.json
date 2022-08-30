@@ -11,9 +11,9 @@
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 5,
-      "versionName": "0.5",
-      "outputFile": "popcons-main-v5-release.apk"
+      "versionCode": 7,
+      "versionName": "0.7",
+      "outputFile": "popcons-main-v7-release.apk"
     }
   ],
   "elementType": "File"

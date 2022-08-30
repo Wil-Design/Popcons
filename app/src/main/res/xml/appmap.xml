@@ -875,6 +875,186 @@
 	<!-- Samsung Music -->
 	<item class="com.sec.android.app.music.common.activity.MusicMainActivity" name="samsung_music"/>
 
+	<!-- Skit -->
+	<item class="com.pavelrekun.skit.base.BaseActivity" name="skit"/>
+
+	<!-- Adobe Acrobat -->
+	<item class="com.adobe.reader.AdobeReader" name="adobe_acrobat"/>
+
+	<!-- AI Life -->
+	<item class="com.huawei.smarthome.login.LauncherActivity" name="ai_life"/>
+
+	<!-- Infinity -->
+	<item class="ml.docilealligator.infinityforreddit.activities.MainActivity" name="infinity_for_reddit"/>
+
+	<!-- ADM -->
+	<item class="com.dv.get.Main" name="adm"/>
+
+	<!-- Airtel -->
+	<item class="com.myairtelapp.home.views.activities.SplashScreenActivity" name="airtel"/>
+
+	<!-- Turbo VPN Lite -->
+	<item class="free.vpn.unblock.proxy.turbovpn.activity.LaunchActivity" name="turbo_vpn_lite"/>
+
+	<!-- Swift Backup -->
+	<item class="org.swiftapps.swiftbackup.intro.IntroActivity" name="swift_backup"/>
+
+	<!-- Swiggy -->
+	<item class="in.swiggy.android.activities.HomeActivity" name="swiggy"/>
+
+	<!-- Picsart -->
+	<item class="com.socialin.android.photo.picsinphoto.MainPagerActivity" name="picsart"/>
+
+	<!-- YouTube Music ReVanced -->
+	<item class="com.google.android.apps.youtube.music.activities.MusicActivity" name="youtube_music"/>
+
+	<!-- Find Device -->
+	<item class="com.google.android.apps.adm.activities.MainActivity" name="find_device"/>
+
+	<!-- Proton VPN -->
+	<item class="com.protonvpn.android.ui.onboarding.SplashActivity" name="proton_vpn"/>
+
+	<!-- SAI -->
+	<item class="com.aefyr.sai.ui.activities.MainActivity" name="sai"/>
+
+	<!-- Play Games -->
+	<item class="com.google.android.gms.games.ui.destination.main.MainActivity" name="google_play_games"/>
+
+	<!-- Gallery -->
+	<item class="com.google.android.apps.photosgo.home.HomeActivity" name="google_gallery"/>
+
+	<!-- ShareMe -->
+	<item class="com.xiaomi.midrop.SplashScreen" name="shareme"/>
+
+	<!-- Arcticons Dark -->
+	<item class="com.donnnno.arcticons.activities.SplashActivity" name="arcticons_dark"/>
+
+	<!-- Arcticons Light -->
+	<item class="com.donnnno.arcticons.activities.SplashActivity" name="arcticons_light"/>
+
+	<!-- Office -->
+	<item class="com.microsoft.office.officesuite.OfficeSuiteActivity" name="office"/>
+
+	<!-- DodoCodes -->
+	<item class="com.dodocodes.mobile.MainActivity" name="dodocodes"/>
+
+	<!-- Device care -->
+	<item class="com.samsung.android.sm.ui.DefaultActivity" name="device_care"/>
+
+	<!-- Textra -->
+	<item class="com.mplus.lib.Main_ff006064_bare" name="textra"/>
+
+	<!-- Bixby -->
+	<item class="com.samsung.android.bixby.assistanthome.AssistantHomeLauncherActivity" name="bixby"/>
+
+	<!-- MediaFire -->
+	<item class="com.mediafire.android.ui.authentication.AuthenticationActivity" name="mediafire"/>
+
+	<!-- Allegro -->
+	<item class="pl.allegro.Allegro" name="allegro"/>
+
+	<!-- IKO -->
+	<item class="pl.pkobp.iko.feature.startup.StartupActivity" name="iko"/>
+
+	<!-- InPost Mobile -->
+	<item class="pl.inpost.inmobile.presentation.splashscreen.SplashScreenActivity" name="inpost_mobile"/>
+
+	<!-- OLX.pl -->
+	<item class="pl.tablica2.app.startup.activity.StartupActivity" name="olx"/>
+
+	<!-- Disney+ -->
+	<item class="com.bamtechmedia.dominguez.main.MainActivity" name="disney_"/>
+
+	<!-- Outlook -->
+	<item class="com.microsoft.office.outlook.MainActivity" name="outlook"/>
+
+	<!-- PayPal -->
+	<item class="com.paypal.android.p2pmobile.startup.activities.StartupActivity" name="paypal"/>
+
+	<!-- Beats -->
+	<item class="com.apple.vienna.v3.presentation.welcome.WelcomeActivity" name="beats"/>
+
+	<!-- Bird -->
+	<item class="co.bird.android.app.feature.main.MainActivity" name="bird"/>
+
+	<!-- Cash App -->
+	<item class="com.squareup.cash.ui.MainActivity" name="cashapp"/>
+
+	<!-- Chase -->
+	<item class="com.chase.sig.android.activity.SplashActivity" name="chase"/>
+
+	<!-- RetroArch -->
+	<item class="com.retroarch.browser.mainmenu.MainMenuActivity" name="retroarch"/>
+
+	<!-- Google One -->
+	<item class="com.google.android.apps.subscriptions.red.LauncherActivity" name="google_one"/>
+
+	<!-- DoorDash -->
+	<item class="com.doordash.consumer.ui.login.LauncherActivity" name="doordash"/>
+
+	<!-- GPay -->
+	<item class="com.google.nbu.paisa.flutter.gpay.app.LauncherActivity" name="gpay"/>
+
+	<!-- Google News -->
+	<item class="com.google.apps.dots.android.app.activity.CurrentsStartActivity" name="google_news"/>
+
+	<!-- lichess -->
+	<item class="org.lichess.mobileapp.MainActivity" name="lichess"/>
+
+	<!-- Meet -->
+	<item class="com.google.android.apps.tachyon.MainActivitySecondLauncher" name="meet"/>
+
+	<!-- Emby -->
+	<item class="com.mb.android.MainActivity" name="emby"/>
+
+	<!-- Eurosport -->
+	<item class="com.eurosport.universel.ui.activities.SplashscreenActivity" name="eurosport"/>
+
+	<!-- WA Business -->
+	<item class="com.whatsapp.Main" name="wa_business"/>
+
+	<!-- Yahoo Finance -->
+	<item class="com.yahoo.mobile.client.android.finance.main.MainActivity" name="yahoo_finance"/>
+
+	<!-- PayPal Business -->
+	<item class="com.paypal.merchant.client.features.startup.StartUpActivity" name="paypal_business"/>
+
+	<!-- DAZN -->
+	<item class="com.dazn.splash.view.SplashScreenActivity" name="dazn"/>
+
+	<!-- Aurora Store -->
+	<item class="com.aurora.store.view.ui.onboarding.OnboardingActivity" name="aurora_store"/>
+
+	<!-- AutomaTag -->
+	<item class="activities.MainActivity" name="automatag"/>
+
+	<!-- AppSales -->
+	<item class="net.tsapps.appsales.ui.main.MainActivity" name="appsales"/>
+
+	<!-- BlackPlayer -->
+	<item class="com.kodarkooperativet.blackplayerfree.activities.ViewPagerActivity" name="blackplayer"/>
+
+	<!-- Hulu -->
+	<item class="com.hulu.features.splash.SplashActivity" name="hulu"/>
+
+	<!-- Tinder -->
+	<item class="com.tinder.activities.LoginActivity" name="tinder"/>
+
+	<!-- Kite -->
+	<item class="com.zerodha.kite3.MainActivity" name="kite"/>
+
+	<!-- Telegram X -->
+	<item class="org.thunderdog.challegram.MainActivity" name="telegram_x"/>
+
+	<!-- GIPHY -->
+	<item class="com.giphy.messenger.app.OnboardingActivity" name="giphy"/>
+
+	<!-- Android Auto -->
+	<item class="com.google.android.gearhead.vanagon.VnLaunchPadActivity" name="android_auto"/>
+
+	<!-- Droid-ify -->
+	<item class="com.looker.droidify.MainActivity" name="droid_ify"/>
+
 
     <!-- Other -->
 

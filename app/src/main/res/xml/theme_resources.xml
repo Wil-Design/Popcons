@@ -881,6 +881,186 @@
 	<!-- Samsung Music -->
 	<AppIcon name="com.sec.android.app.music/com.sec.android.app.music.common.activity.MusicMainActivity" image="samsung_music"/>
 	
+	<!-- Skit -->
+	<AppIcon name="com.pavelrekun.skit/com.pavelrekun.skit.base.BaseActivity" image="skit"/>
+
+	<!-- Adobe Acrobat -->
+	<AppIcon name="com.adobe.reader/com.adobe.reader.AdobeReader" image="adobe_acrobat"/>
+
+	<!-- AI Life -->
+	<AppIcon name="com.huawei.smarthome/com.huawei.smarthome.login.LauncherActivity" image="ai_life"/>
+
+	<!-- Infinity -->
+	<AppIcon name="ml.docilealligator.infinityforreddit/ml.docilealligator.infinityforreddit.activities.MainActivity" image="infinity_for_reddit"/>
+
+	<!-- ADM -->
+	<AppIcon name="com.dv.adm/com.dv.get.Main" image="adm"/>
+
+	<!-- Airtel -->
+	<AppIcon name="com.myairtelapp/com.myairtelapp.home.views.activities.SplashScreenActivity" image="airtel"/>
+
+	<!-- Turbo VPN Lite -->
+	<AppIcon name="free.vpn.unblock.proxy.turbovpn.lite/free.vpn.unblock.proxy.turbovpn.activity.LaunchActivity" image="turbo_vpn_lite"/>
+
+	<!-- Swift Backup -->
+	<AppIcon name="org.swiftapps.swiftbackup/org.swiftapps.swiftbackup.intro.IntroActivity" image="swift_backup"/>
+
+	<!-- Swiggy -->
+	<AppIcon name="in.swiggy.android/in.swiggy.android.activities.HomeActivity" image="swiggy"/>
+
+	<!-- Picsart -->
+	<AppIcon name="com.picsart.studio/com.socialin.android.photo.picsinphoto.MainPagerActivity" image="picsart"/>
+
+	<!-- YouTube Music ReVanced -->
+	<AppIcon name="app.revanced.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity" image="youtube_music"/>
+
+	<!-- Find Device -->
+	<AppIcon name="com.google.android.apps.adm/com.google.android.apps.adm.activities.MainActivity" image="find_device"/>
+
+	<!-- Proton Mail -->
+	<AppIcon name="ch.protonmail.android/ch.protonmail.android.mailbox.presentation.ui.MailboxActivity" image="proton_mail"/>
+
+	<!-- SAI -->
+	<AppIcon name="com.aefyr.sai/com.aefyr.sai.ui.activities.MainActivity" image="sai"/>
+
+	<!-- Play Games -->
+	<AppIcon name="com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity" image="google_play_games"/>
+
+	<!-- Gallery -->
+	<AppIcon name="com.google.android.apps.photosgo/com.google.android.apps.photosgo.home.HomeActivity" image="google_gallery"/>
+
+	<!-- ShareMe -->
+	<AppIcon name="com.xiaomi.midrop/com.xiaomi.midrop.SplashScreen" image="shareme"/>
+
+	<!-- Arcticons Dark -->
+	<AppIcon name="com.donnnno.arcticons/com.donnnno.arcticons.activities.SplashActivity" image="arcticons_dark"/>
+
+	<!-- Arcticons Light -->
+	<AppIcon name="com.donnnno.arcticons.light/com.donnnno.arcticons.activities.SplashActivity" image="arcticons_light"/>
+
+	<!-- Office -->
+	<AppIcon name="com.microsoft.office.officehubrow/com.microsoft.office.officesuite.OfficeSuiteActivity" image="office"/>
+	
+	<!-- DodoCodes -->
+	<AppIcon name="com.dodocodes.mobile/com.dodocodes.mobile.MainActivity" image="dodocodes"/>
+
+	<!-- Device care -->
+	<AppIcon name="com.samsung.android.lool/com.samsung.android.sm.ui.DefaultActivity" image="device_care"/>
+
+	<!-- Textra -->
+	<AppIcon name="com.textra/com.mplus.lib.Main_ff006064_bare" image="textra"/>
+
+	<!-- Bixby -->
+	<AppIcon name="com.samsung.android.bixby.agent/com.samsung.android.bixby.assistanthome.AssistantHomeLauncherActivity" image="bixby"/>
+
+	<!-- MediaFire -->
+	<AppIcon name="com.mediafire.android/com.mediafire.android.ui.authentication.AuthenticationActivity" image="mediafire"/>
+
+	<!-- Allegro -->
+	<AppIcon name="pl.allegro/pl.allegro.Allegro" image="allegro"/>
+
+	<!-- IKO -->
+	<AppIcon name="pl.pkobp.iko/pl.pkobp.iko.feature.startup.StartupActivity" image="iko"/>
+
+	<!-- InPost Mobile -->
+	<AppIcon name="pl.inpost.inmobile/pl.inpost.inmobile.presentation.splashscreen.SplashScreenActivity" image="inpost_mobile"/>
+
+	<!-- OLX.pl -->
+	<AppIcon name="pl.tablica/pl.tablica2.app.startup.activity.StartupActivity" image="olx"/>
+	
+	<!-- Disney+ -->
+	<AppIcon name="com.disney.disneyplus/com.bamtechmedia.dominguez.main.MainActivity" image="disney_"/>
+
+	<!-- Outlook -->
+	<AppIcon name="com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity" image="outlook"/>
+
+	<!-- PayPal -->
+	<AppIcon name="com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity" image="paypal"/>
+
+	<!-- Beats -->
+	<AppIcon name="com.apple.bnd/com.apple.vienna.v3.presentation.welcome.WelcomeActivity" image="beats"/>
+
+	<!-- Bird -->
+	<AppIcon name="co.bird.android/co.bird.android.app.feature.main.MainActivity" image="bird"/>
+
+	<!-- Cash App -->
+	<AppIcon name="com.squareup.cash/com.squareup.cash.ui.MainActivity" image="cashapp"/>
+
+	<!-- Chase -->
+	<AppIcon name="com.chase.sig.android/com.chase.sig.android.activity.SplashActivity" image="chase"/>
+
+	<!-- Recorder -->
+	<AppIcon name="com.google.android.apps.recorder/com.google.android.apps.recorder.ui.recordings.MainActivity" image="recorder"/>
+
+	<!-- Google One -->
+	<AppIcon name="com.google.android.apps.subscriptions.red/com.google.android.apps.subscriptions.red.LauncherActivity" image="google_one"/>
+
+	<!-- DoorDash -->
+	<AppIcon name="com.dd.doordash/com.doordash.consumer.ui.login.LauncherActivity" image="doordash"/>
+
+	<!-- GPay -->
+	<AppIcon name="com.google.android.apps.nbu.paisa.user/com.google.nbu.paisa.flutter.gpay.app.LauncherActivity" image="gpay"/>
+
+	<!-- Google News -->
+	<AppIcon name="com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity" image="google_news"/>
+
+	<!-- lichess -->
+	<AppIcon name="org.lichess.mobileapp/org.lichess.mobileapp.MainActivity" image="lichess"/>
+
+	<!-- Meet -->
+	<AppIcon name="com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivitySecondLauncher" image="meet"/>
+
+	<!-- Emby -->
+	<AppIcon name="com.mb.android/com.mb.android.MainActivity" image="emby"/>
+
+	<!-- Eurosport -->
+	<AppIcon name="com.eurosport/com.eurosport.universel.ui.activities.SplashscreenActivity" image="eurosport"/>
+
+	<!-- WA Business -->
+	<AppIcon name="com.whatsapp.w4b/com.whatsapp.Main" image="wa_business"/>
+
+	<!-- Yahoo Finance -->
+	<AppIcon name="com.yahoo.mobile.client.android.finance/com.yahoo.mobile.client.android.finance.main.MainActivity" image="yahoo_finance"/>
+
+	<!-- PayPal Business -->
+	<AppIcon name="com.paypal.merchant.client/com.paypal.merchant.client.features.startup.StartUpActivity" image="paypal_business"/>
+
+	<!-- DAZN -->
+	<AppIcon name="com.dazn/com.dazn.splash.view.SplashScreenActivity" image="dazn"/>
+
+	<!-- Aurora Store -->
+	<AppIcon name="com.aurora.store.nightly/com.aurora.store.view.ui.onboarding.OnboardingActivity" image="aurora_store"/>
+
+	<!-- AutomaTag -->
+	<AppIcon name="com.fillobotto.mp3tagger/activities.MainActivity" image="automatag"/>
+
+	<!-- AppSales -->
+	<AppIcon name="net.tsapps.appsales/net.tsapps.appsales.ui.main.MainActivity" image="appsales"/>
+
+	<!-- BlackPlayer -->
+	<AppIcon name="com.kodarkooperativet.blackplayerfree/com.kodarkooperativet.blackplayerfree.activities.ViewPagerActivity" image="blackplayer"/>
+
+	<!-- Hulu -->
+	<AppIcon name="com.hulu.plus/com.hulu.features.splash.SplashActivity" image="hulu"/>
+
+	<!-- Tinder -->
+	<AppIcon name="com.tinder/com.tinder.activities.LoginActivity" image="tinder"/>
+
+	<!-- Kite -->
+	<AppIcon name="com.zerodha.kite3/com.zerodha.kite3.MainActivity" image="kite"/>
+
+	<!-- Telegram X -->
+	<AppIcon name="org.thunderdog.challegram/org.thunderdog.challegram.MainActivity" image="telegram_x"/>
+
+	<!-- GIPHY -->
+	<AppIcon name="com.giphy.messenger/com.giphy.messenger.app.OnboardingActivity" image="giphy"/>
+
+	<!-- Android Auto -->
+	<AppIcon name="com.google.android.projection.gearhead/com.google.android.gearhead.vanagon.VnLaunchPadActivity" image="android_auto"/>
+
+	<!-- Droid-ify -->
+	<AppIcon name="com.looker.droidify/com.looker.droidify.MainActivity" image="droid_ify"/>
+
 
     <!-- Other -->
 	
