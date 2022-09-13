@@ -1061,6 +1061,54 @@
 	<!-- Droid-ify -->
 	<AppIcon name="com.looker.droidify/com.looker.droidify.MainActivity" image="droid_ify"/>
 
+	<!-- Flamingo -->
+	<AppIcon name="com.samruston.twitter/com.samruston.twitter.Launcher1" image="flamingo"/>
+
+	<!-- Domain -->
+	<AppIcon name="com.fairfax.domain/au.com.domain.common.SplashActivity" image="domain"/>
+
+	<!-- Feedly -->
+	<AppIcon name="com.devhd.feedly/com.devhd.feedly.Main" image="feedly"/>
+
+	<!-- Pluma -->
+	<AppIcon name="qijaz221.android.rss.reader/qijaz221.android.rss.reader.SplashActivity" image="pluma"/>
+
+	<!-- The Athletic -->
+	<AppIcon name="com.theathletic/com.theathletic.activity.SplashActivity" image="the_athletic"/>
+
+	<!-- Vivaldi Browser -->
+	<AppIcon name="com.vivaldi.browser/com.google.android.apps.chrome.Main" image="vivaldi_browser"/>
+
+	<!-- AusPost -->
+	<AppIcon name="au.com.auspost.android/au.com.auspost.android.feature.base.StartActivity" image="auspost"/>
+
+	<!-- Bundled Notes -->
+	<AppIcon name="com.xaviertobin.noted/com.xaviertobin.noted.activities.ActivitySignIn" image="bundled_notes"/>
+
+	<!-- Lyrik -->
+	<AppIcon name="com.buildjuice.lyriks/com.example.lyricsapp.MainActivity" image="lyrik"/>
+
+	<!-- MitID -->
+	<AppIcon name="dk.mitid.app.android/dk.mitid.app.android.activity.MainActivity" image="mitid"/>
+
+	<!-- Bolt -->
+	<AppIcon name="ee.mtakso.client/ee.mtakso.client.activity.SplashHomeActivity" image="bolt"/>
+
+	<!-- Mull -->
+	<AppIcon name="us.spotco.fennec_dos/us.spotco.fennec_dos.App" image="mull"/>
+
+	<!-- ViMusic -->
+	<AppIcon name="it.vfsfitvnm.vimusic/it.vfsfitvnm.vimusic.MainActivity" image="vimusic"/>
+
+	<!-- Proton Drive -->
+	<AppIcon name="me.proton.android.drive/me.proton.android.drive.ui.MainActivity" image="proton_drive"/>
+
+	<!-- Careem -->
+	<AppIcon name="com.careem.acma/com.careem.superapp.core.onboarding.activity.OnboardingActivity" image="careem"/>
+
+	<!-- LibreTube -->
+	<AppIcon name="com.github.libretube/com.github.libretube.activities.MainActivity" image="libretube"/>
+
 
     <!-- Other -->
 	

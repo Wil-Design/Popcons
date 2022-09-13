@@ -1055,6 +1055,56 @@
 	<!-- Droid-ify -->
 	<item class="com.looker.droidify.MainActivity" name="droid_ify"/>
 
+	<!-- Domain -->
+	<item class="au.com.domain.common.SplashActivity" name="domain"/>
+
+	<!-- Flamingo -->
+	<item class="com.samruston.twitter.Launcher1" name="flamingo"/>
+
+	<!-- Feedly -->
+	<item class="com.devhd.feedly.Main" name="feedly"/>
+
+	<!-- Pluma -->
+	<item class="qijaz221.android.rss.reader.SplashActivity" name="pluma"/>
+	
+	<!-- AdGuard -->
+	<item class="com.adguard.android.ui.SplashActivity" name="adguard"/>
+	
+	<!-- The Athletic -->
+	<item class="com.theathletic.activity.SplashActivity" name="the_athletic"/>
+
+	<!-- Vivaldi Browser -->
+	<item class="com.google.android.apps.chrome.Main" name="vivaldi_browser"/>
+
+	<!-- AusPost -->
+	<item class="au.com.auspost.android.feature.base.StartActivity" name="auspost"/>
+
+	<!-- Bundled Notes -->
+	<item class="com.xaviertobin.noted.activities.ActivitySignIn" name="bundled_notes"/>
+
+	<!-- Lyrik -->
+	<item class="com.example.lyricsapp.MainActivity" name="lyrik"/>
+
+	<!-- MitID -->
+	<item class="dk.mitid.app.android.activity.MainActivity" name="mitid"/>
+
+	<!-- Bolt -->
+	<item class="ee.mtakso.client.activity.SplashHomeActivity" name="bolt"/>
+
+	<!-- Mull -->
+	<item class="us.spotco.fennec_dos.App" name="mull"/>
+
+	<!-- ViMusic -->
+	<item class="it.vfsfitvnm.vimusic.MainActivity" name="vimusic"/>
+
+	<!-- Proton Drive -->
+	<item class="me.proton.android.drive.ui.MainActivity" name="proton_drive"/>
+
+	<!-- Careem -->
+	<item class="com.careem.superapp.core.onboarding.activity.OnboardingActivity" name="careem"/>
+
+	<!-- LibreTube -->
+	<item class="com.github.libretube.activities.MainActivity" name="libretube"/>
 
     <!-- Other -->
 

@@ -1334,6 +1334,54 @@
 	<!-- Droid-ify -->
 	<item component="ComponentInfo{com.looker.droidify/com.looker.droidify.MainActivity}" drawable="droid_ify" />
 
+	<!-- Domain -->
+	<item component="ComponentInfo{com.fairfax.domain/au.com.domain.common.SplashActivity}" drawable="domain" />
+	
+	<!-- Flamingo -->
+	<item component="ComponentInfo{com.samruston.twitter/com.samruston.twitter.Launcher1}" drawable="flamingo" />
+
+	<!-- Feedly -->
+	<item component="ComponentInfo{com.devhd.feedly/com.devhd.feedly.Main}" drawable="feedly" />
+
+	<!-- Pluma -->
+	<item component="ComponentInfo{qijaz221.android.rss.reader/qijaz221.android.rss.reader.SplashActivity}" drawable="pluma" />
+	
+	<!-- The Athletic -->
+	<item component="ComponentInfo{com.theathletic/com.theathletic.activity.SplashActivity}" drawable="the_athletic" />
+
+	<!-- Vivaldi Browser -->
+	<item component="ComponentInfo{com.vivaldi.browser/com.google.android.apps.chrome.Main}" drawable="vivaldi_browser" />
+
+	<!-- AusPost -->
+	<item component="ComponentInfo{au.com.auspost.android/au.com.auspost.android.feature.base.StartActivity}" drawable="auspost" />
+
+	<!-- Bundled Notes -->
+	<item component="ComponentInfo{com.xaviertobin.noted/com.xaviertobin.noted.activities.ActivitySignIn}" drawable="bundled_notes" />
+
+	<!-- Lyrik -->
+	<item component="ComponentInfo{com.buildjuice.lyriks/com.example.lyricsapp.MainActivity}" drawable="lyrik" />
+
+	<!-- MitID -->
+	<item component="ComponentInfo{dk.mitid.app.android/dk.mitid.app.android.activity.MainActivity}" drawable="mitid" />
+
+	<!-- Bolt -->
+	<item component="ComponentInfo{ee.mtakso.client/ee.mtakso.client.activity.SplashHomeActivity}" drawable="bolt" />
+
+	<!-- Mull -->
+	<item component="ComponentInfo{us.spotco.fennec_dos/us.spotco.fennec_dos.App}" drawable="mull" />
+
+	<!-- ViMusic -->
+	<item component="ComponentInfo{it.vfsfitvnm.vimusic/it.vfsfitvnm.vimusic.MainActivity}" drawable="vimusic" />
+
+	<!-- Proton Drive -->
+	<item component="ComponentInfo{me.proton.android.drive/me.proton.android.drive.ui.MainActivity}" drawable="proton_drive" />
+
+	<!-- Careem -->
+	<item component="ComponentInfo{com.careem.acma/com.careem.superapp.core.onboarding.activity.OnboardingActivity}" drawable="careem" />
+
+	<!-- LibreTube -->
+	<item component="ComponentInfo{com.github.libretube/com.github.libretube.activities.MainActivity}" drawable="libretube" />
+
     <!-- Other -->
 
 
