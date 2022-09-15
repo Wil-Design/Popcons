@@ -1106,6 +1106,30 @@
 	<!-- LibreTube -->
 	<item class="com.github.libretube.activities.MainActivity" name="libretube"/>
 
+	<!-- Read You -->
+	<item class="me.ash.reader.MainActivity" name="read_you"/>
+
+	<!-- 2048 -->
+	<item class="com.gabrielecirulli.app2048.MainActivity" name="_2048"/>
+
+	<!-- Aldiko -->
+	<item class="com.demarque.android.ui.splash_welcome.SplashActivity" name="aldiko"/>
+
+	<!-- Microsoft Authenticator -->
+	<item class="com.azure.authenticator.ui.LaunchActivity" name="microsoft_authenticator"/>
+
+	<!-- Brainly -->
+	<item class="com.brainly.StartActivity" name="brainly"/>
+
+	<!-- CamScanner -->
+	<item class="com.intsig.camscanner.launcher.WelcomeDefaultActivity" name="camscanner"/>
+
+	<!-- Canva -->
+	<item class="com.canva.app.editor.splash.SplashActivity" name="canva"/>
+
+	<!-- Google Classroom -->
+	<item class="com.google.android.apps.classroom.application.launcher.LauncherActivity" name="google_classroom"/>
+
     <!-- Other -->
 
 	<!-- Caamera -->

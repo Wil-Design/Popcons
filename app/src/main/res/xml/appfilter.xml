@@ -1382,6 +1382,30 @@
 	<!-- LibreTube -->
 	<item component="ComponentInfo{com.github.libretube/com.github.libretube.activities.MainActivity}" drawable="libretube" />
 
+	<!-- Read You -->
+	<item component="ComponentInfo{me.ash.reader/me.ash.reader.MainActivity}" drawable="read_you" />
+
+	<!-- 2048 -->
+	<item component="ComponentInfo{com.gabrielecirulli.app2048/com.gabrielecirulli.app2048.MainActivity}" drawable="_2048" />
+
+	<!-- Aldiko -->
+	<item component="ComponentInfo{com.aldiko.android/com.demarque.android.ui.splash_welcome.SplashActivity}" drawable="aldiko" />
+
+	<!-- Microsoft Authenticator -->
+	<item component="ComponentInfo{com.azure.authenticator/com.azure.authenticator.ui.LaunchActivity}" drawable="microsoft_authenticator" />
+
+	<!-- Brainly -->
+	<item component="ComponentInfo{co.brainly/com.brainly.StartActivity}" drawable="brainly" />
+
+	<!-- CamScanner -->
+	<item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.launcher.WelcomeDefaultActivity}" drawable="camscanner" />
+
+	<!-- Canva -->
+	<item component="ComponentInfo{com.canva.editor/com.canva.app.editor.splash.SplashActivity}" drawable="canva" />
+
+	<!-- Google Classroom -->
+	<item component="ComponentInfo{com.google.android.apps.classroom/com.google.android.apps.classroom.application.launcher.LauncherActivity}" drawable="google_classroom" />
+
     <!-- Other -->
 
 

@@ -1109,6 +1109,30 @@
 	<!-- LibreTube -->
 	<AppIcon name="com.github.libretube/com.github.libretube.activities.MainActivity" image="libretube"/>
 
+	<!-- Read You -->
+	<AppIcon name="me.ash.reader/me.ash.reader.MainActivity" image="read_you"/>
+
+	<!-- 2048 -->
+	<AppIcon name="com.gabrielecirulli.app2048/com.gabrielecirulli.app2048.MainActivity" image="_2048"/>
+
+	<!-- Aldiko -->
+	<AppIcon name="com.aldiko.android/com.demarque.android.ui.splash_welcome.SplashActivity" image="aldiko"/>
+
+	<!-- Microsoft Authenticator -->
+	<AppIcon name="com.azure.authenticator/com.azure.authenticator.ui.LaunchActivity" image="microsoft_authenticator"/>
+
+	<!-- Brainly -->
+	<AppIcon name="co.brainly/com.brainly.StartActivity" image="brainly"/>
+
+	<!-- CamScanner -->
+	<AppIcon name="com.intsig.camscanner/com.intsig.camscanner.launcher.WelcomeDefaultActivity" image="camscanner"/>
+
+	<!-- Canva -->
+	<AppIcon name="com.canva.editor/com.canva.app.editor.splash.SplashActivity" image="canva"/>
+
+	<!-- Google Classroom -->
+	<AppIcon name="com.google.android.apps.classroom/com.google.android.apps.classroom.application.launcher.LauncherActivity" image="google_classroom"/>
+
 
     <!-- Other -->
 	
