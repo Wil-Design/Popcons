@@ -346,6 +346,7 @@
 	<AppIcon name="com.github.android/com.github.android.activities.MainActivity" image="github"/>
 	<!-- Amazon -->
 	<AppIcon name="in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity" image="amazon"/>
+	<AppIcon name="com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity" image="amazon"/>
 	<!-- Axis Mobile -->
 	<AppIcon name="com.axis.mobile/com.axis.mobile.MainActivity" image="axis_mobile"/>
 	<!-- Rewards -->
@@ -579,17 +580,99 @@
 	<AppIcon name="com.nearme.gamecenter/com.nearme.gamecenter.ui.activity.SplashActivity" image="game_center"/>
 	<!-- Google Tasks -->
 	<AppIcon name="com.google.android.apps.tasks/com.google.android.apps.tasks.ui.TaskListsActivity" image="google_tasks"/>
+	<!-- ACT Fibernet -->
+	<AppIcon name="com.act.mobile.apps/com.act.mobile.apps.SplashActivity" image="act_fibernet"/>
+	<!-- AJIO -->
+	<AppIcon name="com.ril.ajio/com.ril.ajio.launch.activity.SplashScreenActivity" image="ajio"/>
+	<!-- Phone Manager -->
+	<AppIcon name="com.coloros.phonemanager/com.coloros.phonemanager.FakeActivity" image="phone_manager"/>
+	<!-- Pinnit -->
+	<AppIcon name="dev.sasikanth.pinnit/dev.sasikanth.pinnit.SplashActivity" image="pinnit"/>
+	<!-- Dolby On -->
+	<AppIcon name="com.dolby.dolby234/com.dolby.sessions.Launcher" image="dolby_on"/>
+	<!-- HDFC Bank -->
+	<AppIcon name="com.snapwork.hdfc/com.hdfc.retail.netbanking.HDFCBank" image="hdfc_bank"/>
+	<!-- App Watcher -->
+	<AppIcon name="com.anod.appwatcher/com.anod.appwatcher.AppWatcherActivity" image="app_watcher"/>
+	<!-- BookMyShow -->
+	<AppIcon name="com.bt.bms/com.movie.bms.splashscreen.SplashScreenActivity" image="bookmyshow"/>
+	<!-- BuzzKill -->
+	<AppIcon name="com.samruston.buzzkill/com.samruston.buzzkill.ui.MainActivity" image="buzzkill"/>
+	<!-- Facebook Lite -->
+	<AppIcon name="com.facebook.lite/com.facebook.lite.MainActivity" image="facebook_lite"/>
+	<!-- Simple File Manager -->
+	<AppIcon name="com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Orange" image="simple_file_manager"/>
+	<!-- Zomato -->
+	<AppIcon name="com.application.zomato/com.application.zomato.activities.Splash" image="zomato"/>
+	<!-- Truecaller -->
+	<AppIcon name="com.truecaller/com.truecaller.ui.TruecallerInit" image="truecaller"/>
+	<!-- SD Maid -->
+	<AppIcon name="eu.thedarken.sdm/eu.thedarken.sdm.main.ui.SDMMainActivity" image="sd_maid"/>
+	<!-- SD Maid Pro -->
+	<AppIcon name="eu.thedarken.sdm.unlocker/eu.thedarken.sdm.unlocker.MainActivity" image="sd_maid_pro"/>
+	<!-- ear (1) -->
+	<AppIcon name="com.nothing.smartcenter/com.nothing.smart.index.activity.WelcomeActivity" image="ear_one"/>
+	<!-- Viki -->
+	<AppIcon name="com.viki.android/com.viki.android.SplashActivity" image="viki"/>
+	<!-- Flipkart -->
+	<AppIcon name="com.flipkart.android/com.flipkart.android.SplashActivity" image="flipkart"/>
+	<!-- AccuBattery -->
+	<AppIcon name="com.digibites.accubattery/com.digibites.abatterysaver.BatterySaverActivity" image="accubattery"/>
+	<!-- Akbim OBS -->
+	<AppIcon name="com.obsmobile/com.obsmobile.SplashActivity" image="akbim_obs"/>
+	<!-- Google Authenticator -->
+	<AppIcon name="com.google.android.apps.authenticator2/com.google.android.apps.authenticator.AuthenticatorActivity" image="google_authenticator"/>
+	<!-- AnyDesk -->
+	<AppIcon name="com.anydesk.anydeskandroid/com.anydesk.anydeskandroid.gui.activity.MainActivity" image="anydesk"/>
+	<!-- Last.fm -->
+	<AppIcon name="fm.last.android/fm.last.android.ui.activity.SplashScreen" image="lastfm"/>
+	<!-- Repainter -->
+	<AppIcon name="dev.kdrag0n.dyntheme/dev.kdrag0n.dyntheme.ui.main.MainActivity" image="repainter"/>
+	<!-- Mi Browser -->
+	<AppIcon name="com.mi.globalbrowser/com.mi.globalbrowser.Main" image="mi_browser"/>
+	<!-- Easy Voice Recorder -->
+	<AppIcon name="com.coffeebeanventures.easyvoicerecorder/com.digipom.easyvoicerecorder.ui.activity.EasyVoiceRecorderActivity" image="voice_recorder_3"/>
+	<!-- FNG -->
+	<AppIcon name="com.fb.fluid/com.fb.fluid.ui.ActivitySettings" image="fng"/>
+	<!-- Mi Remote -->
+	<AppIcon name="com.duokan.phone.remotecontroller/com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2" image="mi_remote"/>
+	<!-- Fiverr -->
+	<AppIcon name="com.fiverr.fiverr/com.fiverr.fiverr.activityandfragments.entrypoints.FVREntryPoint" image="fiverr"/>
+	<!-- MX Player -->
+	<AppIcon name="com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityWelcomeMX" image="mx_player"/>
+	<!-- Mi Video -->
+	<AppIcon name="com.miui.videoplayer/com.miui.video.global.app.LauncherActivity" image="mi_video"/>
+	<!-- Proton Calendar -->
+	<AppIcon name="me.proton.android.calendar/me.proton.android.calendar.presentation.main.MainActivity" image="proton_calendar"/>
+	<!-- Hotstar -->
+	<AppIcon name="in.startv.hotstar/in.startv.hotstar.rocky.launch.splash.SplashActivity" image="hotstar"/>
+	<!-- Tether -->
+	<AppIcon name="com.tplink.tether/com.tplink.tether.WelcomeActivity" image="tether"/>
+	<!-- Walli 4K -->
+	<AppIcon name="com.shanga.walli/com.shanga.walli.mvp.splash.SplashActivity" image="walli_4k"/>
+	<!-- Fire TV -->
+	<AppIcon name="com.amazon.storm.lightning.client.aosp/com.amazon.bison.SplashScreen" image="fire_tv"/>
+	<!-- Rapido -->
+	<AppIcon name="com.rapido.passenger/com.rapido.passenger.launcher.ui.LauncherActivity" image="rapido"/>
+
 	
 	<!-- System | Default Apps -->
 	
 	<!-- Calculator -->
 	<AppIcon name="com.coloros.calculator/com.android.calculator2.Calculator" image="calculator"/>
+	<AppIcon name="com.google.android.calculator/com.android.calculator2.Calculator" image="calculator"/>
+	<AppIcon name="com.xiaomi.calendar/com.android.calendar.homepage.AllInOneActivity" image="calendar"/>
 	<!-- Camera -->
 	<AppIcon name="com.motorola.camera2/com.motorola.camera.Camera" image="camera"/>
 	<AppIcon name="com.sec.android.app.camera/com.sec.android.app.camera.Camera" image="camera"/>
 	<AppIcon name="com.android.camera/com.android.camera.Camera" image="camera"/>
+	<AppIcon name="com.nothing.camera/com.nothing.camera.activity.CameraActivity" image="camera"/>
 	<!-- Contacts App -->
 	<AppIcon name="com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity" image="people"/>
+	<!-- Clock -->
+	<AppIcon name="com.android.deskclock/com.android.deskclock.DeskClockTabActivity" image="clock"/>
+	<!-- FM Radio -->
+	<AppIcon name="com.miui.fm/com.miui.fmradio.FmRadioActivity" image="fmradio_3"/>
 	<!-- Messages -->
 	<AppIcon name="com.android.mms/com.android.mms.ui.ConversationList" image="messages"/>
 	<!-- Telephone -->
@@ -599,6 +682,9 @@
 	<!-- Photos | Gallery --> 
 	<AppIcon name="com.coloros.gallery3d/com.coloros.gallery3d.app.MainActivity" image="gallery"/>
 	<AppIcon name="com.miui.gallery/com.miui.gallery.activity.HomePageActivity" image="gallery"/>
+	<!-- Voice Recorder -->
+	<AppIcon name="com.nothing.soundrecorder/com.android.soundrecorder.view.MainActivity" image="voice_recorder"/>
+	<AppIcon name="com.android.soundrecorder/com.android.soundrecorder.SoundRecorder" image="voice_recorder"/>
 	<!-- Weather -->
 	<AppIcon name="com.miui.weather2/com.miui.weather2.ActivityWeatherMain" image="meteo"/>
 </Theme>

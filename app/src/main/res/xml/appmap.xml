@@ -576,16 +576,98 @@
 	<item class="com.nearme.gamecenter.ui.activity.SplashActivity" name="game_center"/>
 	<!-- Google Tasks -->
 	<item class="com.google.android.apps.tasks.ui.TaskListsActivity" name="google_tasks"/>
+	<!-- ACT Fibernet -->
+	<item class="com.act.mobile.apps.SplashActivity" name="act_fibernet"/>
+	<!-- AJIO -->
+	<item class="com.ril.ajio.launch.activity.SplashScreenActivity" name="ajio"/>
+	<!-- Niagara Launcher -->
+	<item class="bitpit.launcher.ui.HomeActivity" name="niagara_launcher"/>
+	<!-- Phone Manager -->
+	<item class="com.coloros.phonemanager.FakeActivity" name="phone_manager"/>
+	<!-- Pinnit -->
+	<item class="dev.sasikanth.pinnit.SplashActivity" name="pinnit"/>
+	<!-- Dolby On -->
+	<item class="com.dolby.sessions.Launcher" name="dolby_on"/>
+	<!-- HDFC Bank -->
+	<item class="com.hdfc.retail.netbanking.HDFCBank" name="hdfc_bank"/>
+	<!-- App Watcher -->
+	<item class="com.anod.appwatcher.AppWatcherActivity" name="app_watcher"/>
+	<!-- BookMyShow -->
+	<item class="com.movie.bms.splashscreen.SplashScreenActivity" name="bookmyshow"/>
+	<!-- BuzzKill -->
+	<item class="com.samruston.buzzkill.ui.MainActivity" name="buzzkill"/>
+	<!-- Facebook Lite -->
+	<item class="com.facebook.lite.MainActivity" name="facebook_lite"/>
+	<!-- Simple File Manager -->
+	<item class="com.simplemobiletools.filemanager.pro.activities.SplashActivity.Orange" name="simple_file_manager"/>
+	<!-- Zomato -->
+	<item class="com.application.zomato.activities.Splash" name="zomato"/>
+	<!-- Truecaller -->
+	<item class="com.truecaller.ui.TruecallerInit" name="truecaller"/>
+	<!-- SD Maid -->
+	<item class="eu.thedarken.sdm.main.ui.SDMMainActivity" name="sd_maid"/>
+	<!-- SD Maid Pro -->
+	<item class="eu.thedarken.sdm.unlocker.MainActivity" name="sd_maid"/>
+	<!-- ear (1) -->
+	<item class="com.nothing.smart.index.activity.WelcomeActivity" name="ear_one"/>
+	<!-- Viki -->
+	<item class="com.viki.android.SplashActivity" name="viki"/>
+	<!-- Flipkart -->
+	<item class="com.flipkart.android.SplashActivity" name="flipkart"/>
+	<!-- AccuBattery -->
+	<item class="com.digibites.abatterysaver.BatterySaverActivity" name="accubattery"/>
+	<!-- Akbim OBS -->
+	<item class="com.obsmobile.SplashActivity" name="akbim_obs"/>
+	<!-- Google Authenticator -->
+	<item class="com.google.android.apps.authenticator.AuthenticatorActivity" name="google_authenticator"/>
+	<!-- AnyDesk -->
+	<item class="com.anydesk.anydeskandroid.gui.activity.MainActivity" name="anydesk"/>
+	<!-- Last.fm -->
+	<item class="fm.last.android.ui.activity.SplashScreen" name="lastfm"/>
+	<!-- Repainter -->
+	<item class="dev.kdrag0n.dyntheme.ui.main.MainActivity" name="repainter"/>
+	<!-- Mi Browser -->
+	<item class="com.mi.globalbrowser.Main" name="mi_browser"/>
+	<!-- Easy Voice Recorder -->
+	<item class="com.digipom.easyvoicerecorder.ui.activity.EasyVoiceRecorderActivity" name="voice_recorder_3"/>
+	<!-- FNG -->
+	<item class="com.fb.fluid.ui.ActivitySettings" name="fng"/>
+	<!-- Mi Remote -->
+	<item class="com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2" name="mi_remote"/>
+	<!-- Fiverr -->
+	<item class="com.fiverr.fiverr.activityandfragments.entrypoints.FVREntryPoint" name="fiverr"/>
+	<!-- MX Player -->
+	<item class="com.mxtech.videoplayer.ad.ActivityWelcomeMX" name="mx_player"/>
+	<!-- Mi Video -->
+	<item class="com.miui.video.global.app.LauncherActivity" name="mi_video"/>
+	<!-- Proton Calendar -->
+	<item class="me.proton.android.calendar.presentation.main.MainActivity" name="proton_calendar"/>
+	<!-- Hotstar -->
+	<item class="in.startv.hotstar.rocky.launch.splash.SplashActivity" name="hotstar"/>
+	<!-- Tether -->
+	<item class="com.tplink.tether.WelcomeActivity" name="tether"/>
+	<!-- Walli 4K -->
+	<item class="com.shanga.walli.mvp.splash.SplashActivity" name="walli_4k"/>
+	<!-- Fire TV -->
+	<item class="com.amazon.bison.SplashScreen" name="fire_tv"/>
+	<!-- Rapido -->
+	<item class="com.rapido.passenger.launcher.ui.LauncherActivity" name="rapido"/>
+
 	
 	<!-- System | Default Apps -->
-	
 	<!-- Calculator -->
 	<item class="com.android.calculator2.Calculator" name="calculator"/>
+	<item class="com.miui.calculator.cal.CalculatorActivity" name="calculator"/>
 	<!-- Camera -->
 	<item class="com.motorola.camera.Camera" name="camera"/>
 	<item class="com.android.camera.Camera" name="camera"/>
+	<item class="com.nothing.camera.activity.CameraActivity" name="camera"/>
+	<!-- Clock -->
+	<item class="com.android.deskclock.DeskClockTabActivity" name="clock"/>
 	<!-- Contacts App -->
 	<item class="com.android.contacts.DialtactsContactsEntryActivity" name="people"/>
+	<!-- FM Radio -->
+	<item class="com.miui.fmradio.FmRadioActivity" name="fmradio_3"/>
 	<!-- Messages -->
 	<item class="com.android.mms.ui.ConversationList" name="messages"/>
 	<!-- Photos | Galley -->
@@ -597,6 +679,8 @@
 	<item class="com.android.dialer.main.impl.MainActivity" name="telephone"/>
 	<!-- Voice Recorder -->
 	<item class="oplus.multimedia.soundrecorder.filebrowser.BrowseFile" name="recorder"/>
+	<item class="com.android.soundrecorder.view.MainActivity" name="voice_recorder"/>
+	<item class="com.android.soundrecorder.SoundRecorder" name="voice_recorder"/>
 	<!-- Weather -->
 	<item class="com.miui.weather2.ActivityWeatherMain" name="weather"/>
 </appmap>

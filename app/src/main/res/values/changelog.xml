@@ -2,7 +2,7 @@
 <resources>
 
     <!-- Leave empty if you don't want to show changelog date -->
-    <string name="changelog_date">28 September 2022</string>
+    <string name="changelog_date">7 October 2022</string>
 
     <!-- Changelog support html formatting
     * <b> for Bold
@@ -10,7 +10,7 @@
     * <u> for Underline
     * <a href="linkUrl">Link Text</a> for links -->
     <string-array name="changelog">
-        <item>Added 71 icons, mainly default / system apps.</item>
+        <item>Added 36 icons.</item>
         <item>Follow the <a href="https://t.me/popconsicons">Telegram</a> for updates!</item>
         <item>Thanks again for all the requests!</item>
         <!-- <item>
