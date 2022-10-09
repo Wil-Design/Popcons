@@ -7,8 +7,8 @@ android {
         applicationId 'com.wil.popcons'
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 9
-        versionName '0.9'
+        versionCode 10
+        versionName '1'
         multiDexEnabled true
 
         // Naming app bundles

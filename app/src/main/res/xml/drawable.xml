@@ -1,49 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<version>0.9</version>
+	<version>1.0</version>
 	<category title="Newly added"/>
-	<item drawable="act_fibernet"/>
-	<item drawable="ajio"/>
-	<item drawable="niagara_launcher"/>
-	<item drawable="phone_manager"/>
-	<item drawable="pinnit"/>
-	<item drawable="dolby_on"/>
-	<item drawable="hdfc_bank"/>
-	<item drawable="app_watcher"/>
-	<item drawable="bookmyshow"/>
-	<item drawable="buzzkill"/>
-	<item drawable="facebook_lite"/>
-	<item drawable="simple_file_manager"/>
-	<item drawable="zomato"/>
-	<item drawable="truecaller"/>
-	<item drawable="sd_maid"/>
-	<item drawable="ear_one"/>
-	<item drawable="viki"/>
-	<item drawable="flipkart"/>
-	<item drawable="accubattery"/>
-	<item drawable="akbim_obs"/>
-	<item drawable="anydesk"/>
-	<item drawable="google_authenticator"/>
-	<item drawable="lastfm"/>
-	<item drawable="repainter"/>
-	<item drawable="fng"/>
-	<item drawable="mi_browser"/>
-	<item drawable="fmradio_3"/>
-	<item drawable="mi_remote"/>
-	<item drawable="fiverr"/>
-	<item drawable="mx_player"/>
-	<item drawable="mi_video"/>
-	<item drawable="fire_tv"/>
-	<item drawable="hotstar"/>
-	<item drawable="walli_4k"/>
-	<item drawable="tether"/>
-	<item drawable="proton_calendar"/>
-	<item drawable="rapido"/>
-	
+	<item drawable="action_launcher"/>
+	<item drawable="browser"/>
+	<item drawable="browser_2"/>
+	<item drawable="browser_3"/>
+	<item drawable="browser_4"/>
+	<item drawable="browser_5"/>
+	<item drawable="diskusage"/>
+	<item drawable="filen"/>
+	<item drawable="freelancer"/>
+	<item drawable="play_console"/>
+	<item drawable="play_console_alt"/>
+	<item drawable="storygraph"/>
+	<item drawable="waking_up"/>
+	<item drawable="xmanager"/>
+
 	<category title="All icons"/>
 	<item drawable="___idm"/>
 	<item drawable="a_3dmark"/>
+	<item drawable="accubattery"/>
 	<item drawable="accuweather"/>
+	<item drawable="act_fibernet"/>
 	<item drawable="adguard"/>
 	<item drawable="adm"/>
 	<item drawable="adobe_acrobat"/>
@@ -52,6 +31,8 @@
 	<item drawable="ai_life"/>
 	<item drawable="aida64"/>
 	<item drawable="airtel"/>
+	<item drawable="ajio"/>
+	<item drawable="akbim_obs"/>
 	<item drawable="al_quran"/>
 	<item drawable="aldiko"/>
 	<item drawable="alibaba_com"/>
@@ -61,7 +42,9 @@
 	<item drawable="android_auto"/>
 	<item drawable="ankidroid"/>
 	<item drawable="antennapod"/>
+	<item drawable="anydesk"/>
 	<item drawable="app_market"/>
+	<item drawable="app_watcher"/>
 	<item drawable="appbar"/>
 	<item drawable="apple_music"/>
 	<item drawable="appsales"/>
@@ -88,6 +71,7 @@
 	<item drawable="bixby"/>
 	<item drawable="blackplayer"/>
 	<item drawable="bolt"/>
+	<item drawable="bookmyshow"/>
 	<item drawable="boost"/>
 	<item drawable="brainly"/>
 	<item drawable="brave"/>
@@ -95,6 +79,7 @@
 	<item drawable="bromite"/>
 	<item drawable="bundled_notes"/>
 	<item drawable="business_calendar"/>
+	<item drawable="buzzkill"/>
 	<item drawable="calculator"/>
 	<item drawable="calculator_2"/>
 	<item drawable="calculator_3"/>
@@ -132,6 +117,7 @@
 	<item drawable="discord"/>
 	<item drawable="disney_plus"/>
 	<item drawable="dodocodes"/>
+	<item drawable="dolby_on"/>
 	<item drawable="domain"/>
 	<item drawable="doordash"/>
 	<item drawable="download_navi"/>
@@ -142,6 +128,7 @@
 	<item drawable="duckduckgo"/>
 	<item drawable="duolingo"/>
 	<item drawable="dynalist"/>
+	<item drawable="ear_one"/>
 	<item drawable="ebay"/>
 	<item drawable="element"/>
 	<item drawable="email"/>
@@ -154,6 +141,7 @@
 	<item drawable="evernote"/>
 	<item drawable="f_droid"/>
 	<item drawable="facebook"/>
+	<item drawable="facebook_lite"/>
 	<item drawable="facebook_messenger"/>
 	<item drawable="fairemail"/>
 	<item drawable="faze_clan"/>
@@ -167,19 +155,24 @@
 	<item drawable="find_device"/>
 	<item drawable="findroid"/>
 	<item drawable="fing"/>
+	<item drawable="fire_tv"/>
 	<item drawable="firefox"/>
 	<item drawable="firefox-focus"/>
 	<item drawable="fitloop"/>
+	<item drawable="fiverr"/>
 	<item drawable="flamingo"/>
 	<item drawable="flightradar24"/>
+	<item drawable="flipkart"/>
 	<item drawable="flud"/>
 	<item drawable="fmradio"/>
 	<item drawable="fmradio_2"/>
+	<item drawable="fmradio_3"/>
 	<item drawable="fmradio_3"/>
 	<item drawable="fmradio_4"/>
 	<item drawable="fmradio_5"/>
 	<item drawable="fnatic_old"/>
 	<item drawable="fnb"/>
+	<item drawable="fng"/>
 	<item drawable="foldersync_pro"/>
 	<item drawable="formula_one"/>
 	<item drawable="fstop"/>
@@ -202,6 +195,7 @@
 	<item drawable="goodtime_productivity"/>
 	<item drawable="google"/>
 	<item drawable="google_assistant"/>
+	<item drawable="google_authenticator"/>
 	<item drawable="google_calendar"/>
 	<item drawable="google_chrome"/>
 	<item drawable="google_classroom"/>
@@ -229,7 +223,9 @@
 	<item drawable="google_wallet"/>
 	<item drawable="gpay"/>
 	<item drawable="hago"/>
+	<item drawable="hdfc_bank"/>
 	<item drawable="health_sync"/>
+	<item drawable="hotstar"/>
 	<item drawable="hulu"/>
 	<item drawable="iko"/>
 	<item drawable="infinity_for_reddit"/>
@@ -245,6 +241,7 @@
 	<item drawable="kite"/>
 	<item drawable="klwp"/>
 	<item drawable="kwgt"/>
+	<item drawable="lastfm"/>
 	<item drawable="lawnchair"/>
 	<item drawable="lens"/>
 	<item drawable="lib__gen"/>
@@ -271,6 +268,9 @@
 	<item drawable="messages_3"/>
 	<item drawable="messages_4"/>
 	<item drawable="messages_5"/>
+	<item drawable="mi_browser"/>
+	<item drawable="mi_remote"/>
+	<item drawable="mi_video"/>
 	<item drawable="microsoft_authenticator"/>
 	<item drawable="microsoft_swiftkey_keyboard"/>
 	<item drawable="microsoft_todo"/>
@@ -281,11 +281,13 @@
 	<item drawable="mull"/>
 	<item drawable="musicolet"/>
 	<item drawable="muzei"/>
+	<item drawable="mx_player"/>
 	<item drawable="my_files"/>
 	<item drawable="myfitnesspal"/>
 	<item drawable="myyes"/>
 	<item drawable="netflix"/>
 	<item drawable="newpipe"/>
+	<item drawable="niagara_launcher"/>
 	<item drawable="notion"/>
 	<item drawable="nova_launcher"/>
 	<item drawable="obsidian___md"/>
@@ -303,10 +305,12 @@
 	<item drawable="paypal_business"/>
 	<item drawable="paytm"/>
 	<item drawable="phone"/>
+	<item drawable="phone_manager"/>
 	<item drawable="phonepe"/>
 	<item drawable="photok"/>
 	<item drawable="photos"/>
 	<item drawable="picsart"/>
+	<item drawable="pinnit"/>
 	<item drawable="pinterest"/>
 	<item drawable="pixeldroid"/>
 	<item drawable="pluma"/>
@@ -316,17 +320,20 @@
 	<item drawable="podcast_republic"/>
 	<item drawable="popcons"/>
 	<item drawable="ppsspp"/>
+	<item drawable="proton_calendar"/>
 	<item drawable="proton_drive"/>
 	<item drawable="proton_mail"/>
 	<item drawable="proton_mail_alt"/>
 	<item drawable="proton_vpn"/>
 	<item drawable="protonmail"/>
 	<item drawable="quickedit"/>
+	<item drawable="rapido"/>
 	<item drawable="read_you"/>
 	<item drawable="red_reserve_old"/>
 	<item drawable="reddit"/>
 	<item drawable="relay_for_reddit"/>
 	<item drawable="reolink"/>
+	<item drawable="repainter"/>
 	<item drawable="retroarch"/>
 	<item drawable="sai"/>
 	<item drawable="samsung_internet"/>
@@ -334,6 +341,7 @@
 	<item drawable="samsung_music"/>
 	<item drawable="samsung_notes"/>
 	<item drawable="samsung_pay"/>
+	<item drawable="sd_maid"/>
 	<item drawable="seal"/>
 	<item drawable="session"/>
 	<item drawable="settings"/>
@@ -341,6 +349,7 @@
 	<item drawable="shazam"/>
 	<item drawable="showmax"/>
 	<item drawable="signal"/>
+	<item drawable="simple_file_manager"/>
 	<item drawable="simple_gallery_pro"/>
 	<item drawable="simplenote"/>
 	<item drawable="simplenote_alt"/>
@@ -381,6 +390,7 @@
 	<item drawable="telegram"/>
 	<item drawable="telegram_x"/>
 	<item drawable="termux"/>
+	<item drawable="tether"/>
 	<item drawable="textra"/>
 	<item drawable="the_athletic"/>
 	<item drawable="threema"/>
@@ -391,6 +401,7 @@
 	<item drawable="tinder_alt"/>
 	<item drawable="trackercontrol"/>
 	<item drawable="tresorit"/>
+	<item drawable="truecaller"/>
 	<item drawable="tsm"/>
 	<item drawable="turbo_vpn_lite"/>
 	<item drawable="tusky"/>
@@ -401,6 +412,7 @@
 	<item drawable="uber"/>
 	<item drawable="unitlab"/>
 	<item drawable="viber"/>
+	<item drawable="viki"/>
 	<item drawable="vimusic"/>
 	<item drawable="vivaldi_browser"/>
 	<item drawable="vlc"/>
@@ -411,6 +423,7 @@
 	<item drawable="voice_recorder_4"/>
 	<item drawable="voice_recorder_5"/>
 	<item drawable="wa_business"/>
+	<item drawable="walli_4k"/>
 	<item drawable="waze"/>
 	<item drawable="wear_os"/>
 	<item drawable="weather"/>
@@ -433,6 +446,7 @@
 	<item drawable="youtube-music"/>
 	<item drawable="yt_studio"/>
 	<item drawable="zedge"/>
+	<item drawable="zomato"/>
 	<item drawable="zoom"/>
 	
 	<category title="System"/>
@@ -507,6 +521,7 @@
 	<item drawable="google_wallet"/>
 	<item drawable="gpay"/>
 	<item drawable="lens"/>
+	<item drawable="play_console"/>
 	<item drawable="snapseed"/>
 	<item drawable="youtube"/>
 	<item drawable="youtube-music"/>
@@ -517,6 +532,7 @@
 	<item drawable="google_home_alt"/>
 	<item drawable="google_maps_alt"/>
 	<item drawable="google_play_games_alt"/>
+	<item drawable="play_console_alt"/>
 	<item drawable="proton_mail_alt"/>
 	<item drawable="simplenote_alt"/>
 	<item drawable="spotify_alt"/>

@@ -35,8 +35,6 @@
 	<item class="com.google.android.apps.chrome.Main" name="brave"/>
 	<!-- Business Calendar -->
 	<item class="com.appgenix.bizcal.LaunchActivity" name="business_calendar"/>
-	<!-- Calendar -->
-	<item class="com.samsung.android.app.calendar.activity.MainActivity" name="calendar"/>
 	<!-- Camera -->
 	<item class="com.sec.android.app.camera.Camera" name="camera"/>
 	<!-- Chess -->
@@ -75,6 +73,7 @@
 	<item class="com.duolingo.app.LoginActivity" name="duolingo"/>
 	<!-- Element -->
 	<item class="im.vector.app.features.Alias" name="element"/>
+	<item class="im.vector.application.features.Alias" name="element"/>
 	<!-- Email -->
 	<item class="com.samsung.android.email.ui.activity.MessageListXL" name="email"/>
 	<!-- Engross -->
@@ -221,6 +220,8 @@
 	<item class="com.spotify.music.MainActivity" name="spotify"/>
 	<!-- Steam -->
 	<item class="com.valvesoftware.android.steam.community.activity.MainActivity" name="steam"/>
+	<!-- Steam -->
+	<item class="com.valvesoftware.android.steam.community.MainActivity" name="steam"/>
 	<!-- Stingle Photos -->
 	<item class="org.stingle.photos.GalleryActivity" name="stingle_photos"/>
 	<!-- Strafe -->
@@ -652,27 +653,53 @@
 	<item class="com.amazon.bison.SplashScreen" name="fire_tv"/>
 	<!-- Rapido -->
 	<item class="com.rapido.passenger.launcher.ui.LauncherActivity" name="rapido"/>
-
+	<!-- xManager -->
+	<item class="com.xc3fff0e.xmanager.SplashActivity" name="xmanager"/>
+	<!-- StoryGraph -->
+	<item class="com.thestorygraph.thestorygraph.MainActivity" name="storygraph"/>
+	<!-- Spotify -->
+	<item class="com.spotify.musix.MainActivity" name="spotify_alt"/>
+	<!-- Filen -->
+	<item class="io.filen.app.MainActivity" name="filen"/>
+	<!-- Freelancer -->
+	<item class="com.freelancer.main.MainActivity" name="freelancer"/>
+	<!-- DiskUsage -->
+	<item class="com.google.android.diskusage.SelectActivity" name="diskusage"/>
+	<!-- Action Launcher -->
+	<item class="com.actionlauncher.ActionLauncherActivity" name="action_launcher"/>
+	<!-- Waking Up -->
+	<item class="org.wakingup.android.activity.MainActivity" name="waking_up"/>
 	
 	<!-- System | Default Apps -->
+	
+	<!-- Browser -->
+	<item class="org.lineageos.jelly.MainActivity" name="browser"/>
 	<!-- Calculator -->
 	<item class="com.android.calculator2.Calculator" name="calculator"/>
 	<item class="com.miui.calculator.cal.CalculatorActivity" name="calculator"/>
+	<item class="com.android.calculator2.Calculator" name="calculator"/>
 	<!-- Camera -->
 	<item class="com.motorola.camera.Camera" name="camera"/>
 	<item class="com.android.camera.Camera" name="camera"/>
 	<item class="com.nothing.camera.activity.CameraActivity" name="camera"/>
+	<item class="com.android.camera.CameraLauncher" name="camera"/>
+	<!-- Calendar -->
+	<item class="com.samsung.android.app.calendar.activity.MainActivity" name="calendar"/>
+	<item class="com.android.calendar.AllInOneActivity" name="calendar"/>
 	<!-- Clock -->
 	<item class="com.android.deskclock.DeskClockTabActivity" name="clock"/>
 	<!-- Contacts App -->
-	<item class="com.android.contacts.DialtactsContactsEntryActivity" name="people"/>
+	<item class="com.android.contacts.DialtactsContactsEntryActivity" name="contacts"/>
+	<item class="com.android.contacts.activities.PeopleActivity" name="contacts"/>
 	<!-- FM Radio -->
 	<item class="com.miui.fmradio.FmRadioActivity" name="fmradio_3"/>
 	<!-- Messages -->
 	<item class="com.android.mms.ui.ConversationList" name="messages"/>
+	<item class="com.android.messaging.ui.conversationlist.ConversationListActivity" name="messages"/>
 	<!-- Photos | Galley -->
 	<item class="com.coloros.gallery3d.app.MainActivity" name="gallery"/>
 	<item class="com.miui.gallery.activity.HomePageActivity" name="gallery"/>
+	<item class="com.android.gallery3d.app.GalleryActivity" name="gallery"/>
 	<!-- Phone -->
 	<item class="com.google.android.dialer.extensions.GoogleDialtactsActivity" name="dialer"/>
 	<item class="com.android.contacts.DialtactsActivityAlias" name="dialer"/>
@@ -681,6 +708,7 @@
 	<item class="oplus.multimedia.soundrecorder.filebrowser.BrowseFile" name="recorder"/>
 	<item class="com.android.soundrecorder.view.MainActivity" name="voice_recorder"/>
 	<item class="com.android.soundrecorder.SoundRecorder" name="voice_recorder"/>
+	<item class="org.lineageos.recorder.RecorderActivity" name="voice_recorder"/>
 	<!-- Weather -->
 	<item class="com.miui.weather2.ActivityWeatherMain" name="weather"/>
 </appmap>

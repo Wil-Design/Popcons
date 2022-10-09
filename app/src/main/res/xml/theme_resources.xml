@@ -52,8 +52,6 @@
 	<AppIcon name="com.brave.browser/com.google.android.apps.chrome.Main" image="brave"/>
 	<!-- Business Calendar -->
 	<AppIcon name="com.appgenix.bizcal/com.appgenix.bizcal.LaunchActivity" image="business_calendar"/>
-	<!-- Calendar -->
-	<AppIcon name="com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity" image="calendar"/>
 	<!-- Chess -->
 	<AppIcon name="com.chess/com.chess.splash.SplashActivity" image="chess"/>
 	<!-- Chrome -->
@@ -90,6 +88,7 @@
 	<AppIcon name="com.duolingo/com.duolingo.app.LoginActivity" image="duolingo"/>
 	<!-- Element -->
 	<AppIcon name="im.vector.app/im.vector.app.features.Alias" image="element"/>
+	<AppIcon name="im.vector.app/im.vector.application.features.Alias" image="element"/>
 	<!-- Email -->
 	<AppIcon name="com.samsung.android.email.provider/com.samsung.android.email.ui.activity.MessageListXL" image="email"/>
 	<!-- Engross -->
@@ -236,6 +235,8 @@
 	<AppIcon name="com.spotify.music/com.spotify.music.MainActivity" image="spotify"/>
 	<!-- Steam -->
 	<AppIcon name="com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity" image="steam"/>
+	<!-- Steam -->
+	<AppIcon name="com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.MainActivity" image="steam"/>
 	<!-- Stingle Photos -->
 	<AppIcon name="org.stingle.photos/org.stingle.photos.GalleryActivity" image="stingle_photos"/>
 	<!-- Strafe -->
@@ -654,27 +655,51 @@
 	<AppIcon name="com.amazon.storm.lightning.client.aosp/com.amazon.bison.SplashScreen" image="fire_tv"/>
 	<!-- Rapido -->
 	<AppIcon name="com.rapido.passenger/com.rapido.passenger.launcher.ui.LauncherActivity" image="rapido"/>
-
+	<!-- xManager -->
+	<AppIcon name="com.xc3fff0e.xmanager/com.xc3fff0e.xmanager.SplashActivity" image="xmanager"/>
+	<!-- StoryGraph -->
+	<AppIcon name="com.thestorygraph.thestorygraph/com.thestorygraph.thestorygraph.MainActivity" image="storygraph"/>
+	<!-- Spotify -->
+	<AppIcon name="com.spotify.musix/com.spotify.musix.MainActivity" image="spotify_alt"/>
+	<!-- Filen -->
+	<AppIcon name="io.filen.app/io.filen.app.MainActivity" image="filen"/>
+	<!-- Freelancer -->
+	<AppIcon name="com.freelancer.android.messenger/com.freelancer.main.MainActivity" image="freelancer"/>
+	<!-- DiskUsage -->
+	<AppIcon name="com.google.android.diskusage/com.google.android.diskusage.SelectActivity" image="diskusage"/>
+	<!-- Action Launcher -->
+	<AppIcon name="com.actionlauncher.playstore/com.actionlauncher.ActionLauncherActivity" image="action_launcher"/>
+	<!-- Waking Up -->
+	<AppIcon name="org.wakingup.android/org.wakingup.android.activity.MainActivity" image="waking_up"/>
 	
 	<!-- System | Default Apps -->
 	
+	<!-- Browser -->
+	<AppIcon name="org.lineageos.jelly/org.lineageos.jelly.MainActivity" image="browser"/>
 	<!-- Calculator -->
 	<AppIcon name="com.coloros.calculator/com.android.calculator2.Calculator" image="calculator"/>
 	<AppIcon name="com.google.android.calculator/com.android.calculator2.Calculator" image="calculator"/>
+	<AppIcon name="com.android.calculator2/com.android.calculator2.Calculator" image="calculator"/>
+	<!-- Calendar -->
 	<AppIcon name="com.xiaomi.calendar/com.android.calendar.homepage.AllInOneActivity" image="calendar"/>
+	<AppIcon name="com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity" image="calendar"/>
+	<AppIcon name="org.lineageos.etar/com.android.calendar.AllInOneActivity" image="calendar"/>
 	<!-- Camera -->
 	<AppIcon name="com.motorola.camera2/com.motorola.camera.Camera" image="camera"/>
 	<AppIcon name="com.sec.android.app.camera/com.sec.android.app.camera.Camera" image="camera"/>
 	<AppIcon name="com.android.camera/com.android.camera.Camera" image="camera"/>
 	<AppIcon name="com.nothing.camera/com.nothing.camera.activity.CameraActivity" image="camera"/>
+	<AppIcon name="com.android.camera2/com.android.camera.CameraLauncher" image="camera"/>
 	<!-- Contacts App -->
-	<AppIcon name="com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity" image="people"/>
+	<AppIcon name="com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity" image="contacts"/>
+	<AppIcon name="com.android.contacts/com.android.contacts.activities.PeopleActivity" image="contacts"/>
 	<!-- Clock -->
 	<AppIcon name="com.android.deskclock/com.android.deskclock.DeskClockTabActivity" image="clock"/>
 	<!-- FM Radio -->
 	<AppIcon name="com.miui.fm/com.miui.fmradio.FmRadioActivity" image="fmradio_3"/>
 	<!-- Messages -->
 	<AppIcon name="com.android.mms/com.android.mms.ui.ConversationList" image="messages"/>
+	<AppIcon name="com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity" image="messages"/>
 	<!-- Telephone -->
 	<AppIcon name="com.android.dialer/com.android.dialer.main.impl.MainActivity" image="dialer"/>
 	<AppIcon name="com.android.contacts/com.android.contacts.DialtactsActivityAlias" image="dialer"/>
@@ -682,9 +707,11 @@
 	<!-- Photos | Gallery --> 
 	<AppIcon name="com.coloros.gallery3d/com.coloros.gallery3d.app.MainActivity" image="gallery"/>
 	<AppIcon name="com.miui.gallery/com.miui.gallery.activity.HomePageActivity" image="gallery"/>
+	<AppIcon name="com.android.gallery3d/com.android.gallery3d.app.GalleryActivity" image="gallery"/>
 	<!-- Voice Recorder -->
 	<AppIcon name="com.nothing.soundrecorder/com.android.soundrecorder.view.MainActivity" image="voice_recorder"/>
 	<AppIcon name="com.android.soundrecorder/com.android.soundrecorder.SoundRecorder" image="voice_recorder"/>
+	<AppIcon name="org.lineageos.recorder/org.lineageos.recorder.RecorderActivity" image="voice_recorder"/>
 	<!-- Weather -->
-	<AppIcon name="com.miui.weather2/com.miui.weather2.ActivityWeatherMain" image="meteo"/>
+	<AppIcon name="com.miui.weather2/com.miui.weather2.ActivityWeatherMain" image="weather"/>
 </Theme>

@@ -41,8 +41,6 @@
 	<item component="ComponentInfo{com.brave.browser/com.google.android.apps.chrome.Main}" drawable="brave"/>
 	<!-- Business Calendar -->
 	<item component="ComponentInfo{com.appgenix.bizcal/com.appgenix.bizcal.LaunchActivity}" drawable="business_calendar"/>
-	<!-- Calendar -->
-	<item component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}" drawable="calendar"/>
 	<!-- Chess -->
 	<item component="ComponentInfo{com.chess/com.chess.splash.SplashActivity}" drawable="chess"/>
 	<!-- Chrome -->
@@ -51,6 +49,7 @@
 	<item component="ComponentInfo{org.floens.chan/org.floens.chan.ui.activity.BoardActivity}" drawable="clover"/>
 	<!-- CoinCalc -->
 	<item component="ComponentInfo{com.samruston.flip/com.samruston.1.Launcher}" drawable="coincalc"/>
+	<item component="ComponentInfo{com.samruston.flip/com.samruston.flip.Launcher}" drawable="coincalc"/>
 	<!-- Contacts -->
 	<item component="ComponentInfo{com.samsung.android.app.contacts/com.samsung.android.contacts.contactslist.PeopleActivity}" drawable="contacts"/>
 	<!-- Deezer -->
@@ -77,6 +76,7 @@
 	<item component="ComponentInfo{com.duolingo/com.duolingo.app.LoginActivity}" drawable="duolingo"/>
 	<!-- Element -->
 	<item component="ComponentInfo{im.vector.app/im.vector.app.features.Alias}" drawable="element"/>
+	<item component="ComponentInfo{im.vector.app/im.vector.application.features.Alias}" drawable="element"/>
 	<!-- Email -->
 	<item component="ComponentInfo{com.samsung.android.email.provider/com.samsung.android.email.ui.activity.MessageListXL}" drawable="email"/>
 	<!-- Engross -->
@@ -219,6 +219,8 @@
 	<item component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}" drawable="spotify"/>
 	<!-- Steam -->
 	<item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}" drawable="steam"/>
+	<!-- Steam -->
+	<item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.MainActivity}" drawable="steam"/>
 	<!-- Stingle Photos -->
 	<item component="ComponentInfo{org.stingle.photos/org.stingle.photos.GalleryActivity}" drawable="stingle_photos"/>
 	<!-- Strafe -->
@@ -773,12 +775,36 @@
 	<item component="ComponentInfo{com.amazon.storm.lightning.client.aosp/com.amazon.bison.SplashScreen}" drawable="fire_tv" />
 	<!-- Rapido -->
 	<item component="ComponentInfo{com.rapido.passenger/com.rapido.passenger.launcher.ui.LauncherActivity}" drawable="rapido" />
-	
+	<!-- xManager -->
+	<item component="ComponentInfo{com.xc3fff0e.xmanager/com.xc3fff0e.xmanager.SplashActivity}" drawable="xmanager"/>
+	<!-- StoryGraph -->
+	<item component="ComponentInfo{com.thestorygraph.thestorygraph/com.thestorygraph.thestorygraph.MainActivity}" drawable="storygraph"/>
+	<!-- Spotify -->
+	<item component="ComponentInfo{com.spotify.musix/com.spotify.musix.MainActivity}" drawable="spotify_alt"/>
+	<!-- Filen -->
+	<item component="ComponentInfo{io.filen.app/io.filen.app.MainActivity}" drawable="filen"/>
+	<!-- Freelancer -->
+	<item component="ComponentInfo{com.freelancer.android.messenger/com.freelancer.main.MainActivity}" drawable="freelancer"/>
+	<!-- Play Console -->
+	<item component="ComponentInfo{com.google.android.apps.playconsole/com.google.android.apps.playconsole.activity.MainAndroidActivity}" drawable="play_console"/>
+	<!-- DiskUsage -->
+	<item component="ComponentInfo{com.google.android.diskusage/com.google.android.diskusage.SelectActivity}" drawable="diskusage"/>
+	<!-- Action Launcher -->
+	<item component="ComponentInfo{com.actionlauncher.playstore/com.actionlauncher.ActionLauncherActivity}" drawable="action_launcher"/>
+	<!-- Waking Up -->
+	<item component="ComponentInfo{org.wakingup.android/org.wakingup.android.activity.MainActivity}" drawable="waking_up"/>
 	
 	<!-- System | Default Apps -->
+	
+	<!-- Browser -->
+	<item component="ComponentInfo{org.lineageos.jelly/org.lineageos.jelly.MainActivity}" drawable="browser"/>
 	<!-- Calculator -->
 	<item component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}" drawable="calculator" />	
 	<item component="ComponentInfo{com.miui.calculator/com.miui.calculator.cal.CalculatorActivity}" drawable="calculator"/>
+	<item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="calculator"/>
+	<!-- Calendar -->
+	<item component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}" drawable="calendar"/>
+	<item component="ComponentInfo{org.lineageos.etar/com.android.calendar.AllInOneActivity}" drawable="calendar"/>
 	<!-- Clock -->
 	<item component="ComponentInfo{com.coloros.alarmclock/com.coloros.alarmclock.AlarmClock}" drawable="clock"/>
 	<item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock"/>
@@ -791,29 +817,33 @@
 	<item component="ComponentInfo{com.motorola.camera2/com.motorola.camera.Camera}" drawable="camera"/>
 	<item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="camera" />
 	<item component="ComponentInfo{com.nothing.camera/com.nothing.camera.activity.CameraActivity}" drawable="camera" />
+	<item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="camera"/>
 	<!-- Contacts -->
-	<item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}" drawable="people"/>
-	<item component="ComponentInfo{/com.android.contacts.DialtactsContactsEntryActivity}" drawable="people"/>
-	<item component="ComponentInfo{com.android.contacts/}" drawable="people"/>
-	<item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="people"/>
-	<item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="people"/>
-	<item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}" drawable="people"/>
-	<item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}" drawable="phone"/>
-	<item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}" drawable="icon"/>
-	<item component="ComponentInfo{/com.android.contacts.DialtactsContactsEntryActivity}" drawable="phone"/>
-	<item component="ComponentInfo{com.android.contacts/}" drawable="people"/>
+	<item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}" drawable="contacts"/>
+	<item component="ComponentInfo{/com.android.contacts.DialtactsContactsEntryActivity}" drawable="contacts"/>
+	<item component="ComponentInfo{com.android.contacts/}" drawable="contacts"/>
+	<item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts"/>
+	<item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts"/>
+	<item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}" drawable="contacts"/>
+	<item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}" drawable="contacts"/>
+	<item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}" drawable="contacts"/>
+	<item component="ComponentInfo{/com.android.contacts.DialtactsContactsEntryActivity}" drawable="contacts"/>
+	<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts"/>
+	<item component="ComponentInfo{com.android.contacts/}" drawable="contacts"/>
 	<!-- FM Radio -->
 	<item component="ComponentInfo{com.miui.fm/com.miui.fmradio.FmRadioActivity}" drawable="fmradio_3"/>
 	<!-- Messages -->
 	<item component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}" drawable="messages"/>
 	<item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="messages"/>
 	<item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="messages" />
+	<item component="ComponentInfo{com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="messages"/>
 	<!-- Phone -->
 	<item component="ComponentInfo{com.samsung.android.dialer/com.samsung.android.dialer.DialtactsActivity}" drawable="dialer"/>
 	<item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivityAlias}" drawable="dialer" />
 	<!-- Photos | Gallery -->
 	<item component="ComponentInfo{com.coloros.gallery3d/com.coloros.gallery3d.app.MainActivity}" drawable="gallery"/>
 	<item component="ComponentInfo{com.miui.gallery/com.miui.gallery.activity.HomePageActivity}" drawable="gallery" />
+	<item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="gallery"/>
 	<!-- Phone -->
 	<item component="ComponentInfo{com.android.dialer/com.android.dialer.main.impl.MainActivity}" drawable="dialer"/>
 	<item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="dialer"/>
@@ -821,6 +851,7 @@
 	<item component="ComponentInfo{com.coloros.soundrecorder/oplus.multimedia.soundrecorder.filebrowser.BrowseFile}" drawable="voice_recorder"/>
 	<item component="ComponentInfo{com.nothing.soundrecorder/com.android.soundrecorder.view.MainActivity}" drawable="voice_recorder" />
 	<item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" drawable="voice_recorder"/>
+	<item component="ComponentInfo{org.lineageos.recorder/org.lineageos.recorder.RecorderActivity}" drawable="voice_recorder"/>
 	<!-- Weather -->
 	<item component="ComponentInfo{com.miui.weather2/com.miui.weather2.ActivityWeatherMain}" drawable="weather" />
 </resources>
