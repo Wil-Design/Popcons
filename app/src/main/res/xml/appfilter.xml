@@ -793,6 +793,18 @@
 	<item component="ComponentInfo{com.actionlauncher.playstore/com.actionlauncher.ActionLauncherActivity}" drawable="action_launcher"/>
 	<!-- Waking Up -->
 	<item component="ComponentInfo{org.wakingup.android/org.wakingup.android.activity.MainActivity}" drawable="waking_up"/>
+	<!-- Indeed Job Search -->
+	<item component="ComponentInfo{com.indeed.android.jobsearch/com.indeed.android.jobsearch.LaunchActivity}" drawable="indeed_job_search"/>
+	<!-- Indeed Job Search -->
+	<AppIcon name="com.indeed.android.jobsearch/com.indeed.android.jobsearch.LaunchActivity" image="indeed_job_search"/>
+	<!-- Notesnook -->
+	<item component="ComponentInfo{com.streetwriters.notesnook/com.streetwriters.notesnook.MainActivity}" drawable="notesnook"/>
+	<!-- Freelancer - Upwork -->
+	<item component="ComponentInfo{com.upwork.android.apps.main/com.upwork.android.apps.main.MainActivity}" drawable="upwork"/>
+	<!-- Voice Search -->
+	<item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}" drawable="google"/>
+	<!-- My Budget Book -->
+	<item component="ComponentInfo{com.onetwoapps.mh/com.onetwoapps.mh.MainTabActivity}" drawable="my_budget_book"/>
 	
 	<!-- System | Default Apps -->
 	
@@ -847,6 +859,8 @@
 	<!-- Phone -->
 	<item component="ComponentInfo{com.android.dialer/com.android.dialer.main.impl.MainActivity}" drawable="dialer"/>
 	<item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="dialer"/>
+	<!-- Sim Toolkit -->
+	<item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="sim_toolkit"/>	
 	<!-- Voice Recorder -->
 	<item component="ComponentInfo{com.coloros.soundrecorder/oplus.multimedia.soundrecorder.filebrowser.BrowseFile}" drawable="voice_recorder"/>
 	<item component="ComponentInfo{com.nothing.soundrecorder/com.android.soundrecorder.view.MainActivity}" drawable="voice_recorder" />

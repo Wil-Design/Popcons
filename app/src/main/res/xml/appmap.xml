@@ -669,6 +669,17 @@
 	<item class="com.actionlauncher.ActionLauncherActivity" name="action_launcher"/>
 	<!-- Waking Up -->
 	<item class="org.wakingup.android.activity.MainActivity" name="waking_up"/>
+	<!-- Indeed Job Search -->
+	<item class="com.indeed.android.jobsearch.LaunchActivity" name="indeed_job_search"/>
+	<!-- Notesnook -->
+	<item class="com.streetwriters.notesnook.MainActivity" name="notesnook"/>
+	<!-- Freelancer - Upwork -->
+	<item class="com.upwork.android.apps.main.MainActivity" name="upwork"/>
+	<!-- Voice Search -->
+	<item class="com.google.android.googlequicksearchbox.VoiceSearchActivity" name="google"/>
+	<!-- My Budget Book -->
+	<item class="com.onetwoapps.mh.MainTabActivity" name="my_budget_book"/>
+
 	
 	<!-- System | Default Apps -->
 	
@@ -704,6 +715,8 @@
 	<item class="com.google.android.dialer.extensions.GoogleDialtactsActivity" name="dialer"/>
 	<item class="com.android.contacts.DialtactsActivityAlias" name="dialer"/>
 	<item class="com.android.dialer.main.impl.MainActivity" name="telephone"/>
+	<!-- Sim Toolkit -->
+	<item class="com.android.stk.StkMain" name="sim_toolkit"/>
 	<!-- Voice Recorder -->
 	<item class="oplus.multimedia.soundrecorder.filebrowser.BrowseFile" name="recorder"/>
 	<item class="com.android.soundrecorder.view.MainActivity" name="voice_recorder"/>

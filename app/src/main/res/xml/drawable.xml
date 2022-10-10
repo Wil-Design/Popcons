@@ -11,9 +11,13 @@
 	<item drawable="diskusage"/>
 	<item drawable="filen"/>
 	<item drawable="freelancer"/>
+	<item drawable="indeed_job_search"/>
+	<item drawable="my_budget_book"/>
+	<item drawable="notesnook"/>
 	<item drawable="play_console"/>
 	<item drawable="play_console_alt"/>
 	<item drawable="storygraph"/>
+	<item drawable="upwork"/>
 	<item drawable="waking_up"/>
 	<item drawable="xmanager"/>
 
@@ -480,6 +484,7 @@
 	<item drawable="messages_3"/>
 	<item drawable="messages_4"/>
 	<item drawable="messages_5"/>
+	<item drawable="sim_toolkit"/>
 	<item drawable="weather"/>
 	<item drawable="weather_2"/>
 	<item drawable="weather_3"/>
@@ -528,6 +533,7 @@
 	<item drawable="yt_studio"/>
 	
 	<category title="Alt"/>
+	<item drawable="apple_music_alt"/>
 	<item drawable="google_gallery_alt"/>
 	<item drawable="google_home_alt"/>
 	<item drawable="google_maps_alt"/>

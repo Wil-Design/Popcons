@@ -671,6 +671,14 @@
 	<AppIcon name="com.actionlauncher.playstore/com.actionlauncher.ActionLauncherActivity" image="action_launcher"/>
 	<!-- Waking Up -->
 	<AppIcon name="org.wakingup.android/org.wakingup.android.activity.MainActivity" image="waking_up"/>
+	<!-- Notesnook -->
+	<AppIcon name="com.streetwriters.notesnook/com.streetwriters.notesnook.MainActivity" image="notesnook"/>
+	<!-- Freelancer - Upwork -->
+	<AppIcon name="com.upwork.android.apps.main/com.upwork.android.apps.main.MainActivity" image="upwork"/>
+	<!-- Voice Search -->
+	<AppIcon name="com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity" image="google"/>
+	<!-- My Budget Book -->
+	<AppIcon name="com.onetwoapps.mh/com.onetwoapps.mh.MainTabActivity" image="my_budget_book"/>
 	
 	<!-- System | Default Apps -->
 	
@@ -708,6 +716,8 @@
 	<AppIcon name="com.coloros.gallery3d/com.coloros.gallery3d.app.MainActivity" image="gallery"/>
 	<AppIcon name="com.miui.gallery/com.miui.gallery.activity.HomePageActivity" image="gallery"/>
 	<AppIcon name="com.android.gallery3d/com.android.gallery3d.app.GalleryActivity" image="gallery"/>
+	<!-- Sim Toolkit -->
+	<AppIcon name="com.android.stk/com.android.stk.StkMain" image="sim_toolkit"/>
 	<!-- Voice Recorder -->
 	<AppIcon name="com.nothing.soundrecorder/com.android.soundrecorder.view.MainActivity" image="voice_recorder"/>
 	<AppIcon name="com.android.soundrecorder/com.android.soundrecorder.SoundRecorder" image="voice_recorder"/>
