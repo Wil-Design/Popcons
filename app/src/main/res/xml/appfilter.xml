@@ -58,6 +58,7 @@
 	<item component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}" drawable="discord"/>
 	<!-- Discord -->
 	<item component="ComponentInfo{com.discord/com.discord.main.MainActivity}" drawable="discord"/>
+	<item component="ComponentInfo{com.discord/com.bse.discord.lock.LockActivity}" drawable="discord"/>
 	<!-- Download Navi -->
 	<item component="ComponentInfo{com.tachibana.downloader/com.tachibana.downloader.ui.main.MainActivity}" drawable="download_navi"/>
 	<!-- DraStic -->
@@ -165,6 +166,7 @@
 	<item component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}" drawable="microsoft_todo"/>
 	<!-- MTN -->
 	<item component="ComponentInfo{com.mtnsar3/com.comviva.webaxn.ui.WebAxnActivity}" drawable="mtn"/>
+	<item component="ComponentInfo{ng.mtn.nextgen/ng.mtn.nextgen.MainActivity}" drawable="mtn"/>
 	<!-- My Files -->
 	<item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.MainActivity}" drawable="my_files"/>
 	<!-- MyFitnessPal -->
@@ -795,8 +797,6 @@
 	<item component="ComponentInfo{org.wakingup.android/org.wakingup.android.activity.MainActivity}" drawable="waking_up"/>
 	<!-- Indeed Job Search -->
 	<item component="ComponentInfo{com.indeed.android.jobsearch/com.indeed.android.jobsearch.LaunchActivity}" drawable="indeed_job_search"/>
-	<!-- Indeed Job Search -->
-	<AppIcon name="com.indeed.android.jobsearch/com.indeed.android.jobsearch.LaunchActivity" image="indeed_job_search"/>
 	<!-- Notesnook -->
 	<item component="ComponentInfo{com.streetwriters.notesnook/com.streetwriters.notesnook.MainActivity}" drawable="notesnook"/>
 	<!-- Freelancer - Upwork -->
@@ -805,6 +805,59 @@
 	<item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}" drawable="google"/>
 	<!-- My Budget Book -->
 	<item component="ComponentInfo{com.onetwoapps.mh/com.onetwoapps.mh.MainTabActivity}" drawable="my_budget_book"/>
+	<!-- OctoDroid -->
+	<item component="ComponentInfo{com.gh4a/com.gh4a.activities.Github4AndroidActivity}" drawable="octodroid"/>
+	<!-- CareerJunction -->
+	<item component="ComponentInfo{com.saongroup.careerjunction/com.stepstone.feature.splash.presentation.view.SCSplashActivity}" drawable="careerjunction"/>
+	<!-- DroidFS -->
+	<item component="ComponentInfo{sushi.hardcore.droidfs/sushi.hardcore.droidfs.MainActivity}" drawable="droidfs"/>
+	<!-- Moon+ Reader Pro -->
+	<item component="ComponentInfo{com.flyersoft.moonreaderp/com.flyersoft.moonreaderp.ActivityMain}" drawable="moon_reader"/>
+	<!-- Samsung Secure Folder -->
+	<item component="ComponentInfo{com.samsung.knox.securefolder/com.samsung.knox.securefolder.presentation.switcher.view.SecureFolderShortcutActivity}" drawable="secure_folder" />
+	<!-- Adblock Fast -->
+	<item component="ComponentInfo{com.rocketshipapps.adblockfast/com.rocketshipapps.adblockfast.MainActivity}" drawable="adblock_fast" />
+	<!-- Facebook Messenger Lite -->
+	<item component="ComponentInfo{com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity}" drawable="facebook_messenger_lite"/>
+	<!-- Today Weather -->
+	<item component="ComponentInfo{mobi.lockdown.weather/mobi.lockdown.weather.activity.SplashActivity}" drawable="today_weather"/>
+	<!-- Layout -->
+	<item component="ComponentInfo{com.instagram.layout/com.instagram.layout.LayoutActivity}" drawable="layout"/>
+	<!-- Kuda -->
+	<item component="ComponentInfo{com.kudabank.app/com.kudabank.app.common.base.NormalLauncherAlias}" drawable="kuda"/>
+	<!-- Icon Pack Studio -->
+	<item component="ComponentInfo{ginlemon.iconpackstudio/ginlemon.iconpackstudio.editor.homeActivity.HomeActivity}" drawable="icon_pack_studio"/>
+	<!-- Binance -->
+	<item component="ComponentInfo{com.binance.dev/com.eaas.launcher.activities.main.MainActivity}" drawable="binance"/>
+	<!-- PiggyVest -->
+	<item component="ComponentInfo{com.piggybankng.piggy/com.piggybankng.piggy.SplashActivity}" drawable="piggyvest"/>
+	<!-- OPay -->
+	<item component="ComponentInfo{team.opay.pay/team.opay.pay.home.DexloadActivity}" drawable="opay"/>
+	<!-- NiceLock -->
+	<item component="ComponentInfo{com.bluehorizonapps.nicelock3/com.bluehorizonapps.nicelock3.MainActivity}" drawable="nicelock"/>
+	<!-- Fantacalcio -->
+	<item component="ComponentInfo{com.quadronica.fantacalcio/com.quadronica.fantacalcio.ui.feature.startup.activity.StartupActivity}" drawable="fantacalcio"/>
+	<!-- Fineco -->
+	<item component="ComponentInfo{com.fineco.it/it.fineco.finecoevolution.view.splash.SplashActivity}" drawable="fineco"/>
+	<!-- Axios Famiglia -->
+	<item component="ComponentInfo{com.axiositalia.re.family/com.axiositalia.re.family.MainActivity}" drawable="axios_famiglia"/>
+	<!-- FAST -->
+	<item component="ComponentInfo{com.netflix.Speedtest/com.netflix.Speedtest.MainActivity}" drawable="fast"/>
+	<!-- Open Camera -->
+	<item component="ComponentInfo{net.sourceforge.opencamera/net.sourceforge.opencamera.MainActivity}" drawable="open_camera"/>
+	<!-- Zepp Life -->
+	<item component="ComponentInfo{com.xiaomi.hm.health/com.xiaomi.hm.health.activity.StartUpActivity}" drawable="zepp_life"/>
+	<!-- Totalplay -->
+	<item component="ComponentInfo{com.TotalPlay.totalplay/mx.com.totalplay.core2.home.Core2SplashActivity}" drawable="totalplay"/>
+	<!-- Paisa -->
+	<item component="ComponentInfo{dev.hemanths.paisa/dev.hemanths.paisa.MainActivity}" drawable="paisa"/>
+	<!-- QR Lens -->
+	<item component="ComponentInfo{com.omerdotdev.qrlenscmnty/com.omerdotdev.qrlenscmnty.MainActivity}" drawable="qr_lens"/>
+	<!-- JivoChat -->
+	<item component="ComponentInfo{com.jivosite.mobile/com.jivosite.mobile.ui.main.MainActivity}" drawable="jivochat"/>
+	<!-- Teléfono -->
+	<item component="ComponentInfo{com.TotalPlay.totalplaytelefono/com.TotalPlay.totalplaytelefono.SplashScreen}" drawable="telefono"/>
+
 	
 	<!-- System | Default Apps -->
 	
@@ -814,6 +867,7 @@
 	<item component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}" drawable="calculator" />	
 	<item component="ComponentInfo{com.miui.calculator/com.miui.calculator.cal.CalculatorActivity}" drawable="calculator"/>
 	<item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="calculator"/>
+	<item component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}" drawable="calculator"/>
 	<!-- Calendar -->
 	<item component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}" drawable="calendar"/>
 	<item component="ComponentInfo{org.lineageos.etar/com.android.calendar.AllInOneActivity}" drawable="calendar"/>
@@ -830,6 +884,7 @@
 	<item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="camera" />
 	<item component="ComponentInfo{com.nothing.camera/com.nothing.camera.activity.CameraActivity}" drawable="camera" />
 	<item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="camera"/>
+	<item component="ComponentInfo{com.google.android.apps.cameralite/com.google.android.apps.cameralite.capture.CaptureActivity}" drawable="camera"/>
 	<!-- Contacts -->
 	<item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}" drawable="contacts"/>
 	<item component="ComponentInfo{/com.android.contacts.DialtactsContactsEntryActivity}" drawable="contacts"/>
@@ -849,6 +904,8 @@
 	<item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="messages"/>
 	<item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="messages" />
 	<item component="ComponentInfo{com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="messages"/>
+	<!-- Music -->
+	<item component="ComponentInfo{org.lineageos.eleven/org.lineageos.eleven.ui.activities.HomeActivity}" drawable="music"/>
 	<!-- Phone -->
 	<item component="ComponentInfo{com.samsung.android.dialer/com.samsung.android.dialer.DialtactsActivity}" drawable="dialer"/>
 	<item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivityAlias}" drawable="dialer" />
@@ -860,12 +917,14 @@
 	<item component="ComponentInfo{com.android.dialer/com.android.dialer.main.impl.MainActivity}" drawable="dialer"/>
 	<item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="dialer"/>
 	<!-- Sim Toolkit -->
-	<item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="sim_toolkit"/>	
+	<item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="sim_toolkit"/>
+	<item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}" drawable="sim_toolkit"/>
 	<!-- Voice Recorder -->
 	<item component="ComponentInfo{com.coloros.soundrecorder/oplus.multimedia.soundrecorder.filebrowser.BrowseFile}" drawable="voice_recorder"/>
 	<item component="ComponentInfo{com.nothing.soundrecorder/com.android.soundrecorder.view.MainActivity}" drawable="voice_recorder" />
 	<item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" drawable="voice_recorder"/>
 	<item component="ComponentInfo{org.lineageos.recorder/org.lineageos.recorder.RecorderActivity}" drawable="voice_recorder"/>
+	<item component="ComponentInfo{com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity}" drawable="voice_recorder"/>
 	<!-- Weather -->
 	<item component="ComponentInfo{com.miui.weather2/com.miui.weather2.ActivityWeatherMain}" drawable="weather" />
 </resources>

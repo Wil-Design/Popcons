@@ -55,6 +55,7 @@
 	<item class="com.discord.app.AppActivity$Main" name="discord"/>
 	<!-- Discord -->
 	<item class="com.discord.main.MainActivity" name="discord"/>
+	<item class="com.bse.discord.lock.LockActivity" name="discord"/>
 	<!-- Download Navi -->
 	<item class="com.tachibana.downloader.ui.main.MainActivity" name="download_navi"/>
 	<!-- DraStic -->
@@ -164,6 +165,7 @@
 	<item class="com.microsoft.todos.ui.LaunchActivity" name="microsoft_todo"/>
 	<!-- MTN -->
 	<item class="com.comviva.webaxn.ui.WebAxnActivity" name="mtn"/>
+	<item class="ng.mtn.nextgen.MainActivity" name="mtn"/>
 	<!-- My Files -->
 	<item class="com.sec.android.app.myfiles.external.ui.MainActivity" name="my_files"/>
 	<!-- MyFitnessPal -->
@@ -679,7 +681,58 @@
 	<item class="com.google.android.googlequicksearchbox.VoiceSearchActivity" name="google"/>
 	<!-- My Budget Book -->
 	<item class="com.onetwoapps.mh.MainTabActivity" name="my_budget_book"/>
-
+	<!-- OctoDroid -->
+	<item class="com.gh4a.activities.Github4AndroidActivity" name="octodroid"/>
+	<!-- CareerJunction -->
+	<item class="com.stepstone.feature.splash.presentation.view.SCSplashActivity" name="careerjunction"/>
+	<!-- DroidFS -->
+	<item class="sushi.hardcore.droidfs.MainActivity" name="droidfs"/>
+	<!-- Moon+ Reader Pro -->
+	<item class="com.flyersoft.moonreaderp.ActivityMain" name="moon_reader"/>
+	<!-- Samsung Secure Folder -->
+	<item class="com.samsung.knox.securefolder.presentation.switcher.view.SecureFolderShortcutActivity" name="secure_folder"/>
+	<!-- Adblock Fast -->
+	<item class="com.rocketshipapps.adblockfast.MainActivity" name="adblock_fast"/>
+	<!-- Facebook Messenger Lite -->
+	<item class="com.facebook.mlite.coreui.view.MainActivity" name="facebook_messenger_lite"/>
+	<!-- Today Weather -->
+	<item class="mobi.lockdown.weather.activity.SplashActivity" name="today_weather"/>
+	<!-- Layout -->
+	<item class="com.instagram.layout.LayoutActivity" name="layout"/>
+	<!-- Kuda -->
+	<item class="com.kudabank.app.common.base.NormalLauncherAlias" name="kuda"/>
+	<!-- Icon Pack Studio -->
+	<item class="ginlemon.iconpackstudio.editor.homeActivity.HomeActivity" name="icon_pack_studio"/>
+	<!-- Binance -->
+	<item class="com.eaas.launcher.activities.main.MainActivity" name="binance"/>
+	<!-- PiggyVest -->
+	<item class="com.piggybankng.piggy.SplashActivity" name="piggyvest"/>
+	<!-- OPay -->
+	<item class="team.opay.pay.home.DexloadActivity" name="opay"/>
+	<!-- NiceLock -->
+	<item class="com.bluehorizonapps.nicelock3.MainActivity" name="nicelock"/>
+	<!-- Fantacalcio -->
+	<item class="com.quadronica.fantacalcio.ui.feature.startup.activity.StartupActivity" name="fantacalcio"/>
+	<!-- Fineco -->
+	<item class="it.fineco.finecoevolution.view.splash.SplashActivity" name="fineco"/>
+	<!-- Axios Famiglia -->
+	<item class="com.axiositalia.re.family.MainActivity" name="axios_famiglia"/>
+	<!-- FAST -->
+	<item class="com.netflix.Speedtest.MainActivity" name="fast"/>
+	<!-- Open Camera -->
+	<item class="net.sourceforge.opencamera.MainActivity" name="open_camera"/>
+	<!-- Zepp Life -->
+	<item class="com.xiaomi.hm.health.activity.StartUpActivity" name="zepp_life"/>
+	<!-- Totalplay -->
+	<item class="mx.com.totalplay.core2.home.Core2SplashActivity" name="totalplay"/>
+	<!-- Paisa -->
+	<item class="dev.hemanths.paisa.MainActivity" name="paisa"/>
+	<!-- QR Lens -->
+	<item class="com.omerdotdev.qrlenscmnty.MainActivity" name="qr_lens"/>
+	<!-- JivoChat -->
+	<item class="com.jivosite.mobile.ui.main.MainActivity" name="jivochat"/>
+	<!-- Teléfono -->
+	<item class="com.TotalPlay.totalplaytelefono.SplashScreen" name="telefono"/>
 	
 	<!-- System | Default Apps -->
 	
@@ -689,11 +742,13 @@
 	<item class="com.android.calculator2.Calculator" name="calculator"/>
 	<item class="com.miui.calculator.cal.CalculatorActivity" name="calculator"/>
 	<item class="com.android.calculator2.Calculator" name="calculator"/>
+	<item class="com.sec.android.app.popupcalculator.Calculator" name="calculator"/>
 	<!-- Camera -->
 	<item class="com.motorola.camera.Camera" name="camera"/>
 	<item class="com.android.camera.Camera" name="camera"/>
 	<item class="com.nothing.camera.activity.CameraActivity" name="camera"/>
 	<item class="com.android.camera.CameraLauncher" name="camera"/>
+	<item class="com.google.android.apps.cameralite.capture.CaptureActivity" name="camera"/>
 	<!-- Calendar -->
 	<item class="com.samsung.android.app.calendar.activity.MainActivity" name="calendar"/>
 	<item class="com.android.calendar.AllInOneActivity" name="calendar"/>
@@ -707,6 +762,8 @@
 	<!-- Messages -->
 	<item class="com.android.mms.ui.ConversationList" name="messages"/>
 	<item class="com.android.messaging.ui.conversationlist.ConversationListActivity" name="messages"/>
+	<!-- Music -->
+	<item class="org.lineageos.eleven.ui.activities.HomeActivity" name="music"/>
 	<!-- Photos | Galley -->
 	<item class="com.coloros.gallery3d.app.MainActivity" name="gallery"/>
 	<item class="com.miui.gallery.activity.HomePageActivity" name="gallery"/>
@@ -717,11 +774,13 @@
 	<item class="com.android.dialer.main.impl.MainActivity" name="telephone"/>
 	<!-- Sim Toolkit -->
 	<item class="com.android.stk.StkMain" name="sim_toolkit"/>
+	<item class="com.android.stk.StkLauncherActivity" name="sim_toolkit"/>
 	<!-- Voice Recorder -->
 	<item class="oplus.multimedia.soundrecorder.filebrowser.BrowseFile" name="recorder"/>
 	<item class="com.android.soundrecorder.view.MainActivity" name="voice_recorder"/>
 	<item class="com.android.soundrecorder.SoundRecorder" name="voice_recorder"/>
 	<item class="org.lineageos.recorder.RecorderActivity" name="voice_recorder"/>
+	<item class="com.sec.android.app.voicenote.main.VNMainActivity" name="voice_recorder"/>
 	<!-- Weather -->
 	<item class="com.miui.weather2.ActivityWeatherMain" name="weather"/>
 </appmap>
