@@ -735,6 +735,28 @@
 	<AppIcon name="com.jivosite.mobile/com.jivosite.mobile.ui.main.MainActivity" image="jivochat"/>
 	<!-- Teléfono -->
 	<AppIcon name="com.TotalPlay.totalplaytelefono/com.TotalPlay.totalplaytelefono.SplashScreen" image="telefono"/>
+	<!-- DeepL -->
+	<AppIcon name="com.deepl.mobiletranslator/com.deepl.mobiletranslator.MainActivity" image="deepl"/>
+	<!-- Remind -->
+	<AppIcon name="com.remind101/com.remind101.splash.SplashActivity" image="remind"/>
+	<!-- Kiwi Browser -->
+	<AppIcon name="com.kiwibrowser.browser/com.google.android.apps.chrome.Main" image="kiwi_browser"/>
+	<!-- Poweramp -->
+	<AppIcon name="com.maxmpz.audioplayer/com.maxmpz.audioplayer.standard_adaptive" image="poweramp"/>
+	<!-- Poweramp Equalizer -->
+	<AppIcon name="com.maxmpz.equalizer/com.maxmpz.equalizer.standard_adaptive" image="poweramp_equalizer"/>
+	<!-- Showly -->
+	<AppIcon name="com.michaldrabik.showly2/com.michaldrabik.showly2.ui.main.MainActivity" image="showly"/>
+	<!-- inshorts -->
+	<AppIcon name="com.nis.app/com.nis.app.ui.activities.HomeActivity" image="inshorts"/>
+	<!-- ininal -->
+	<AppIcon name="com.ininal.wallet/com.ininal.wallet.ui.main.Launcher" image="ininal"/>
+	<!-- Mackolik -->
+	<AppIcon name="com.kokteyl.mackolik/com.perform.livescores.presentation.views.activities.SplashActivity" image="mackolik"/>
+	<!-- Nike⁠ Run Club -->
+	<AppIcon name="com.nike.plusgps/com.nike.plusgps.SplashActivity" image="nike⁠_run_club"/>
+	<!-- Nike Run Club -->
+	<AppIcon name="com.nike.plusgps/com.nike.plusgps.SplashActivity" image="nike_run_club"/>
 	
 	<!-- System | Default Apps -->
 	
@@ -745,10 +767,12 @@
 	<AppIcon name="com.google.android.calculator/com.android.calculator2.Calculator" image="calculator"/>
 	<AppIcon name="com.android.calculator2/com.android.calculator2.Calculator" image="calculator"/>
 	<AppIcon name="com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator" image="calculator"/>
+	<AppIcon name="com.darkempire78.opencalculator/com.darkempire78.opencalculator.MainActivity" image="calculator"/>
 	<!-- Calendar -->
 	<AppIcon name="com.xiaomi.calendar/com.android.calendar.homepage.AllInOneActivity" image="calendar"/>
 	<AppIcon name="com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity" image="calendar"/>
 	<AppIcon name="org.lineageos.etar/com.android.calendar.AllInOneActivity" image="calendar"/>
+	<AppIcon name="com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Orange" image="calendar"/>
 	<!-- Camera -->
 	<AppIcon name="com.motorola.camera2/com.motorola.camera.Camera" image="camera"/>
 	<AppIcon name="com.sec.android.app.camera/com.sec.android.app.camera.Camera" image="camera"/>
@@ -756,6 +780,7 @@
 	<AppIcon name="com.nothing.camera/com.nothing.camera.activity.CameraActivity" image="camera"/>
 	<AppIcon name="com.android.camera2/com.android.camera.CameraLauncher" image="camera"/>
 	<AppIcon name="com.google.android.apps.cameralite/com.google.android.apps.cameralite.capture.CaptureActivity" image="camera"/>
+	<AppIcon name="com.oplus.camera/com.oplus.camera.Camera" image="camera"/>
 	<!-- Contacts App -->
 	<AppIcon name="com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity" image="contacts"/>
 	<AppIcon name="com.android.contacts/com.android.contacts.activities.PeopleActivity" image="contacts"/>
@@ -765,6 +790,7 @@
 	<AppIcon name="com.miui.fm/com.miui.fmradio.FmRadioActivity" image="fmradio_3"/>
 	<!-- Messages -->
 	<AppIcon name="com.android.mms/com.android.mms.ui.ConversationList" image="messages"/>
+	<AppIcon name="com.android.messaging/com.android.messaging.ui.conversation.FirstActivity" image="messaging"/>
 	<AppIcon name="com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity" image="messages"/>
 	<!-- Music -->
 	<AppIcon name="org.lineageos.eleven/org.lineageos.eleven.ui.activities.HomeActivity" image="music"/>

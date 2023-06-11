@@ -733,6 +733,24 @@
 	<item class="com.jivosite.mobile.ui.main.MainActivity" name="jivochat"/>
 	<!-- Teléfono -->
 	<item class="com.TotalPlay.totalplaytelefono.SplashScreen" name="telefono"/>
+	<!-- DeepL -->
+	<item class="com.deepl.mobiletranslator.MainActivity" name="deepl"/>
+	<!-- Remind -->
+	<item class="com.remind101.splash.SplashActivity" name="remind"/>
+	<!-- Kiwi Browser -->
+	<item class="com.google.android.apps.chrome.Main" name="kiwi_browser"/>
+	<!-- Poweramp -->
+	<item class="com.maxmpz.audioplayer.standard_adaptive" name="poweramp"/>
+	<!-- Poweramp Equalizer -->
+	<item class="com.maxmpz.equalizer.standard_adaptive" name="poweramp_equalizer"/>
+	<!-- Showly -->
+	<item class="com.michaldrabik.showly2.ui.main.MainActivity" name="showly"/>
+	<!-- inshorts -->
+	<item class="com.nis.app.ui.activities.HomeActivity" name="inshorts"/>
+	<!-- ininal -->
+	<item class="com.ininal.wallet.ui.main.Launcher" name="ininal"/>
+	<!-- Nike Run Club -->
+	<item class="com.nike.plusgps.SplashActivity" name="nike_run_club"/>
 	
 	<!-- System | Default Apps -->
 	
@@ -743,15 +761,18 @@
 	<item class="com.miui.calculator.cal.CalculatorActivity" name="calculator"/>
 	<item class="com.android.calculator2.Calculator" name="calculator"/>
 	<item class="com.sec.android.app.popupcalculator.Calculator" name="calculator"/>
+	<item class="com.darkempire78.opencalculator.MainActivity" name="calculator"/>
 	<!-- Camera -->
 	<item class="com.motorola.camera.Camera" name="camera"/>
 	<item class="com.android.camera.Camera" name="camera"/>
 	<item class="com.nothing.camera.activity.CameraActivity" name="camera"/>
 	<item class="com.android.camera.CameraLauncher" name="camera"/>
+	<item class="com.oplus.camera.Camera" name="camera"/>
 	<item class="com.google.android.apps.cameralite.capture.CaptureActivity" name="camera"/>
 	<!-- Calendar -->
 	<item class="com.samsung.android.app.calendar.activity.MainActivity" name="calendar"/>
 	<item class="com.android.calendar.AllInOneActivity" name="calendar"/>
+	<item class="com.simplemobiletools.calendar.pro.activities.SplashActivity.Orange" name="calendar"/>
 	<!-- Clock -->
 	<item class="com.android.deskclock.DeskClockTabActivity" name="clock"/>
 	<!-- Contacts App -->
@@ -762,6 +783,7 @@
 	<!-- Messages -->
 	<item class="com.android.mms.ui.ConversationList" name="messages"/>
 	<item class="com.android.messaging.ui.conversationlist.ConversationListActivity" name="messages"/>
+	<item class="com.android.messaging.ui.conversation.FirstActivity" name="messages"/>
 	<!-- Music -->
 	<item class="org.lineageos.eleven.ui.activities.HomeActivity" name="music"/>
 	<!-- Photos | Galley -->
