@@ -44,6 +44,6 @@ dependencies {
      * If you've missed some versions you've to also follow update guide for those versions
      */
 
-    implementation 'com.github.Donnnno:candybar-foss:3.14.2'
+    implementation 'com.github.Donnnno:candybar-foss:3.16.1'
 
 }
