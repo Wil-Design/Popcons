@@ -34,7 +34,7 @@ jobs:
 
       - name: Install Google Drive CLI
         run: |
-          curl -fsSL https://github.com/prasmussen/gdrive/releases/download/2.1.1/gdrive-linux-x64 > gdrive
+          curl -L https://github.com/glotlabs/gdrive/releases/latest/download/gdrive-linux-x64 -o gdrive
           chmod +x gdrive
           sudo mv gdrive /usr/local/bin/
 
