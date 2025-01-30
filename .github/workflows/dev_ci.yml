@@ -1,0 +1,44 @@
+name: Dev Release for Google Drive
+
+on:
+  push:
+    branches:
+      - development
+
+jobs:
+  build:
+    name: Build and Release to GDrive
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup
+        uses: actions/setup-java@v3
+        with:
+          distribution: 'temurin'
+          java-version: '17'
+
+      - name: Decode keystore
+        run: echo "${{ secrets.KEYSTORE_BASE64 }}" | base64 --decode > keystore.jks
+
+      - name: Set up Gradle
+        uses: gradle/actions/setup-gradle@v3
+
+      - name: Build APK
+        run: ./gradlew assembleRelease
+
+      - name: Install Google Drive CLI
+        run: |
+          curl -fsSL https://github.com/prasmussen/gdrive/releases/download/2.1.1/gdrive-linux-x64 > gdrive
+          chmod +x gdrive
+          sudo mv gdrive /usr/local/bin/
+
+      - name: Authenticate Google Drive
+        run: echo '${{ secrets.GDRIVE_SERVICE_ACCOUNT_JSON }}' > service_account.json
+
+      - name: Upload APK to Google Drive
+        run: |
+          FILE_ID=$(gdrive upload --service-account service_account.json --parent "${{ vars.GDRIVE_FOLDER_ID }}" app/build/outputs/apk/release/app-release.apk | awk '{print $2}')
+          echo "Download link: https://drive.google.com/file/d/$FILE_ID/view" >> $GITHUB_STEP_SUMMARY
