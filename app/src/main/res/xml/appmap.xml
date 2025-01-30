@@ -267,7 +267,7 @@
 	<!-- YouTube Music -->
 	<item class="com.google.android.apps.youtube.music.activities.MusicActivity" name="youtube_music"/>
 	<!-- Popcons -->
-	<item class="com.wil.popcons.activities.SplashActivity" name="popcons"/>
+<!--	<item class="com.wil.popcons.activities.SplashActivity" name="popcons"/>-->
 	<!-- Delta -->
 	<item class="website.leifs.delta.activities.SplashActivity" name="delta_icon_pack"/>
 	<!-- Figma -->

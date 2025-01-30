@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    android:installLocation="auto"
-    package="com.wil.popcons">
+    android:installLocation="auto">
+
+
+    <!-- If you are not using license checker, you need to remove CHECK_LICENSE permission -->
+<!--    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />-->
+
+    <!-- If you are using OneSignal then you need to uncomment this line -->
+    <!--<uses-permission android:name="android.permission.POST_NOTIFICATIONS" />-->
 
 
     <supports-screens
@@ -19,34 +25,22 @@
         android:networkSecurityConfig="@xml/network_config"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/CandyBar.Theme.App"
+        android:theme="@style/Theme.App.Starting"
         tools:replace="android:icon"
         tools:targetApi="n">
 
         <activity
-            android:name="com.wil.popcons.activities.SplashActivity"
+            android:name="com.wil.popcons.activities.MainActivity"
             android:launchMode="singleTop"
-            android:noHistory="true"
-            android:screenOrientation="fullSensor"
-            android:theme="@style/CandyBar.Theme.Splash"
+            android:theme="@style/Theme.App.Starting"
+            android:configChanges="uiMode|orientation|keyboardHidden|screenSize"
             android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
             <meta-data
                 android:name="android.app.shortcuts"
                 android:resource="@xml/shortcuts" />
-        </activity>
-
-        <activity
-            android:name="com.wil.popcons.activities.MainActivity"
-            android:launchMode="singleTop"
-            android:theme="@style/CandyBar.Theme.App"
-            android:configChanges="uiMode|orientation|keyboardHidden|screenSize"
-            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />

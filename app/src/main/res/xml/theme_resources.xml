@@ -21,7 +21,7 @@
 	<!-- Figma -->
 	<AppIcon name="com.figma.mirror/com.figma.figma.MainActivity" image="figma_mirror"/>
 	<!-- Popcons -->
-	<AppIcon name="com.wil.popcons/com.wil.popcons.activities.SplashActivity" image="popcons"/>
+<!--	<AppIcon name="com.wil.popcons/com.wil.popcons.activities.SplashActivity" image="popcons"/>-->
 	<!-- Sync Pro -->
 	<AppIcon name="com.laurencedawson.reddit_sync.pro/com.laurencedawson.reddit_sync.ui.activities.HomeActivity.Default" image="sync_pro"/>
 	<!-- Syncthing-Fork -->

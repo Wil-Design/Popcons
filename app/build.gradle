@@ -1,23 +1,30 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion rootProject.ext.CompileSdk
+    compileSdk rootProject.ext.CompileSdk
+
+    namespace 'com.candybar.sample'
 
     defaultConfig {
         applicationId 'com.wil.popcons'
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 10
-        versionName '1'
-        multiDexEnabled true
-
-        // Naming app bundles
-        setArchivesBaseName("${parent.name}-v${versionCode}")
+        versionCode 11
+        versionName '1.1'
     }
 
     bundle {
         language {
             enableSplit false
+        }
+    }
+
+    signingConfigs {
+        release {
+            storeFile file("keystore.jks")
+            storePassword System.getenv("KEYSTORE_PASSWORD")
+            keyAlias System.getenv("KEY_ALIAS")
+            keyPassword System.getenv("KEY_PASSWORD")
         }
     }
 
@@ -28,11 +35,21 @@ android {
         }
     }
 
-    compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_8
-        targetCompatibility JavaVersion.VERSION_1_8
+    lint {
+        abortOnError false
     }
 }
+
+base {
+    // Output file name
+    archivesName = "${parent.name}-${android.defaultConfig.versionCode}"
+}
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(11)
+    }
+}
+
 
 dependencies {
     /*
@@ -44,6 +61,25 @@ dependencies {
      * If you've missed some versions you've to also follow update guide for those versions
      */
 
-    implementation 'com.github.Donnnno:candybar-foss:3.14.2'
+    implementation 'com.github.Donnnno:candybar-foss:3.21.1'
 
+    // TODO: Remove `//` below to enable OneSignal
+    //implementation 'com.onesignal:OneSignal:[5.0.0, 5.99.99]'
+
+}
+
+// Code for automatically copying appfilter.xml and drawable.xml
+// from `res/xml` directory to `assets` directory
+tasks.register('copyXMLs') {
+    ['appfilter.xml', 'drawable.xml'].each { file ->
+        copy {
+            from "$projectDir/src/main/res/xml/$file"
+            into "$projectDir/src/main/assets/"
+        }
+    }
+}
+tasks.whenTaskAdded { task ->
+    if (task.name == 'assembleDebug' || task.name == 'assembleRelease') {
+        task.dependsOn copyXMLs
+    }
 }

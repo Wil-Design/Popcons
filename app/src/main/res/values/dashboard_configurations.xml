@@ -16,6 +16,8 @@
     -->
     <string name="default_theme">auto</string>
 
+    <!-- Whether the Material You theme should be applied by default in supported devices -->
+    <bool name="material_you_by_default">true</bool>
 
     <!--
         CONFIG: MUZEI
@@ -170,15 +172,17 @@
         but you also want users able to make 10 request again after update, then enable this option -->
     <bool name="reset_icon_request_limit">true</bool>
 
-    <!-- Enable JSON check before requesting icons
-        It needs the option "config_json" to be configured in order to work -->
-    <bool name="json_check_before_request">false</bool>
-
     <!-- Enable or disable premium icon request
         In premium request, your users will purchase a premium request product (which you specify in the "License.java" file)
         Later they can use the premium request product to do premium icon request.
         It's something like, paying a sum of money for getting requested icons faster. -->
     <bool name="enable_premium_request">false</bool>
+
+    <!-- Enable the option to "Restore Purchases" in Settings section of the app.
+        It would be best if you set it to `false`, because it's known that some
+        people misuse this feature and make **more** premium icon request than the amount
+        they bought -->
+    <bool name="enable_restore_purchases">false</bool>
 
     <!-- Take a look inside "License.java" for premium request product -->
 
@@ -334,5 +338,14 @@
 
     <!-- Show intro guides on first run -->
     <bool name="show_intro">true</bool>
+
+    <!-- Enable/disable in-app review -->
+    <bool name="enable_in_app_review">true</bool>
+    <!-- After how many seconds the dashboard should count that the user visited the app.
+        By default it is set to 30 seconds. If the user opens the app and stays for 30 seconds,
+        it would be counted as a visit -->
+    <integer name="in_app_review_visit_time">30</integer>
+    <!-- After how many visits the in app review dialog should pop up -->
+    <integer name="in_app_review_after_visits">2</integer>
 
 </resources>

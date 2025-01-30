@@ -1,6 +1,7 @@
 package com.wil.popcons.applications;
 
 import androidx.annotation.NonNull;
+import com.candybar.sample.R;
 
 // TODO: Remove `//` below to enable OneSignal
 //import com.onesignal.OneSignal;
@@ -16,15 +17,19 @@ public class CandyBar extends CandyBarApplication {
         super.onCreate();
 
         // OneSignal Initialization
-        OneSignal.initWithContext(this);
-        OneSignal.setAppId("YOUR_ONESIGNAL_APP_ID_HERE");
+        OneSignal.initWithContext(this, "YOUR_ONESIGNAL_APP_ID");
     }
     */
 
     @NonNull
     @Override
+    public Class<?> getDrawableClass() {
+        return R.drawable.class;
+    }
+
+    @NonNull
+    @Override
     public Configuration onInit() {
-        // Sample configuration
         Configuration configuration = new Configuration();
 
         configuration.setGenerateAppFilter(true);
