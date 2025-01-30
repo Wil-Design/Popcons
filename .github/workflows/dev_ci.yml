@@ -35,16 +35,20 @@ jobs:
       - name: List files
         run: ls app/build/outputs/apk/release/
 
-      - name: Install Google Drive CLI
+      - name: Find APK
+        id: find_apk
         run: |
-          curl -L https://github.com/glotlabs/gdrive/releases/latest/download/gdrive-linux-x64 -o gdrive
-          chmod +x gdrive
-          sudo mv gdrive /usr/local/bin/
-
-      - name: Authenticate Google Drive
-        run: echo '${{ secrets.GDRIVE_SERVICE_ACCOUNT_JSON }}' > service_account.json
+          APK_PATH=$(find ./app/build/outputs/apk/release -name "*.apk" -print -quit)
+          echo "::set-output name=apk_path::$APK_PATH"
 
       - name: Upload APK to Google Drive
-        run: |
-          FILE_ID=$(gdrive upload --service-account service_account.json --parent "${{ vars.GDRIVE_FOLDER_ID }}" app/build/outputs/apk/release/app-release.apk | awk '{print $2}')
-          echo "Download link: https://drive.google.com/file/d/$FILE_ID/view" >> $GITHUB_STEP_SUMMARY
+        uses: google-github-actions/upload-to-drive@v1
+        with:
+          credentials_json: ${{ secrets.GDRIVE_SERVICE_ACCOUNT_JSON }}
+          file: ${{ steps.find_apk.outputs.apk_path }}
+          name: popcons.apk
+          folder_id: ${{ vars.GDRIVE_FOLDER_ID }}
+
+      - name: Cleanup APK
+        if: always()
+        run: rm -f ${{ steps.find_apk.outputs.apk_path }}
