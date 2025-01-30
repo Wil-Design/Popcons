@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdk rootProject.ext.CompileSdk
 
-    namespace 'com.candybar.sample'
+    namespace 'com.wil.popcons'
 
     defaultConfig {
         applicationId 'com.wil.popcons'

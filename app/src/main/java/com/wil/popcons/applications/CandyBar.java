@@ -1,7 +1,7 @@
 package com.wil.popcons.applications;
 
 import androidx.annotation.NonNull;
-import com.candybar.sample.R;
+import com.wil.popcons.R;
 
 // TODO: Remove `//` below to enable OneSignal
 //import com.onesignal.OneSignal;

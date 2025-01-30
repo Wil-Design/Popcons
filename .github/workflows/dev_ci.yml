@@ -32,6 +32,9 @@ jobs:
       - name: Build APK
         run: ./gradlew assembleRelease
 
+      - name: List files
+        run: ls app/build/outputs/apk/release/
+
       - name: Install Google Drive CLI
         run: |
           curl -L https://github.com/glotlabs/gdrive/releases/latest/download/gdrive-linux-x64 -o gdrive
