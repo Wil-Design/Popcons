@@ -1,0 +1,40 @@
+name: Android Release
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Build & Upload to Play Store
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up JDK
+        uses: actions/setup-java@v3
+        with:
+          distribution: 'temurin'
+          java-version: '17'
+
+      - name: Decode keystore
+        run: echo "${{ secrets.KEYSTORE_BASE64 }}" | base64 --decode > keystore.jks
+
+      - name: Set up Gradle
+        uses: gradle/actions/setup-gradle@v3
+
+      - name: Build AAB
+        run: ./gradlew bundleRelease
+
+      - name: Find AAB file
+        run: echo "AAB_FILE=$(ls app/build/outputs/bundle/release/*.aab)" >> $GITHUB_ENV
+
+      - name: Upload to Google Play
+        uses: r0adkll/upload-google-play@v1
+        with:
+          serviceAccountJsonPlainText: ${{ secrets.SERVICE_ACCOUNT_JSON }}
+          packageName: "com.wil.popcons"
+          releaseFiles: "${{ env.AAB_FILE }}"
+          track: production
+          status: completed
