@@ -1,4 +1,4 @@
-name: Android Release
+name: Build Release and Publish
 
 on:
   workflow_dispatch:
