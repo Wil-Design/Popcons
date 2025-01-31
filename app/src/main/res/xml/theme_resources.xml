@@ -757,9 +757,172 @@
 	<AppIcon name="com.nike.plusgps/com.nike.plusgps.SplashActivity" image="nike⁠_run_club"/>
 	<!-- Nike Run Club -->
 	<AppIcon name="com.nike.plusgps/com.nike.plusgps.SplashActivity" image="nike_run_club"/>
-	
+	<!-- CapCut -->
+	<AppIcon name="com.lemon.lvoverseas/com.vega.main.MainActivity" image="capcut"/>
+	<!-- Fonts -->
+	<AppIcon name="com.fontskeyboard.fonts/com.fontskeyboard.fonts.app.MainActivity" image="fonts_keyboard"/>
+	<!-- Discz -->
+	<AppIcon name="com.rhp.discz/com.rhp.discz.ui.screen.MainActivity" image="discz"/>
+	<!-- Genius -->
+	<AppIcon name="com.genius.android/com.genius.android.MainActivity" image="genius"/>
+	<!-- GeForce NOW -->
+	<AppIcon name="com.nvidia.geforcenow/com.nvidia.tegrazone.MainActivity" image="geforce_now"/>
+	<!-- getir -->
+	<AppIcon name="com.getir/com.getir.core.feature.splash.SplashActivity" image="getir"/>
+	<!-- IMDb -->
+	<AppIcon name="com.imdb.mobile/com.imdb.mobile.HomeActivity" image="imdb"/>
+	<!-- Wallpaper Engine -->
+	<AppIcon name="io.wallpaperengine.weclient/io.wallpaperengine.weclient.BrowseActivity" image="wallpaper_engine"/>
+
+	<!-- IGScore -->
+	<AppIcon name="com.igscore.sports/com.sports.ball.ui.SplashActivity" image="igscore"/>
+
+	<!-- Instagram Lite -->
+	<AppIcon name="com.instagram.lite/com.facebook.lite.MainActivity" image="instagram_lite"/>
+
+	<!-- Opera Mini -->
+	<AppIcon name="com.opera.mini.native/com.opera.mini.android.Browser" image="opera_mini"/>
+
+	<!-- Sesame -->
+	<AppIcon name="ninja.sesame.app.edge/ninja.sesame.app.edge.activities.MainActivity" image="sesame"/>
+
+	<!-- SHAREit -->
+	<AppIcon name="com.lenovo.anyshare.gps/com.lenovo.anyshare.ApMainActivity" image="shareit"/>
+
+	<!-- SHAREit Lite -->
+	<AppIcon name="shareit.lite/com.lenovo.anyshare.ApMainActivity" image="shareit_lite"/>
+
+	<!-- TECNO SPOT -->
+	<AppIcon name="com.transsion.tecnospot/com.transsion.tecnospot.newactivity.StartPageActivity" image="tecno_spot"/>
+
+	<!-- TIDAL -->
+	<AppIcon name="com.aspiro.tidal/com.aspiro.wamp.LoginFragmentActivity" image="tidal"/>
+
+	<!-- X-VPN -->
+	<AppIcon name="com.security.xvpn.z35kb/com.security.xvpn.z35kb.SplashActivity" image="x_vpn"/>
+
+	<!-- MatchEnDirect -->
+	<AppIcon name="com.activaweb.matchendirect/com.perform.livescores.default" image="matchendirect"/>
+
+	<!-- Calendar -->
+	<AppIcon name="com.samsung.android.calendar/com.android.calendar.AllInOneActivity" image="calendar"/>
+
+	<!-- Configuración de Lawnchair -->
+	<AppIcon name="ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.settings.ui.SettingsLauncherActivity" image="lawnchair"/>
+
+	<!-- Contactos -->
+	<AppIcon name="com.samsung.android.contacts/com.android.contacts.activities.PeopleActivity" image="contacts"/>
+
+	<!-- Secure Folder -->
+	<AppIcon name="com.sec.knox.switcher/com.sec.knox.switcher.SecureFolderShortcutActivity" image="secure_folder"/>
+
+	<!-- Daraz -->
+	<AppIcon name="com.daraz.android/com.lazada.activities.EnterActivity" image="daraz"/>
+
+	<!-- Mobile Cloner -->
+	<AppIcon name="com.transsion.letswitch/com.transsion.letswitch.MainActivity" image="mobile_cloner"/>
+
+	<!-- Palm Store -->
+	<AppIcon name="com.transsnet.store/com.afmobi.palmplay.StartActivity" image="palm_store"/>
+
+	<!-- SnackVideo -->
+	<AppIcon name="com.kwai.bulldog/com.yxcorp.gifshow.tiny.TinyLaunchActivity" image="snackvideo"/>
+
+	<!-- Visha Player -->
+	<AppIcon name="com.transsion.magicshow/com.transsion.magicmovie.activity.TRSplashActivity" image="visha_player"/>
+
+	<!-- Safety -->
+	<AppIcon name="com.google.android.apps.safetyhub/com.google.android.apps.safetyhub.LauncherActivity" image="personal_safety"/>
+
+	<!-- WPS Office -->
+	<AppIcon name="cn.wps.moffice_eng/cn.wps.shell.MainActivity" image="wps_office"/>
+
+	<!-- 17TRACK -->
+	<AppIcon name="yqtrack.app/yqtrack.app.MainActivity" image="_17track"/>
+
+	<!-- Akakçe -->
+	<AppIcon name="com.akakce.akakce/com.akakce.akakce.ui.splash.SplashActivity" image="akakce"/>
+
+	<!-- AliExpress -->
+	<AppIcon name="com.alibaba.aliexpresshd/com.aliexpress.app.FirstActivity" image="aliexpress"/>
+
+	<!-- Aniyomi -->
+	<AppIcon name="xyz.jmir.tachiyomi.mi/eu.kanade.tachiyomi.ui.main.MainActivity" image="aniyomi"/>
+
+	<!-- Bel Player -->
+	<AppIcon name="com.lamdaticket.goldenplayer/com.lamdaticket.goldenplayer.MainActivity" image="bel_player"/>
+
+	<!-- Boo -->
+	<AppIcon name="enterprises.dating.boo/dating.boo.MainActivity" image="boo"/>
+
+	<!-- Character.AI -->
+	<AppIcon name="ai.character.app/ai.character.app.MainActivityDefault" image="characterai"/>
+
+	<!-- CloudStream -->
+	<AppIcon name="com.lagradost.cloudstream3/com.lagradost.cloudstream3.ui.account.AccountSelectActivity" image="cloudstream"/>
+
+	<!-- Clone Phone -->
+	<AppIcon name="com.coloros.backuprestore/com.oplus.phoneclone.PhoneCloneMainActivity" image="clone_phone"/>
+
+	<!-- InterPals -->
+	<AppIcon name="net.interpals/net.interpals.MainActivity" image="interpals"/>
+
+	<!-- KeePassDX -->
+	<AppIcon name="com.kunzisoft.keepass.free/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity" image="keepassdx"/>
+
+	<!-- Tubular -->
+	<AppIcon name="org.polymorphicshade.tubular/org.schabi.newpipe.MainActivity" image="tubular"/>
+
+	<!-- Carlcare -->
+	<AppIcon name="com.transsion.carlcare/com.transsion.carlcare.MainActivity" image="carlcare"/>
+
+	<!-- YT Kids -->
+	<AppIcon name="com.google.android.apps.youtube.kids/com.google.android.apps.youtube.kids.splash.SplashScreenActivity" image="youtube_kids"/>
+
+	<!-- VnExpress -->
+	<AppIcon name="fr.playsoft.vnexpress/fr.playsoft.vnexpress.SplashScreenActivity" image="vnexpress"/>
+
+	<!-- eSewa -->
+	<AppIcon name="com.f1soft.esewa/com.f1soft.esewa.activity.splash.ui.SplashScreenActivity" image="esewa"/>
+
+	<!-- GFX Tool -->
+	<AppIcon name="com.bshowinc.gfxtool/com.bshowinc.gfxtool.ui.main.SplashActivity" image="gfx_tool"/>
+
+	<!-- Hola Browser -->
+	<AppIcon name="com.talpa.hibrowser/com.talpa.hibrowser.framework.ui.HiStartActivity" image="hola_browser"/>
+
+	<!-- Koloro -->
+	<AppIcon name="com.cerdillac.persetforlightroom/com.lightcone.cerdillac.koloro.activity.SplashActivity" image="koloro"/>
+
+	<!-- My Health -->
+	<AppIcon name="com.transsion.healthlife/com.transsion.healthlife.view.WelcomeActivity" image="my_health"/>
+
+	<!-- Pathao Drive -->
+	<AppIcon name="com.pathao.driver/com.pathao.driver.ui.core.splash.SplashScreenActivity" image="pathao_drive"/>
+
+	<!-- Power Marathon -->
+	<AppIcon name="com.transsion.batterylab.icon/com.transsion.batterylab.icon.MainActivity" image="power_marathon"/>
+
+	<!-- XOS Launcher -->
+	<AppIcon name="com.transsion.XOSLauncher.upgrade/com.android.launcher3.DynamicVirtualEntryActivity" image="xos_launcher"/>
+
+	<!-- ZArchiver -->
+	<AppIcon name="ru.zdevs.zarchiver/ru.zdevs.zarchiver.ZArchiver" image="zarchiver"/>
+
+	<!-- XClub -->
+	<AppIcon name="com.trassion.infinix.xclub/com.trassion.infinix.xclub.ui.main.activity.SplashActivity" image="xclub"/>
+
+	<!-- AM TUNNEL LITE VPN -->
+	<AppIcon name="app.vpn.amtunnellite/app.vpn.amtunnellite.SplashActivity" image="am_tunnel_lite_vpn"/>
+
+	<!-- Aptoide -->
+	<AppIcon name="cm.aptoide.pt/cm.aptoide.pt.view.MainActivity" image="aptoide"/>
+
+	<!-- FotMob -->
+	<AppIcon name="com.mobilefootie.wc2010/com.fotmob.android.ui.MainActivityWrapper" image="fotmob"/>
+
 	<!-- System | Default Apps -->
-	
+
 	<!-- Browser -->
 	<AppIcon name="org.lineageos.jelly/org.lineageos.jelly.MainActivity" image="browser"/>
 	<!-- Calculator -->
@@ -798,7 +961,7 @@
 	<AppIcon name="com.android.dialer/com.android.dialer.main.impl.MainActivity" image="dialer"/>
 	<AppIcon name="com.android.contacts/com.android.contacts.DialtactsActivityAlias" image="dialer"/>
 	<AppIcon name="com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity" image="phone"/>
-	<!-- Photos | Gallery --> 
+	<!-- Photos | Gallery -->
 	<AppIcon name="com.coloros.gallery3d/com.coloros.gallery3d.app.MainActivity" image="gallery"/>
 	<AppIcon name="com.miui.gallery/com.miui.gallery.activity.HomePageActivity" image="gallery"/>
 	<AppIcon name="com.android.gallery3d/com.android.gallery3d.app.GalleryActivity" image="gallery"/>

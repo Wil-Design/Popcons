@@ -1,19 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<version>1.1</version>
+	<version>1.2</version>
 	<category title="Newly added"/>
-	<item drawable="camera"/>	
-	<item drawable="deepl"/>	
-	<item drawable="flipkart"/>	
-	<item drawable="inshorts"/>	
-	<item drawable="kiwi_browser"/>	
-	<item drawable="messages"/>	
-	<item drawable="poweramp"/>	
-	<item drawable="poweramp_equalizer"/>	
-	<item drawable="showly"/>	
-	<item drawable="nike_run_club"/>	
-	<item drawable="mackolik"/>	
-	<item drawable="ininal"/>	
+	<item drawable="_17track"/>
+	<item drawable="akakce"/>
+	<item drawable="aliexpress"/>
+	<item drawable="am_tunnel_lite_vpn"/>
+	<item drawable="aniyomi"/>
+	<item drawable="appfilter"/>
+	<item drawable="appmap"/>
+	<item drawable="aptoide"/>
+	<item drawable="bel_player"/>
+	<item drawable="boo"/>
+	<item drawable="calendar"/>
+	<item drawable="camera"/>
+	<item drawable="capcut"/>
+	<item drawable="carlcare"/>
+	<item drawable="characterai"/>
+	<item drawable="clone_phone"/>
+	<item drawable="cloudstream"/>
+	<item drawable="daraz"/>
+	<item drawable="deepl"/>
+	<item drawable="discz"/>
+	<item drawable="esewa"/>
+	<item drawable="file_list"/>
+	<item drawable="flipkart"/>
+	<item drawable="fonts_keyboard"/>
+	<item drawable="fotmob"/>
+	<item drawable="geforce_now"/>
+	<item drawable="genius"/>
+	<item drawable="getir"/>
+	<item drawable="gfx_tool"/>
+	<item drawable="hola_browser_alt"/>
+	<item drawable="hola_browser"/>
+	<item drawable="igscore"/>
+	<item drawable="imdb"/>
+	<item drawable="ininal"/>
+	<item drawable="inshorts"/>
+	<item drawable="instagram_lite"/>
+	<item drawable="interpals"/>
+	<item drawable="keepassdx"/>
+	<item drawable="kiwi_browser"/>
+	<item drawable="koloro"/>
+	<item drawable="mackolik"/>
+	<item drawable="matchendirect"/>
+	<item drawable="messages"/>
+	<item drawable="mobile_cloner"/>
+	<item drawable="my_health"/>
+	<item drawable="navi"/>
+	<item drawable="nike_run_club"/>
+	<item drawable="opera_mini"/>
+	<item drawable="palm_store"/>
+	<item drawable="pathao_drive"/>
+	<item drawable="personal_safety"/>
+	<item drawable="power_marathon"/>
+	<item drawable="poweramp_equalizer"/>
+	<item drawable="poweramp"/>
+	<item drawable="sesame"/>
+	<item drawable="shareit_lite"/>
+	<item drawable="shareit"/>
+	<item drawable="showly"/>
+	<item drawable="snackvideo"/>
+	<item drawable="tecno_spot"/>
+	<item drawable="theme_resources"/>
+	<item drawable="tidal"/>
+	<item drawable="tubular"/>
+	<item drawable="visha_player"/>
+	<item drawable="vnexpress"/>
+	<item drawable="wallpaper_engine"/>
+	<item drawable="wow_fm"/>
+	<item drawable="x_vpn"/>
+	<item drawable="xclub"/>
+	<item drawable="xos_launcher"/>
+	<item drawable="youtube_kids"/>
+	<item drawable="zarchiver"/>
+
 
 	<category title="All icons"/>
 	<item drawable="action_launcher"/>
@@ -163,8 +224,6 @@
 	<item drawable="figma_mirror"/>
 	<item drawable="file_by_google"/>
 	<item drawable="filen"/>
-	<item drawable="filename"/>
-	<item drawable="filename.txt"/>
 	<item drawable="find_device"/>
 	<item drawable="findroid"/>
 	<item drawable="fineco"/>
@@ -496,7 +555,7 @@
 	<item drawable="zepp_life"/>
 	<item drawable="zomato"/>
 	<item drawable="zoom"/>
-	
+
 	<category title="System"/>
 	<item drawable="calculator"/>
 	<item drawable="calculator_2"/>
@@ -545,7 +604,7 @@
 	<item drawable="voice_recorder_3"/>
 	<item drawable="voice_recorder_4"/>
 	<item drawable="voice_recorder_5"/>
-	
+
 	<category title="Google"/>
 	<item drawable="file_by_google"/>
 	<item drawable="find_device"/>
@@ -581,7 +640,7 @@
 	<item drawable="youtube"/>
 	<item drawable="youtube-music"/>
 	<item drawable="yt_studio"/>
-	
+
 	<category title="Alt"/>
 	<item drawable="apple_music_alt"/>
 	<item drawable="google_gallery_alt"/>
@@ -594,7 +653,7 @@
 	<item drawable="spotify_alt"/>
 	<item drawable="sync_for_reddit_alt"/>
 	<item drawable="tinder_alt"/>
-	
+
 	<category title="Misc"/>
 	<item drawable="cloud9"/>
 	<item drawable="envy_old"/>
@@ -606,5 +665,5 @@
 	<item drawable="sk_gaming"/>
 	<item drawable="team_liquid"/>
 	<item drawable="tsm"/>
-	
+
 </resources>
