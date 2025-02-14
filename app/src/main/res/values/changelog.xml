@@ -2,7 +2,7 @@
 <resources>
 
     <!-- Leave empty if you don't want to show changelog date -->
-    <string name="changelog_date">31 January 2025</string>
+    <string name="changelog_date">14 February 2025</string>
 
     <!-- Changelog support html formatting
     * <b> for Bold
@@ -10,8 +10,8 @@
     * <u> for Underline
     * <a href="linkUrl">Link Text</a> for links -->
     <string-array name="changelog">
-        <item>Added 65 icons.</item>
-        <item>Fixed various icons.</item>
+        <item>Added 76 icons.</item>
+        <item>Linked some missing icons.</item>
         <item>
             <![CDATA[
             Follow me on <a href="https://fosstodon.org/@wil">Fosstodon</a> and <a href="https://bsky.app/profile/wildesign.bsky.social">Bluesky</a> for updates!

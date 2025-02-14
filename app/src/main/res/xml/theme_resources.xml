@@ -21,7 +21,7 @@
 	<!-- Figma -->
 	<AppIcon name="com.figma.mirror/com.figma.figma.MainActivity" image="figma_mirror"/>
 	<!-- Popcons -->
-<!--	<AppIcon name="com.wil.popcons/com.wil.popcons.activities.SplashActivity" image="popcons"/>-->
+	<AppIcon name="com.wil.popcons/com.wil.popcons.activities.MainActivity" image="popcons"/>
 	<!-- Sync Pro -->
 	<AppIcon name="com.laurencedawson.reddit_sync.pro/com.laurencedawson.reddit_sync.ui.activities.HomeActivity.Default" image="sync_pro"/>
 	<!-- Syncthing-Fork -->
@@ -920,6 +920,275 @@
 
 	<!-- FotMob -->
 	<AppIcon name="com.mobilefootie.wc2010/com.fotmob.android.ui.MainActivityWrapper" image="fotmob"/>
+
+
+	<!-- adidas -->
+	<AppIcon name="com.adidas.app/com.adidas.intro.IntroActivity" image="adidas"/>
+
+	<!-- Adobe Fill & Sign -->
+	<AppIcon name="com.adobe.fas/com.adobe.fas.Home.FillAndSign" image="adobe_fill_and_sign"/>
+
+	<!-- Bash -->
+	<AppIcon name="com.bash.prod/com.bash.MainActivity" image="bash"/>
+
+	<!-- Bluesky -->
+	<AppIcon name="xyz.blueskyweb.app/xyz.blueskyweb.app.MainActivity" image="bluesky"/>
+
+	<!-- ClearScore -->
+	<AppIcon name="com.clearscore.mobile/com.clearscore.mobile.splash.presentation.SplashActivity" image="clearscore"/>
+
+	<!-- Clicks -->
+	<AppIcon name="za.co.deloittedigital.clicks/za.co.deloittedigital.clicks.SplashActivity" image="clicks"/>
+
+	<!-- Discord -->
+	<AppIcon name="com.discord/com.discord.main.MainDefault" image="discord"/>
+
+	<!-- Discovery -->
+	<AppIcon name="za.co.discovery.consumer/za.co.discovery.consumer.DefaultMainActivityAlias" image="discovery"/>
+
+	<!-- Discovery Health App -->
+	<AppIcon name="za.co.discovery.health/za.co.discovery.health.MainActivity" image="discovery_health_app"/>
+
+	<!-- Docusign -->
+	<AppIcon name="com.docusign.ink/com.docusign.onboarding.OnboardingSplash" image="docusign"/>
+
+	<!-- EasyPay Everywhere -->
+	<AppIcon name="com.net1.epecard/crc64d36a3e5c40e6a3c7.SplashScreenActivity" image="easypay_everywhere"/>
+
+	<!-- Flud+ -->
+	<AppIcon name="com.delphicoder.flud.paid/com.delphicoder.flud.MainActivity" image="flud"/>
+
+	<!-- Gemini -->
+	<AppIcon name="com.google.android.apps.bard/com.google.android.apps.bard.shellapp.BardEntryPointActivity" image="gemini"/>
+
+	<!-- Global Goals -->
+	<AppIcon name="com.samsung.sree/com.samsung.sree.ui.MainActivity" image="global_goals"/>
+
+	<!-- Health -->
+	<AppIcon name="com.sec.android.app.shealth/com.samsung.android.app.shealth.home.HomeMainActivity" image="health"/>
+
+	<!-- Lawnchair -->
+	<AppIcon name="app.lawnchair.play/app.lawnchair.LawnchairLauncher" image="lawnchair"/>
+
+	<!-- Duolingo -->
+	<AppIcon name="com.duolingo/com.duolingo.app.StreakSocietyLauncher" image="duolingo"/>
+
+	<!-- Proton Mail -->
+	<AppIcon name="ch.protonmail.android/ch.protonmail.android.MainActivity" image="proton_mail"/>
+
+	<!-- Threads -->
+	<AppIcon name="com.instagram.barcelona/com.instagram.barcelona.mainactivity.BarcelonaActivity" image="threads"/>
+
+	<!-- takealot -->
+	<AppIcon name="fi.android.takealot/fi.android.takealot.presentation.splash.view.impl.ViewSplashScreenActivity" image="takealot"/>
+
+	<!-- Woolworths -->
+	<AppIcon name="com.awfs.coordination/za.co.woolworths.financial.services.android.startup.view.StartupActivity" image="woolworths"/>
+
+	<!-- SideChef -->
+	<AppIcon name="com.sidechef.sidechef/com.sidechef.sidechef.MainActivity" image="sidechef"/>
+
+	<!-- Slack -->
+	<AppIcon name="com.Slack/slack.features.home.HomeActivity" image="slack"/>
+
+	<!-- OneDrive -->
+	<AppIcon name="com.microsoft.skydrive/com.microsoft.skydrive.MainActivity" image="onedrive"/>
+
+	<!-- LinkedIn -->
+	<AppIcon name="com.linkedin.android/com.linkedin.android.authenticator.LaunchActivityDefault" image="linkedin"/>
+
+	<!-- Among Us -->
+	<AppIcon name="com.innersloth.spacemafia/com.innersloth.spacemafia.EosUnityPlayerActivity" image="among_us"/>
+
+	<!-- Openserve Connect -->
+	<AppIcon name="za.co.openserve.openserveconnect/za.co.openserve.openserveconnect.MainActivity" image="openserve_connect"/>
+
+	<!-- Zuzo -->
+	<AppIcon name="com.app.zuzocard/com.app.zuzocard.MainActivity" image="zuzo"/>
+
+	<!-- Showmax -->
+	<AppIcon name="com.showmax.showmax.google/com.peacocktv.legacy.monolith.main.MainActivity" image="showmax"/>
+
+	<!-- Udemy -->
+	<AppIcon name="com.udemy.android/com.udemy.android.SplashActivity" image="udemy"/>
+
+	<!-- MyNetstar -->
+	<AppIcon name="za.co.netstar.my.twa/za.co.netstar.my.my_netstar_2.MainActivity" image="mynetstar"/>
+
+	<!-- Nike -->
+	<AppIcon name="com.nike.omega/com.nike.mynike.ui.SplashScreenActivity" image="nike"/>
+
+	<!-- SmartThings -->
+	<AppIcon name="com.samsung.android.oneconnect/com.samsung.android.oneconnect.ui.SCMainActivity" image="smartthings"/>
+
+	<!-- KFC -->
+	<AppIcon name="com.kfc.sa/com.cognizantorderserv.kfcindiadroid.MainActivity" image="kfc"/>
+
+	<!-- Millionaire -->
+	<AppIcon name="com.sonypicturestelevision.millionaire/com.unity3d.player.UnityPlayerActivity" image="millionaire"/>
+
+	<!-- Mobile Legends: Bang Bang -->
+	<AppIcon name="com.mobile.legends/com.moba.unityplugin.MobaGameMainActivityWithExtractor" image="mobile_legends_bang_bang"/>
+
+	<!-- Andoku 3 -->
+	<AppIcon name="com.andoku.three.gp/com.andoku.app.LaunchActivity" image="andoku_3"/>
+
+	<!-- Burger King SA -->
+	<AppIcon name="za.co.wigroup.burgerking/rbi.android.app.Launcher" image="burger_king"/>
+
+	<!-- Checkers -->
+	<AppIcon name="za.co.shoprite.eezicoupon/za.co.shoprite.eezicoupon.MainActivity" image="checkers"/>
+
+	<!-- Checkers -->
+	<AppIcon name="za.co.shoprite.sixty60/za.co.shoprite.sixty60.MainActivity" image="checkers_60"/>
+
+	<!-- Epic Games -->
+	<AppIcon name="com.epicgames.portal/com.epicgames.portal.MainActivity" image="epic_games"/>
+
+	<!-- Exercise Bike Workout -->
+	<AppIcon name="com.spacedema.exercisebikeworkout/com.spacedema.exercisebikeworkout.MainActivity" image="exercise_bike_workout"/>
+
+	<!-- Samsung Free -->
+	<AppIcon name="com.samsung.android.app.spage/com.samsung.android.app.spage.main.LauncherActivity" image="samsung_free"/>
+
+	<!-- Pick n Pay Smart Shopper -->
+	<AppIcon name="za.co.pnp.smartshopper/pnp.app.one.MainActivity" image="pick_n_pay_smart_shopper"/>
+
+	<!-- NutriU -->
+	<AppIcon name="com.philips.ka.oneka.app/com.philips.ka.oneka.app.ui.splash.SplashActivity" image="nutriu"/>
+
+	<!-- Quick measure -->
+	<AppIcon name="com.samsung.android.ruler/com.samsung.android.ruler.main.rulerPreviewActivity" image="quick_measure"/>
+
+	<!-- RedReader -->
+	<AppIcon name="org.quantumbadger.redreader/org.quantumbadger.redreader.activities.MainActivity" image="redreader"/>
+
+	<!-- Smart Switch -->
+	<AppIcon name="com.sec.android.easyMover/com.sec.android.easyMover.ui.launch.LauncherActivity" image="smart_switch"/>
+
+	<!-- Load Shedding Notifier -->
+	<AppIcon name="com.abisoft.loadsheddingnotifier/com.abisoft.loadsheddingnotifier.MainActivity" image="load_shedding_notifier"/>
+
+	<!-- makro -->
+	<AppIcon name="za.co.makro.shopping/za.co.makro.shopping.MainActivity" image="makro"/>
+
+	<!-- Mr D -->
+	<AppIcon name="com.mrd.food/com.mrd.food.presentation.LandingActivity" image="mr_d"/>
+
+	<!-- Smart Tutor -->
+	<AppIcon name="com.rsupport.rs.activity.rsupport.aas2/com.rsupport.rs.activity.edit.IntroActivity" image="smart_tutor"/>
+
+	<!-- Superbalist -->
+	<AppIcon name="com.superbalist.android/com.superbalist.android.view.onboarding.OnboardingActivity" image="superbalist"/>
+
+	<!-- Sync -->
+	<AppIcon name="io.syncapps.lemmy_sync/io.syncapps.lemmy_sync.ui.activities.HomeActivity.Default" image="reddit_sync"/>
+
+	<!-- Tips -->
+	<AppIcon name="com.samsung.android.app.tips/com.samsung.android.app.tips.TipsMainActivity" image="tips"/>
+
+	<!-- SABC+ -->
+	<AppIcon name="tv.sabcplus.vod/com.sabcplus.vod.presentation.screens.mainActivity.MainActivity" image="sabc_"/>
+
+	<!-- Expert RAW -->
+	<AppIcon name="com.samsung.android.app.galaxyraw/com.samsung.android.app.galaxyraw.GalaxyRaw" image="expert_raw"/>
+
+	<!-- Fortnite -->
+	<AppIcon name="com.epicgames.fortnite/com.epicgames.unreal.SplashActivity" image="fortnite"/>
+
+	<!-- Gaming Hub -->
+	<AppIcon name="com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.app.MainActivity" image="gaming_hub"/>
+
+	<!-- Milli Piyango -->
+	<AppIcon name="tr.sisal.millipiyango/tr.sisal.lottery.ui.start.activities.StartActivity" image="milli_piyango"/>
+
+	<!-- mail.com -->
+	<AppIcon name="com.mail.mobile.android.mail/com.unitedinternet.portal.ui.HostActivity" image="mailcom"/>
+
+	<!-- LocalSend -->
+	<AppIcon name="org.localsend.localsend_app/org.localsend.localsend_app.MainActivity" image="localsend"/>
+
+	<!-- Delta -->
+	<AppIcon name="website.leifs.delta/website.leifs.delta.activities.MainActivity" image="delta_icon_pack"/>
+
+	<!-- Iceraven -->
+	<AppIcon name="io.github.forkmaintainers.iceraven/io.github.forkmaintainers.iceraven.App" image="iceraven"/>
+
+	<!-- Perplexity -->
+	<AppIcon name="ai.perplexity.app.android/ai.perplexity.app.android.ui.main.MainActivity" image="perplexity"/>
+
+	<!-- Obtainium -->
+	<AppIcon name="dev.imranr.obtainium/dev.imranr.obtainium.MainActivity" image="obtainium"/>
+
+	<!-- KDE Connect -->
+	<AppIcon name="org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MainActivity" image="kde_connect"/>
+
+	<!-- LINE -->
+	<AppIcon name="jp.naver.line.android/jp.naver.line.android.activity.SplashActivity" image="line"/>
+
+	<!-- Microsoft SwiftKey Beta Keyboard -->
+	<AppIcon name="com.touchtype.swiftkey.beta/com.touchtype.LauncherActivityIcon" image="microsoft_swiftkey_beta_keyboard"/>
+
+	<!-- Via -->
+	<AppIcon name="mark.via.gp/mark.via.Shell" image="via"/>
+
+	<!-- Fleksy -->
+	<AppIcon name="com.syntellia.fleksy.keyboard/com.syntellia.fleksy.settings.activities.SplashActivity" image="fleksy"/>
+
+	<!-- Randomizer -->
+	<AppIcon name="com.giannis.randomizer/com.giannis.randomizer.MainActivity" image="randomizer"/>
+
+	<!-- Calendario -->
+	<AppIcon name="com.samsung.android.calendar/com.android.calendar.AllInOneActivity" image="calendario"/>
+
+	<!-- Radio -->
+	<AppIcon name="com.sec.android.app.fm/com.sec.android.app.fm.MainActivity" image="fmradio_3"/>
+
+	<!-- Google -->
+	<AppIcon name="com.google.android.apps.searchlite/com.google.android.apps.searchlite.ui.SearchActivity" image="google"/>
+
+	<!-- Outlook Lite -->
+	<AppIcon name="com.microsoft.outlooklite/com.microsoft.outlooklite.sms.SmsMainActivity" image="outlook_lite"/>
+
+	<!-- Gboard -->
+	<AppIcon name="com.google.android.inputmethod.latin/com.google.android.libraries.inputmethod.launcher.LauncherActivity" image="gboard"/>
+
+	<!-- Internet -->
+	<AppIcon name="com.sec.android.app.sbrowser.lite/com.sec.android.app.sbrowser.SBrowserMainActivity" image="samsung_internet"/>
+
+	<!-- Mensajes -->
+	<AppIcon name="com.samsung.android.messaging/com.samsung.android.messaging.ui.ConversationList" image="messages_3"/>
+
+	<!-- Nexxt Home -->
+	<AppIcon name="com.intcomex.smart/com.smart.ThingSplashActivity" image="nexxt_home"/>
+
+	<!-- Microsoft Launcher -->
+	<AppIcon name="com.microsoft.launcher/com.microsoft.launcher.Launcher" image="microsoft_launcher"/>
+
+	<!-- Asistente -->
+	<AppIcon name="com.google.android.apps.assistant/com.google.android.apps.assistant.go.MainActivity" image="google_assistant"/>
+
+	<!-- Discogs -->
+	<AppIcon name="com.discogs.app/com.discogs.app.MainActivity" image="discogs"/>
+
+	<!-- Discord -->
+	<AppIcon name="com.discord/com.discord.main.MainDefault" image="discord"/>
+
+	<!-- Componist -->
+	<AppIcon name="com.nothing.glyph.composer/com.nothing.glyph.composer.ui.MainActivity" image="componist"/>
+
+	<!-- Pano Scrobbler -->
+	<AppIcon name="com.arn.scrobble/com.arn.scrobble.main.MainActivity" image="pano_scrobbler"/>
+
+	<!-- Strava -->
+	<AppIcon name="com.strava/com.strava.SplashActivity" image="strava"/>
+
+	<!-- Signal -->
+	<AppIcon name="org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivityAltBubbles" image="signal"/>
+
+	<!-- Stargon -->
+	<AppIcon name="net.onecook.browser/net.onecook.browser.MainActivity" image="stargon"/>
+
 
 	<!-- System | Default Apps -->
 

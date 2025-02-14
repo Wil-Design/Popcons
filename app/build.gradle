@@ -9,8 +9,8 @@ android {
         applicationId 'com.wil.popcons'
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 12
-        versionName '1.2'
+        versionCode 13
+        versionName '1.3'
     }
 
     bundle {

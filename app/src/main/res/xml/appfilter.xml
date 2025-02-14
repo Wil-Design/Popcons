@@ -1043,6 +1043,280 @@
 	<item component="ComponentInfo{com.mobilefootie.wc2010/com.fotmob.android.ui.MainActivityWrapper}" drawable="fotmob" />
 
 
+	<!-- adidas -->
+	<item component="ComponentInfo{com.adidas.app/com.adidas.intro.IntroActivity}" drawable="adidas" />
+
+	<!-- Adobe Fill & Sign -->
+	<item component="ComponentInfo{com.adobe.fas/com.adobe.fas.Home.FillAndSign}" drawable="adobe_fill_and_sign" />
+
+	<!-- Bash -->
+	<item component="ComponentInfo{com.bash.prod/com.bash.MainActivity}" drawable="bash" />
+
+	<!-- Bluesky -->
+	<item component="ComponentInfo{xyz.blueskyweb.app/xyz.blueskyweb.app.MainActivity}" drawable="bluesky" />
+
+	<!-- ClearScore -->
+	<item component="ComponentInfo{com.clearscore.mobile/com.clearscore.mobile.splash.presentation.SplashActivity}" drawable="clearscore" />
+
+	<!-- Clicks -->
+	<item component="ComponentInfo{za.co.deloittedigital.clicks/za.co.deloittedigital.clicks.SplashActivity}" drawable="clicks" />
+
+	<!-- Discord -->
+	<item component="ComponentInfo{com.discord/com.discord.main.MainDefault}" drawable="discord" />
+
+	<!-- Discovery -->
+	<item component="ComponentInfo{za.co.discovery.consumer/za.co.discovery.consumer.DefaultMainActivityAlias}" drawable="discovery" />
+
+	<!-- Discovery Health App -->
+	<item component="ComponentInfo{za.co.discovery.health/za.co.discovery.health.MainActivity}" drawable="discovery_health_app" />
+
+	<!-- Docusign -->
+	<item component="ComponentInfo{com.docusign.ink/com.docusign.onboarding.OnboardingSplash}" drawable="docusign" />
+
+	<!-- EasyPay Everywhere -->
+	<item component="ComponentInfo{com.net1.epecard/crc64d36a3e5c40e6a3c7.SplashScreenActivity}" drawable="easypay_everywhere" />
+
+	<!-- Flud+ -->
+	<item component="ComponentInfo{com.delphicoder.flud.paid/com.delphicoder.flud.MainActivity}" drawable="flud" />
+
+	<!-- Gemini -->
+	<item component="ComponentInfo{com.google.android.apps.bard/com.google.android.apps.bard.shellapp.BardEntryPointActivity}" drawable="gemini" />
+
+	<!-- Global Goals -->
+	<item component="ComponentInfo{com.samsung.sree/com.samsung.sree.ui.MainActivity}" drawable="global_goals" />
+
+	<!-- Samsung Health -->
+	<item component="ComponentInfo{com.sec.android.app.shealth/com.samsung.android.app.shealth.home.HomeMainActivity}" drawable="health" />
+
+	<!-- Lawnchair -->
+	<item component="ComponentInfo{app.lawnchair.play/app.lawnchair.LawnchairLauncher}" drawable="lawnchair" />
+
+	<!-- Duolingo -->
+	<item component="ComponentInfo{com.duolingo/com.duolingo.app.StreakSocietyLauncher}" drawable="duolingo" />
+
+	<!-- Proton Mail -->
+	<item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.MainActivity}" drawable="proton_mail" />
+
+	<!-- Threads -->
+	<item component="ComponentInfo{com.instagram.barcelona/com.instagram.barcelona.mainactivity.BarcelonaActivity}" drawable="threads" />
+
+	<!-- takealot -->
+	<item component="ComponentInfo{fi.android.takealot/fi.android.takealot.presentation.splash.view.impl.ViewSplashScreenActivity}" drawable="takealot" />
+
+	<!-- Woolworths -->
+	<item component="ComponentInfo{com.awfs.coordination/za.co.woolworths.financial.services.android.startup.view.StartupActivity}" drawable="woolworths" />
+
+	<!-- SideChef -->
+	<item component="ComponentInfo{com.sidechef.sidechef/com.sidechef.sidechef.MainActivity}" drawable="sidechef" />
+
+	<!-- Slack -->
+	<item component="ComponentInfo{com.Slack/slack.features.home.HomeActivity}" drawable="slack" />
+
+	<!-- OneDrive -->
+	<item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="onedrive" />
+
+	<!-- LinkedIn -->
+	<item component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivityDefault}" drawable="linkedin" />
+
+	<!-- Among Us -->
+	<item component="ComponentInfo{com.innersloth.spacemafia/com.innersloth.spacemafia.EosUnityPlayerActivity}" drawable="among_us" />
+
+	<!-- Openserve Connect -->
+	<item component="ComponentInfo{za.co.openserve.openserveconnect/za.co.openserve.openserveconnect.MainActivity}" drawable="openserve_connect" />
+
+	<!-- Zuzo -->
+	<item component="ComponentInfo{com.app.zuzocard/com.app.zuzocard.MainActivity}" drawable="zuzo" />
+
+	<!-- Showmax -->
+	<item component="ComponentInfo{com.showmax.showmax.google/com.peacocktv.legacy.monolith.main.MainActivity}" drawable="showmax" />
+
+	<!-- Udemy -->
+	<item component="ComponentInfo{com.udemy.android/com.udemy.android.SplashActivity}" drawable="udemy" />
+
+	<!-- MyNetstar -->
+	<item component="ComponentInfo{za.co.netstar.my.twa/za.co.netstar.my.my_netstar_2.MainActivity}" drawable="mynetstar" />
+
+	<!-- Nike -->
+	<item component="ComponentInfo{com.nike.omega/com.nike.mynike.ui.SplashScreenActivity}" drawable="nike" />
+
+	<!-- SmartThings -->
+	<item component="ComponentInfo{com.samsung.android.oneconnect/com.samsung.android.oneconnect.ui.SCMainActivity}" drawable="smartthings" />
+
+	<!-- KFC -->
+	<item component="ComponentInfo{com.kfc.sa/com.cognizantorderserv.kfcindiadroid.MainActivity}" drawable="kfc" />
+
+	<!-- Millionaire -->
+	<item component="ComponentInfo{com.sonypicturestelevision.millionaire/com.unity3d.player.UnityPlayerActivity}" drawable="millionaire" />
+
+	<!-- Mobile Legends: Bang Bang -->
+	<item component="ComponentInfo{com.mobile.legends/com.moba.unityplugin.MobaGameMainActivityWithExtractor}" drawable="mobile_legends_bang_bang" />
+
+	<!-- Andoku 3 -->
+	<item component="ComponentInfo{com.andoku.three.gp/com.andoku.app.LaunchActivity}" drawable="andoku_3" />
+
+	<!-- Burger King SA -->
+	<item component="ComponentInfo{za.co.wigroup.burgerking/rbi.android.app.Launcher}" drawable="burger_king" />
+
+	<!-- Checkers -->
+	<item component="ComponentInfo{za.co.shoprite.eezicoupon/za.co.shoprite.eezicoupon.MainActivity}" drawable="checkers" />
+
+	<!-- Checkers 60 -->
+	<item component="ComponentInfo{za.co.shoprite.sixty60/za.co.shoprite.sixty60.MainActivity}" drawable="checkers_60" />
+
+	<!-- Epic Games -->
+	<item component="ComponentInfo{com.epicgames.portal/com.epicgames.portal.MainActivity}" drawable="epic_games" />
+
+	<!-- Exercise Bike Workout -->
+	<item component="ComponentInfo{com.spacedema.exercisebikeworkout/com.spacedema.exercisebikeworkout.MainActivity}" drawable="exercise_bike_workout" />
+
+	<!-- Samsung Free -->
+	<item component="ComponentInfo{com.samsung.android.app.spage/com.samsung.android.app.spage.main.LauncherActivity}" drawable="samsung_free" />
+
+	<!-- Pick n Pay Smart Shopper -->
+	<item component="ComponentInfo{za.co.pnp.smartshopper/pnp.app.one.MainActivity}" drawable="pick_n_pay_smart_shopper" />
+
+	<!-- NutriU -->
+	<item component="ComponentInfo{com.philips.ka.oneka.app/com.philips.ka.oneka.app.ui.splash.SplashActivity}" drawable="nutriu" />
+
+	<!-- Quick measure -->
+	<item component="ComponentInfo{com.samsung.android.ruler/com.samsung.android.ruler.main.rulerPreviewActivity}" drawable="quick_measure" />
+
+	<!-- RedReader -->
+	<item component="ComponentInfo{org.quantumbadger.redreader/org.quantumbadger.redreader.activities.MainActivity}" drawable="redreader" />
+
+	<!-- Smart Switch -->
+	<item component="ComponentInfo{com.sec.android.easyMover/com.sec.android.easyMover.ui.launch.LauncherActivity}" drawable="smart_switch" />
+
+	<!-- Load Shedding Notifier -->
+	<item component="ComponentInfo{com.abisoft.loadsheddingnotifier/com.abisoft.loadsheddingnotifier.MainActivity}" drawable="load_shedding_notifier" />
+
+	<!-- makro -->
+	<item component="ComponentInfo{za.co.makro.shopping/za.co.makro.shopping.MainActivity}" drawable="makro" />
+
+	<!-- Mr D -->
+	<item component="ComponentInfo{com.mrd.food/com.mrd.food.presentation.LandingActivity}" drawable="mr_d" />
+
+	<!-- Superbalist -->
+	<item component="ComponentInfo{com.superbalist.android/com.superbalist.android.view.onboarding.OnboardingActivity}" drawable="superbalist" />
+
+	<!-- Sync -->
+	<item component="ComponentInfo{io.syncapps.lemmy_sync/io.syncapps.lemmy_sync.ui.activities.HomeActivity.Default}" drawable="reddit_sync" />
+
+	<!-- Tips -->
+	<item component="ComponentInfo{com.samsung.android.app.tips/com.samsung.android.app.tips.TipsMainActivity}" drawable="tips" />
+
+	<!-- SABC+ -->
+	<item component="ComponentInfo{tv.sabcplus.vod/com.sabcplus.vod.presentation.screens.mainActivity.MainActivity}" drawable="sabc_" />
+
+	<!-- Smart Tutor -->
+	<item component="ComponentInfo{com.rsupport.rs.activity.rsupport.aas2/com.rsupport.rs.activity.edit.IntroActivity}" drawable="smart_tutor" />
+
+	<!-- Expert RAW -->
+	<item component="ComponentInfo{com.samsung.android.app.galaxyraw/com.samsung.android.app.galaxyraw.GalaxyRaw}" drawable="expert_raw" />
+
+	<!-- Fortnite -->
+	<item component="ComponentInfo{com.epicgames.fortnite/com.epicgames.unreal.SplashActivity}" drawable="fortnite" />
+
+	<!-- Gaming Hub -->
+	<item component="ComponentInfo{com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.app.MainActivity}" drawable="gaming_hub" />
+
+	<!-- Milli Piyango -->
+	<item component="ComponentInfo{tr.sisal.millipiyango/tr.sisal.lottery.ui.start.activities.StartActivity}" drawable="milli_piyango" />
+
+	<!-- mail.com -->
+	<item component="ComponentInfo{com.mail.mobile.android.mail/com.unitedinternet.portal.ui.HostActivity}" drawable="mailcom" />
+
+	<!-- LocalSend -->
+	<item component="ComponentInfo{org.localsend.localsend_app/org.localsend.localsend_app.MainActivity}" drawable="localsend" />
+
+	<!-- Delta -->
+	<item component="ComponentInfo{website.leifs.delta/website.leifs.delta.activities.MainActivity}" drawable="deldelta_icon_packta" />
+
+	<!-- Iceraven -->
+	<item component="ComponentInfo{io.github.forkmaintainers.iceraven/io.github.forkmaintainers.iceraven.App}" drawable="iceraven" />
+
+	<!-- Perplexity -->
+	<item component="ComponentInfo{ai.perplexity.app.android/ai.perplexity.app.android.ui.main.MainActivity}" drawable="perplexity" />
+
+	<!-- Obtainium -->
+	<item component="ComponentInfo{dev.imranr.obtainium/dev.imranr.obtainium.MainActivity}" drawable="obtainium" />
+
+	<!-- KDE Connect -->
+	<item component="ComponentInfo{org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MainActivity}" drawable="kde_connect" />
+
+	<!-- LINE -->
+	<item component="ComponentInfo{jp.naver.line.android/jp.naver.line.android.activity.SplashActivity}" drawable="line" />
+
+	<!-- Microsoft SwiftKey Beta Keyboard -->
+	<item component="ComponentInfo{com.touchtype.swiftkey.beta/com.touchtype.LauncherActivityIcon}" drawable="microsoft_swiftkey_beta_keyboard" />
+
+	<!-- Via -->
+	<item component="ComponentInfo{mark.via.gp/mark.via.Shell}" drawable="via" />
+
+	<!-- Fleksy -->
+	<item component="ComponentInfo{com.syntellia.fleksy.keyboard/com.syntellia.fleksy.settings.activities.SplashActivity}" drawable="fleksy" />
+
+	<!-- Randomizer -->
+	<item component="ComponentInfo{com.giannis.randomizer/com.giannis.randomizer.MainActivity}" drawable="randomizer" />
+
+	<!-- Calendario -->
+	<item component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendario" />
+
+	<!-- Radio -->
+	<item component="ComponentInfo{com.sec.android.app.fm/com.sec.android.app.fm.MainActivity}" drawable="fmradio_3" />
+
+	<!-- Google -->
+	<item component="ComponentInfo{com.google.android.apps.searchlite/com.google.android.apps.searchlite.ui.SearchActivity}" drawable="google" />
+
+	<!-- Outlook Lite -->
+	<item component="ComponentInfo{com.microsoft.outlooklite/com.microsoft.outlooklite.sms.SmsMainActivity}" drawable="outlook_lite" />
+
+	<!-- Gboard -->
+	<item component="ComponentInfo{com.google.android.inputmethod.latin/com.google.android.libraries.inputmethod.launcher.LauncherActivity}" drawable="gboard" />
+
+	<!-- Internet -->
+	<item component="ComponentInfo{com.sec.android.app.sbrowser.lite/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="samsung_internet" />
+
+	<!-- Mensajes -->
+	<item component="ComponentInfo{com.samsung.android.messaging/com.samsung.android.messaging.ui.ConversationList}" drawable="messages_3" />
+
+	<!-- Nexxt Home -->
+	<item component="ComponentInfo{com.intcomex.smart/com.smart.ThingSplashActivity}" drawable="nexxt_home" />
+
+	<!-- Microsoft Launcher -->
+	<item component="ComponentInfo{com.microsoft.launcher/com.microsoft.launcher.Launcher}" drawable="microsoft_launcher" />
+
+	<!-- Asistente -->
+	<item component="ComponentInfo{com.google.android.apps.assistant/com.google.android.apps.assistant.go.MainActivity}" drawable="google_assistant" />
+
+	<!-- Discogs -->
+	<item component="ComponentInfo{com.discogs.app/com.discogs.app.MainActivity}" drawable="discogs" />
+
+	<!-- Buienradar -->
+	<item component="ComponentInfo{com.supportware.Buienradar/nl.rtl.buienradar.main.MainActivity}" drawable="buienradar" />
+
+	<!-- Buienradar -->
+	<AppIcon name="com.supportware.Buienradar/nl.rtl.buienradar.main.MainActivity" image="buienradar"/>
+
+	<!-- Discord -->
+	<item component="ComponentInfo{com.discord/com.discord.main.MainDefault}" drawable="discord" />
+
+	<!-- Componist -->
+	<item component="ComponentInfo{com.nothing.glyph.composer/com.nothing.glyph.composer.ui.MainActivity}" drawable="componist" />
+
+	<!-- Pano Scrobbler -->
+	<item component="ComponentInfo{com.arn.scrobble/com.arn.scrobble.main.MainActivity}" drawable="pano_scrobbler" />
+
+	<!-- Strava -->
+	<item component="ComponentInfo{com.strava/com.strava.SplashActivity}" drawable="strava" />
+
+	<!-- Signal -->
+	<item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivityAltBubbles}" drawable="signal" />
+
+	<!-- Stargon -->
+	<item component="ComponentInfo{net.onecook.browser/net.onecook.browser.MainActivity}" drawable="stargon" />
+
+
 
 	<!-- System | Default Apps -->
 
