@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Theme version="1">
+<Theme version="1.4">
 	<!-- FOR LG HOME -->
 	<Label value="Popcons"/>
 	<Wallpaper image="lg_homescreen_wallpaper"/>
@@ -21,7 +21,7 @@
 	<!-- Figma -->
 	<AppIcon name="com.figma.mirror/com.figma.figma.MainActivity" image="figma_mirror"/>
 	<!-- Popcons -->
-	<AppIcon name="com.wil.popcons/com.wil.popcons.activities.MainActivity" image="popcons"/>
+	<AppIcon name="com.wil.popcons/com.wil.popcons.activities.SplashActivity" image="popcons"/>
 	<!-- Sync Pro -->
 	<AppIcon name="com.laurencedawson.reddit_sync.pro/com.laurencedawson.reddit_sync.ui.activities.HomeActivity.Default" image="sync_pro"/>
 	<!-- Syncthing-Fork -->
@@ -1102,6 +1102,9 @@
 	<!-- Milli Piyango -->
 	<AppIcon name="tr.sisal.millipiyango/tr.sisal.lottery.ui.start.activities.StartActivity" image="milli_piyango"/>
 
+	<!-- SoundHound -->
+	<AppIcon name="com.melodis.midomiMusicIdentifier.freemium/com.melodis.midomiMusicIdentifier.appcommon.activity.SplashScreenActivity" image="soundhound"/>
+
 	<!-- mail.com -->
 	<AppIcon name="com.mail.mobile.android.mail/com.unitedinternet.portal.ui.HostActivity" image="mailcom"/>
 
@@ -1189,6 +1192,92 @@
 	<!-- Stargon -->
 	<AppIcon name="net.onecook.browser/net.onecook.browser.MainActivity" image="stargon"/>
 
+	<!-- Carta -->
+	<AppIcon name="com.innomatic.cartaapp/com.ryanheise.audioservice.AudioServiceActivity" image="carta"/>
+
+	<!-- CloudStream Beta -->
+	<AppIcon name="com.lagradost.cloudstream3.prerelease/com.lagradost.cloudstream3.ui.account.AccountSelectActivity" image="cloudstream_beta"/>
+
+	<!-- Dantotsu -->
+	<AppIcon name="ani.dantotsu/ani.dantotsu.MainActivity" image="dantotsu"/>
+
+	<!-- Hermit -->
+	<AppIcon name="com.chimbori.hermitcrab/com.chimbori.hermitcrab.AdminActivity" image="hermit"/>
+
+	<!-- Kotatsu -->
+	<AppIcon name="org.koitharu.kotatsu/org.koitharu.kotatsu.main.ui.MainActivity" image="kotatsu"/>
+
+	<!-- PipePipe -->
+	<AppIcon name="InfinityLoop1309.NewPipeEnhanced/org.schabi.newpipe.MainActivity" image="pipepipe"/>
+
+	<!-- Pixels -->
+	<AppIcon name="ar.teovogel.yip/ar.teovogel.yip.MainActivity" image="pixels"/>
+
+	<!-- addy.io -->
+	<AppIcon name="host.stjin.anonaddy/host.stjin.anonaddy.DefaultIcon" image="addyio"/>
+
+	<!-- Lumi AI -->
+	<AppIcon name="com.looper.vic/com.looper.vic.activity.MainActivity" image="lumi_ai"/>
+
+	<!-- SimpleLogin -->
+	<AppIcon name="io.simplelogin.android/io.simplelogin.android.module.startup.StartupActivity" image="simplelogin"/>
+
+	<!-- BeFriend -->
+	<AppIcon name="com.guppir.swipr/com.guppir.swipr.MainActivity" image="befriend"/>
+
+	<!-- Lawnicons -->
+	<AppIcon name="app.lawnchair.lawnicons.play/app.lawnchair.lawnicons.MainActivity" image="lawnicons"/>
+
+	<!-- Noto -->
+	<AppIcon name="com.noto/com.noto.app.AppActivity" image="noto"/>
+
+	<!-- Quetta -->
+	<AppIcon name="net.quetta.browser/com.google.android.apps.chrome.Main" image="quetta"/>
+
+	<!-- Tinder -->
+	<AppIcon name="com.tinder/com.tinder.launch.internal.activities.LoginActivity" image="tinder"/>
+
+	<!-- Cromite -->
+	<AppIcon name="org.cromite.cromite/com.google.android.apps.chrome.Main" image="cromite"/>
+
+	<!-- dvd -->
+	<AppIcon name="org.yausername.dvd/org.yausername.dvd.ui.MainActivity" image="dvd"/>
+
+	<!-- Frosty -->
+	<AppIcon name="com.tommychow.frosty/com.tommychow.frosty.MainActivity" image="frosty"/>
+
+	<!-- HeliBoard -->
+	<AppIcon name="helium314.keyboard/helium314.keyboard.latin.setup.SetupActivity" image="heliboard"/>
+
+	<!-- Notally -->
+	<AppIcon name="com.omgodse.notally/com.omgodse.notally.activities.MainActivity" image="notally"/>
+
+	<!-- ColorNote -->
+	<AppIcon name="com.socialnmobile.dictapps.notepad.color.note/com.socialnmobile.colornote.activity.Main" image="colornote"/>
+
+	<!-- Crunchyroll -->
+	<AppIcon name="com.anilab.android/com.anilab.android.ui.activity.MainActivity" image="crunchyroll"/>
+
+	<!-- My Airtel -->
+	<AppIcon name="net.omobio.airtelsc/net.omobio.airtelsc.ui.splash.SplashActivity" image="my_airtel"/>
+
+	<!-- WOW FM -->
+	<AppIcon name="com.funbase.xradio/com.funbase.xradio.activity.SplashActivity" image="wow_fm"/>
+
+	<!-- My Robi -->
+	<AppIcon name="net.omobio.robisc/net.omobio.robisc.ui.splash.SplashActivity" image="my_robi"/>
+
+	<!-- MX Player Pro -->
+	<AppIcon name="com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList" image="mx_player"/>
+
+	<!-- MyGP -->
+	<AppIcon name="com.portonics.mygp/com.portonics.mygp.ui.SplashActivity" image="mygp"/>
+
+	<!-- Nagad -->
+	<AppIcon name="com.konasl.nagad/com.konasl.dfs.ui.splash.SplashActivity" image="nagad"/>
+
+	<!-- DeepSeek -->
+	<AppIcon name="com.deepseek.chat/com.deepseek.chat.MainActivity" image="deepseek"/>
 
 	<!-- System | Default Apps -->
 

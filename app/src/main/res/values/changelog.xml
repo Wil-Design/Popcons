@@ -10,11 +10,11 @@
     * <u> for Underline
     * <a href="linkUrl">Link Text</a> for links -->
     <string-array name="changelog">
-        <item>Added 76 icons.</item>
-        <item>Linked some missing icons.</item>
+        <item>Added 25 fresh baked icons!</item>
+        <item>Still tryna fix that blank dashboard. :(</item>
         <item>
             <![CDATA[
-            Follow me on <a href="https://fosstodon.org/@wil">Fosstodon</a> and <a href="https://bsky.app/profile/wildesign.bsky.social">Bluesky</a> for updates!
+            Follow me on <a href="https://fosstodon.org/@wil">Fosstodon</a> for updates!
             ]]>
         </item>
         <!-- <item>
