@@ -1223,6 +1223,9 @@
 	<!-- Milli Piyango -->
 	<item component="ComponentInfo{tr.sisal.millipiyango/tr.sisal.lottery.ui.start.activities.StartActivity}" drawable="milli_piyango" />
 
+	<!-- SoundHound -->
+	<item component="ComponentInfo{com.melodis.midomiMusicIdentifier.freemium/com.melodis.midomiMusicIdentifier.appcommon.activity.SplashScreenActivity}" drawable="soundhound" />
+
 	<!-- mail.com -->
 	<item component="ComponentInfo{com.mail.mobile.android.mail/com.unitedinternet.portal.ui.HostActivity}" drawable="mailcom" />
 
@@ -1316,6 +1319,93 @@
 	<!-- Stargon -->
 	<item component="ComponentInfo{net.onecook.browser/net.onecook.browser.MainActivity}" drawable="stargon" />
 
+
+	<!-- Carta -->
+	<item component="ComponentInfo{com.innomatic.cartaapp/com.ryanheise.audioservice.AudioServiceActivity}" drawable="carta" />
+
+	<!-- CloudStream Beta -->
+	<item component="ComponentInfo{com.lagradost.cloudstream3.prerelease/com.lagradost.cloudstream3.ui.account.AccountSelectActivity}" drawable="cloudstream_beta" />
+
+	<!-- Dantotsu -->
+	<item component="ComponentInfo{ani.dantotsu/ani.dantotsu.MainActivity}" drawable="dantotsu" />
+
+	<!-- Hermit -->
+	<item component="ComponentInfo{com.chimbori.hermitcrab/com.chimbori.hermitcrab.AdminActivity}" drawable="hermit" />
+
+	<!-- Kotatsu -->
+	<item component="ComponentInfo{org.koitharu.kotatsu/org.koitharu.kotatsu.main.ui.MainActivity}" drawable="kotatsu" />
+
+	<!-- PipePipe -->
+	<item component="ComponentInfo{InfinityLoop1309.NewPipeEnhanced/org.schabi.newpipe.MainActivity}" drawable="pipepipe" />
+
+	<!-- Pixels -->
+	<item component="ComponentInfo{ar.teovogel.yip/ar.teovogel.yip.MainActivity}" drawable="pixels" />
+
+	<!-- addy.io -->
+	<item component="ComponentInfo{host.stjin.anonaddy/host.stjin.anonaddy.DefaultIcon}" drawable="addyio" />
+
+	<!-- Lumi AI -->
+	<item component="ComponentInfo{com.looper.vic/com.looper.vic.activity.MainActivity}" drawable="lumi_ai" />
+
+	<!-- SimpleLogin -->
+	<item component="ComponentInfo{io.simplelogin.android/io.simplelogin.android.module.startup.StartupActivity}" drawable="simplelogin" />
+
+	<!-- BeFriend -->
+	<item component="ComponentInfo{com.guppir.swipr/com.guppir.swipr.MainActivity}" drawable="befriend" />
+
+	<!-- Lawnicons -->
+	<item component="ComponentInfo{app.lawnchair.lawnicons.play/app.lawnchair.lawnicons.MainActivity}" drawable="lawnicons" />
+
+	<!-- Noto -->
+	<item component="ComponentInfo{com.noto/com.noto.app.AppActivity}" drawable="noto" />
+
+	<!-- Quetta -->
+	<item component="ComponentInfo{net.quetta.browser/com.google.android.apps.chrome.Main}" drawable="quetta" />
+
+	<!-- Tinder -->
+	<item component="ComponentInfo{com.tinder/com.tinder.launch.internal.activities.LoginActivity}" drawable="tinder" />
+
+	<!-- Cromite -->
+	<item component="ComponentInfo{org.cromite.cromite/com.google.android.apps.chrome.Main}" drawable="cromite" />
+
+	<!-- dvd -->
+	<item component="ComponentInfo{org.yausername.dvd/org.yausername.dvd.ui.MainActivity}" drawable="dvd" />
+
+	<!-- Frosty -->
+	<item component="ComponentInfo{com.tommychow.frosty/com.tommychow.frosty.MainActivity}" drawable="frosty" />
+
+	<!-- HeliBoard -->
+	<item component="ComponentInfo{helium314.keyboard/helium314.keyboard.latin.setup.SetupActivity}" drawable="heliboard" />
+
+	<!-- Notally -->
+	<item component="ComponentInfo{com.omgodse.notally/com.omgodse.notally.activities.MainActivity}" drawable="notally" />
+
+	<!-- ColorNote -->
+	<item component="ComponentInfo{com.socialnmobile.dictapps.notepad.color.note/com.socialnmobile.colornote.activity.Main}" drawable="colornote" />
+
+	<!-- Crunchyroll -->
+	<item component="ComponentInfo{com.anilab.android/com.anilab.android.ui.activity.MainActivity}" drawable="crunchyroll" />
+
+	<!-- My Airtel -->
+	<item component="ComponentInfo{net.omobio.airtelsc/net.omobio.airtelsc.ui.splash.SplashActivity}" drawable="my_airtel" />
+
+	<!-- WOW FM -->
+	<item component="ComponentInfo{com.funbase.xradio/com.funbase.xradio.activity.SplashActivity}" drawable="wow_fm" />
+
+	<!-- My Robi -->
+	<item component="ComponentInfo{net.omobio.robisc/net.omobio.robisc.ui.splash.SplashActivity}" drawable="my_robi" />
+
+	<!-- MX Player Pro -->
+	<item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList}" drawable="mx_player" />
+
+	<!-- MyGP -->
+	<item component="ComponentInfo{com.portonics.mygp/com.portonics.mygp.ui.SplashActivity}" drawable="mygp" />
+
+	<!-- Nagad -->
+	<item component="ComponentInfo{com.konasl.nagad/com.konasl.dfs.ui.splash.SplashActivity}" drawable="nagad" />
+
+	<!-- DeepSeek -->
+	<item component="ComponentInfo{com.deepseek.chat/com.deepseek.chat.MainActivity}" drawable="deepseek" />
 
 
 	<!-- System | Default Apps -->
