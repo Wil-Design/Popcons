@@ -13,7 +13,7 @@
 	<item component=":EMAIL" drawable="email"/>
 	<item component=":GALLERY" drawable="gallery"/>
 	<item component=":PHONE" drawable="phone"/>
-	<item component=":SMS" drawable="messaging"/>
+	<item component=":SMS" drawable="messages"/>
 	<item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="app_drawer"/>
 	<!-- AccuWeather -->
 	<item component="ComponentInfo{com.accuweather.android/com.accuweather.android.activities.SplashActivity}" drawable="accuweather"/>
@@ -705,8 +705,6 @@
 	<item component="ComponentInfo{com.ril.ajio/com.ril.ajio.launch.activity.SplashScreenActivity}" drawable="ajio" />
 	<!-- Niagara Launcher -->
 	<item component="ComponentInfo{bitpit.launcher/bitpit.launcher.ui.HomeActivity}" drawable="niagara_launcher" />
-	<!-- Niagara Launcher -->
-	<AppIcon name="bitpit.launcher/bitpit.launcher.ui.HomeActivity" image="niagara_launcher"/>
 	<!-- Phone Manager -->
 	<item component="ComponentInfo{com.coloros.phonemanager/com.coloros.phonemanager.FakeActivity}" drawable="phone_manager" />
 	<!-- Pinnit -->
@@ -1026,6 +1024,7 @@
 
 	<!-- XOS Launcher -->
 	<item component="ComponentInfo{com.transsion.XOSLauncher.upgrade/com.android.launcher3.DynamicVirtualEntryActivity}" drawable="xos_launcher" />
+	<item component="ComponentInfo{com.transsion.XOSLauncher/com.android.launcher3.DynamicVirtualEntryActivity}" drawable="xos_launcher" />
 
 	<!-- ZArchiver -->
 	<item component="ComponentInfo{ru.zdevs.zarchiver/ru.zdevs.zarchiver.ZArchiver}" drawable="zarchiver" />
@@ -1041,7 +1040,6 @@
 
 	<!-- FotMob -->
 	<item component="ComponentInfo{com.mobilefootie.wc2010/com.fotmob.android.ui.MainActivityWrapper}" drawable="fotmob" />
-
 
 	<!-- adidas -->
 	<item component="ComponentInfo{com.adidas.app/com.adidas.intro.IntroActivity}" drawable="adidas" />
@@ -1298,9 +1296,6 @@
 	<!-- Buienradar -->
 	<item component="ComponentInfo{com.supportware.Buienradar/nl.rtl.buienradar.main.MainActivity}" drawable="buienradar" />
 
-	<!-- Buienradar -->
-	<AppIcon name="com.supportware.Buienradar/nl.rtl.buienradar.main.MainActivity" image="buienradar"/>
-
 	<!-- Discord -->
 	<item component="ComponentInfo{com.discord/com.discord.main.MainDefault}" drawable="discord" />
 
@@ -1318,7 +1313,6 @@
 
 	<!-- Stargon -->
 	<item component="ComponentInfo{net.onecook.browser/net.onecook.browser.MainActivity}" drawable="stargon" />
-
 
 	<!-- Carta -->
 	<item component="ComponentInfo{com.innomatic.cartaapp/com.ryanheise.audioservice.AudioServiceActivity}" drawable="carta" />
@@ -1406,6 +1400,144 @@
 
 	<!-- DeepSeek -->
 	<item component="ComponentInfo{com.deepseek.chat/com.deepseek.chat.MainActivity}" drawable="deepseek" />
+
+	<!-- PC Remote -->
+	<item component="ComponentInfo{com.monect.portable/com.monect.core.ui.main.MainActivity}" drawable="pc_remote" />
+
+	<!-- Photo Editor Pro - Polish -->
+	<item component="ComponentInfo{photo.editor.photoeditor.photoeditorpro/com.camerasideas.collagemaker.activity.DummyActivity}" drawable="photo_editor_pro_polish" />
+
+	<!-- Phone Master -->
+	<item component="ComponentInfo{com.transsion.phonemaster/com.cyin.himgr.ads.SplashActivity}" drawable="phone_master" />
+
+	<!-- Quranly -->
+	<item component="ComponentInfo{com.quranly.app/com.quranly.app.MainActivity}" drawable="quranly" />
+
+	<!-- Stay Focused -->
+	<item component="ComponentInfo{com.stayfocused/com.stayfocused.splash.SplashActivity}" drawable="stay_focused" />
+
+	<!-- Windscribe -->
+	<item component="ComponentInfo{com.windscribe.vpn/com.windscribe.mobile.splash.SplashActivity}" drawable="windscribe" />
+
+	<!-- Muslims Day -->
+	<item component="ComponentInfo{theoaktroop.appoframadan/theoaktroop.appoframadan.feature.onboarding.SplashActivity}" drawable="muslims_day" />
+
+	<!-- EdgeMask -->
+	<item component="ComponentInfo{kim.uno.s8/kim.uno.s8.activity.PermissionsActivity}" drawable="edgemask" />
+
+	<!-- Dolphin Emulator -->
+	<item component="ComponentInfo{org.dolphinemu.dolphinemu/org.dolphinemu.dolphinemu.ui.main.MainActivity}" drawable="dolphin_emulator" />
+
+	<!-- Ishiiruka -->
+	<item component="ComponentInfo{org.dolphin.ishiirukadark/org.dolphinemu.dolphinemu.ui.main.MainActivity}" drawable="ishiiruka" />
+
+	<!-- Alarmy -->
+	<item component="ComponentInfo{droom.sleepIfUCan/droom.sleepIfUCan.activity.MainActivity}" drawable="alarmy" />
+
+	<!-- AppLock -->
+	<item component="ComponentInfo{com.sp.protector.free/com.sp.protector.free.StartActivity}" drawable="applock" />
+
+	<!-- File Manager -->
+	<item component="ComponentInfo{com.transsion.filemanagerx/com.transsion.filemanagerx.MainFilemanagerActivity}" drawable="my_files" />
+
+	<!-- Files -->
+	<item component="ComponentInfo{com.google.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="my_files" />
+
+	<!-- BlockerX -->
+	<item component="ComponentInfo{io.funswitch.blocker/io.funswitch.blocker.features.splashScreenPage.SplashScreenActivity}" drawable="blockerx" />
+
+	<!-- libgen -->
+	<item component="ComponentInfo{com.yaaratech.libgen/com.yaaratech.libgen.MainActivity}" drawable="libgen" />
+
+	<!-- ChatGPT -->
+	<item component="ComponentInfo{com.openai.chatgpt/com.openai.chatgpt.MainActivity}" drawable="chatgpt" />
+
+	<!-- Calculator -->
+	<item component="ComponentInfo{com.transsion.calculator/com.transsion.calculator.Calculator}" drawable="calculator" />
+
+	<!-- Camera -->
+	<item component="ComponentInfo{com.transsion.camera/com.android.camera.CameraLauncher}" drawable="camera" />
+
+	<!-- minimalist phone -->
+	<item component="ComponentInfo{com.qqlabs.minimalistlauncher/com.qqlabs.minimalistlauncher.ui.MainActivity}" drawable="minimalist_phone" />
+
+	<!-- Weather -->
+	<item component="ComponentInfo{com.rlk.weathers/com.rlk.weathers.activity.WeatherMainActivity}" drawable="weather_3" />
+
+	<!-- Essence -->
+	<item component="ComponentInfo{com.appfactory.essence/com.example.fapcount.MainActivity}" drawable="essence" />
+
+	<!-- foodpanda -->
+	<item component="ComponentInfo{com.global.foodpanda.android/de.foodora.android.ui.launcher.LauncherActivity}" drawable="foodpanda" />
+
+	<!-- Game Zone -->
+	<item component="ComponentInfo{com.transsion.smartpanel/com.transsion.gamemode.activity.GameSpaceActivity}" drawable="game_zone" />
+
+	<!-- Phone -->
+	<item component="ComponentInfo{com.sh.smart.caller/com.android.dialer.main.impl.MainActivity}" drawable="dialer" />
+
+	<!-- Sound Recorder -->
+	<item component="ComponentInfo{com.transsion.soundrecorder/com.transsion.soundrecorder.SoundRecorder}" drawable="voice_recorder_2" />
+
+	<!-- Clix -->
+	<item component="ComponentInfo{com.tung91.clix/com.tung91.clix.MainActivity}" drawable="clix" />
+
+	<!-- fastPay -->
+	<item component="ComponentInfo{com.intertech.mobilemoneytransfer.activity/com.intertech.mobilemoneytransfer.activity.base.MainActivity}" drawable="fastpay" />
+
+	<!-- Papara -->
+	<item component="ComponentInfo{com.mobillium.papara/com.papara.common.data.icon.LightIconAlias}" drawable="papara" />
+
+	<!-- Ziraat Mobile -->
+	<item component="ComponentInfo{com.ziraat.ziraatmobil/com.ziraat.ziraatmobile.SplashActivity}" drawable="ziraat_mobile" />
+
+	<!-- Tooly -->
+	<item component="ComponentInfo{com.yousx.thetoolsapp/com.yousx.thetoolsapp.SplashScreenActivity}" drawable="tooly" />
+
+	<!-- DNSNet -->
+	<item component="ComponentInfo{dev.clombardo.dnsnet/dev.clombardo.dnsnet.MainActivity}" drawable="dnsnet" />
+
+	<!-- Icon Packer -->
+	<item component="ComponentInfo{cn.ommiao.iconpacker/cn.ommiao.iconpacker.MainActivity}" drawable="icon_packer" />
+
+	<!-- NekoBox -->
+	<item component="ComponentInfo{moe.nb4a/io.nekohasekai.sagernet.ui.MainActivity}" drawable="nekobox" />
+
+	<!-- Own Sticker Maker for WhatsApp -->
+	<item component="ComponentInfo{customstickermaker.whatsappstickers.personalstickersforwhatsapp/customstickermaker.whatsappstickers.personalstickersforwhatsapp.permission.PermissionActivity}" drawable="own_sticker_maker_for_whatsapp" />
+
+	<!-- Turbo Editor -->
+	<item component="ComponentInfo{com.maskyn.fileeditor/com.maskyn.fileeditor.FabricEditorActivity}" drawable="turbo_editor" />
+
+	<!-- My Files -->
+	<item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.ui.MainActivity}" drawable="folder" />
+
+	<!-- Play Books -->
+	<item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity}" drawable="play_books" />
+
+	<!-- Pokémon GO -->
+	<item component="ComponentInfo{com.nianticlabs.pokemongo/com.nianticproject.holoholo.libholoholo.unity.UnityMainActivity}" drawable="pokemon_go" />
+
+	<!-- Auto & General -->
+	<item component="ComponentInfo{za.co.upstream.autogen/za.co.upstream.autogen.Activities.OnboardingActivity}" drawable="auto_and_general" />
+
+	<!-- Lightroom -->
+	<item component="ComponentInfo{com.adobe.lrmobile/com.adobe.lrmobile.StorageCheckActivity}" drawable="lightroom" />
+
+	<!-- McDonald's -->
+	<item component="ComponentInfo{com.mcdonalds.mobileapp/com.mcdonalds.mobileapp.SplashActivity}" drawable="mcdonalds" />
+
+	<!-- Jitsi Meet -->
+	<item component="ComponentInfo{org.jitsi.meet/org.jitsi.meet.MainActivity}" drawable="jitsi_meet" />
+
+	<!-- Jellyfin -->
+	<item component="ComponentInfo{org.jellyfin.mobile/org.jellyfin.mobile.MainActivity}" drawable="jellyfin" />
+
+	<!-- Viu -->
+	<item component="ComponentInfo{com.vuclip.viu/com.viu.phone.ui.activity.WelcomeActivity}" drawable="viu" />
+
+	<!-- Uber Eats -->
+	<item component="ComponentInfo{com.ubercab.eats/com.ubercab.eats.core.activity.LauncherActivity}" drawable="uber_eats" />
 
 
 	<!-- System | Default Apps -->

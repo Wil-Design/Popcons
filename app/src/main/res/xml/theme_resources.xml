@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Theme version="1.4">
+<Theme version="1.5">
 	<!-- FOR LG HOME -->
 	<Label value="Popcons"/>
 	<Wallpaper image="lg_homescreen_wallpaper"/>
@@ -905,6 +905,7 @@
 
 	<!-- XOS Launcher -->
 	<AppIcon name="com.transsion.XOSLauncher.upgrade/com.android.launcher3.DynamicVirtualEntryActivity" image="xos_launcher"/>
+	<AppIcon name="com.transsion.XOSLauncher/com.android.launcher3.DynamicVirtualEntryActivity" image="xos_launcher"/>
 
 	<!-- ZArchiver -->
 	<AppIcon name="ru.zdevs.zarchiver/ru.zdevs.zarchiver.ZArchiver" image="zarchiver"/>
@@ -920,7 +921,6 @@
 
 	<!-- FotMob -->
 	<AppIcon name="com.mobilefootie.wc2010/com.fotmob.android.ui.MainActivityWrapper" image="fotmob"/>
-
 
 	<!-- adidas -->
 	<AppIcon name="com.adidas.app/com.adidas.intro.IntroActivity" image="adidas"/>
@@ -1278,6 +1278,151 @@
 
 	<!-- DeepSeek -->
 	<AppIcon name="com.deepseek.chat/com.deepseek.chat.MainActivity" image="deepseek"/>
+
+	<!-- PC Remote -->
+	<AppIcon name="com.monect.portable/com.monect.core.ui.main.MainActivity" image="pc_remote"/>
+
+	<!-- Photo Editor Pro - Polish -->
+	<AppIcon name="photo.editor.photoeditor.photoeditorpro/com.camerasideas.collagemaker.activity.DummyActivity" image="photo_editor_pro_polish"/>
+
+	<!-- Phone Master -->
+	<AppIcon name="com.transsion.phonemaster/com.cyin.himgr.ads.SplashActivity" image="phone_master"/>
+
+	<!-- Quranly -->
+	<AppIcon name="com.quranly.app/com.quranly.app.MainActivity" image="quranly"/>
+
+	<!-- Stay Focused -->
+	<AppIcon name="com.stayfocused/com.stayfocused.splash.SplashActivity" image="stay_focused"/>
+
+	<!-- Windscribe -->
+	<AppIcon name="com.windscribe.vpn/com.windscribe.mobile.splash.SplashActivity" image="windscribe"/>
+
+	<!-- Muslims Day -->
+	<AppIcon name="theoaktroop.appoframadan/theoaktroop.appoframadan.feature.onboarding.SplashActivity" image="muslims_day"/>
+
+	<!-- EdgeMask -->
+	<AppIcon name="kim.uno.s8/kim.uno.s8.activity.PermissionsActivity" image="edgemask"/>
+
+	<!-- Dolphin Emulator -->
+	<AppIcon name="org.dolphinemu.dolphinemu/org.dolphinemu.dolphinemu.ui.main.MainActivity" image="dolphin_emulator"/>
+
+	<!-- Ishiiruka -->
+	<AppIcon name="org.dolphin.ishiirukadark/org.dolphinemu.dolphinemu.ui.main.MainActivity" image="ishiiruka"/>
+
+	<!-- Alarmy -->
+	<AppIcon name="droom.sleepIfUCan/droom.sleepIfUCan.activity.MainActivity" image="alarmy"/>
+
+	<!-- AppLock -->
+	<AppIcon name="com.sp.protector.free/com.sp.protector.free.StartActivity" image="applock"/>
+
+	<!-- File Manager -->
+	<AppIcon name="com.transsion.filemanagerx/com.transsion.filemanagerx.MainFilemanagerActivity" image="my_files"/>
+
+	<!-- Files -->
+	<AppIcon name="com.google.android.documentsui/com.android.documentsui.LauncherActivity" image="my_files"/>
+
+	<!-- BlockerX -->
+	<AppIcon name="io.funswitch.blocker/io.funswitch.blocker.features.splashScreenPage.SplashScreenActivity" image="blockerx"/>
+
+	<!-- libgen -->
+	<AppIcon name="com.yaaratech.libgen/com.yaaratech.libgen.MainActivity" image="libgen"/>
+
+	<!-- ChatGPT -->
+	<AppIcon name="com.openai.chatgpt/com.openai.chatgpt.MainActivity" image="chatgpt"/>
+
+	<!-- Calculator -->
+	<AppIcon name="com.transsion.calculator/com.transsion.calculator.Calculator" image="calculator"/>
+
+	<!-- Camera -->
+	<AppIcon name="com.transsion.camera/com.android.camera.CameraLauncher" image="camera"/>
+
+	<!-- minimalist phone -->
+	<AppIcon name="com.qqlabs.minimalistlauncher/com.qqlabs.minimalistlauncher.ui.MainActivity" image="minimalist_phone"/>
+
+	<!-- Weather -->
+	<AppIcon name="com.rlk.weathers/com.rlk.weathers.activity.WeatherMainActivity" image="weather_3"/>
+
+	<!-- Essence -->
+	<AppIcon name="com.appfactory.essence/com.example.fapcount.MainActivity" image="essence"/>
+
+	<!-- foodpanda -->
+	<AppIcon name="com.global.foodpanda.android/de.foodora.android.ui.launcher.LauncherActivity" image="foodpanda"/>
+
+	<!-- Game Zone -->
+	<AppIcon name="com.transsion.smartpanel/com.transsion.gamemode.activity.GameSpaceActivity" image="game_zone"/>
+
+	<!-- Phone -->
+	<AppIcon name="com.sh.smart.caller/com.android.dialer.main.impl.MainActivity" image="dialer"/>
+
+	<!-- Sound Recorder -->
+	<AppIcon name="com.transsion.soundrecorder/com.transsion.soundrecorder.SoundRecorder" image="voice_recorder_2"/>
+
+	<!-- Clix -->
+	<AppIcon name="com.tung91.clix/com.tung91.clix.MainActivity" image="clix"/>
+
+	<!-- fastPay -->
+	<AppIcon name="com.intertech.mobilemoneytransfer.activity/com.intertech.mobilemoneytransfer.activity.base.MainActivity" image="fastpay"/>
+
+	<!-- Papara -->
+	<AppIcon name="com.mobillium.papara/com.papara.common.data.icon.LightIconAlias" image="papara"/>
+
+	<!-- Ziraat Mobile -->
+	<AppIcon name="com.ziraat.ziraatmobil/com.ziraat.ziraatmobile.SplashActivity" image="ziraat_mobile"/>
+
+	<!-- Tooly -->
+	<AppIcon name="com.yousx.thetoolsapp/com.yousx.thetoolsapp.SplashScreenActivity" image="tooly"/>
+
+	<!-- DNSNet -->
+	<AppIcon name="dev.clombardo.dnsnet/dev.clombardo.dnsnet.MainActivity" image="dnsnet"/>
+
+	<!-- Icon Packer -->
+	<AppIcon name="cn.ommiao.iconpacker/cn.ommiao.iconpacker.MainActivity" image="icon_packer"/>
+
+	<!-- NekoBox -->
+	<AppIcon name="moe.nb4a/io.nekohasekai.sagernet.ui.MainActivity" image="nekobox"/>
+
+	<!-- Own Sticker Maker for WhatsApp -->
+	<AppIcon name="customstickermaker.whatsappstickers.personalstickersforwhatsapp/customstickermaker.whatsappstickers.personalstickersforwhatsapp.permission.PermissionActivity" image="own_sticker_maker_for_whatsapp"/>
+
+	<!-- Turbo Editor -->
+	<AppIcon name="com.maskyn.fileeditor/com.maskyn.fileeditor.FabricEditorActivity" image="turbo_editor"/>
+
+	<!-- My Files -->
+	<AppIcon name="com.sec.android.app.myfiles/com.sec.android.app.myfiles.ui.MainActivity" image="folder"/>
+
+	<!-- Play Books -->
+	<AppIcon name="com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity" image="play_books"/>
+
+	<!-- Pokémon GO -->
+	<AppIcon name="com.nianticlabs.pokemongo/com.nianticproject.holoholo.libholoholo.unity.UnityMainActivity" image="pokemon_go"/>
+
+	<!-- Auto & General -->
+	<AppIcon name="za.co.upstream.autogen/za.co.upstream.autogen.Activities.OnboardingActivity" image="auto_and_general"/>
+
+	<!-- Lightroom -->
+	<AppIcon name="com.adobe.lrmobile/com.adobe.lrmobile.StorageCheckActivity" image="lightroom"/>
+
+	<!-- McDonald's -->
+	<AppIcon name="com.mcdonalds.mobileapp/com.mcdonalds.mobileapp.SplashActivity" image="mcdonalds"/>
+
+	<!-- Jitsi Meet -->
+	<AppIcon name="org.jitsi.meet/org.jitsi.meet.MainActivity" image="jitsi_meet"/>
+
+	<!-- Jellyfin -->
+	<AppIcon name="org.jellyfin.mobile/org.jellyfin.mobile.MainActivity" image="jellyfin"/>
+
+	<!-- Viu -->
+	<AppIcon name="com.vuclip.viu/com.viu.phone.ui.activity.WelcomeActivity" image="viu"/>
+
+	<!-- Uber Eats -->
+	<AppIcon name="com.ubercab.eats/com.ubercab.eats.core.activity.LauncherActivity" image="uber_eats"/>
+
+	<!-- Niagara Launcher -->
+	<AppIcon name="bitpit.launcher/bitpit.launcher.ui.HomeActivity" image="niagara_launcher"/>
+
+	<!-- Buienradar -->
+	<AppIcon name="com.supportware.Buienradar/nl.rtl.buienradar.main.MainActivity" image="buienradar"/>
+
 
 	<!-- System | Default Apps -->
 
