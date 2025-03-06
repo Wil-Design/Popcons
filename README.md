@@ -3,7 +3,7 @@
 # Popcons
 A free icon pack that's round and has some colourrrrrr.
 - Supports multiple launchers thanks to an amazing dashboard by *Dani Mahardhika*, [Zixpo](https://github.com/zixpo) and [Donno](https://github.com/Donnnno).
-- 227 themed icons.
+- Over 780 themed icons.
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=com.wil.popcons)
 

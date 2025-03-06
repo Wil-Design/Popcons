@@ -2,7 +2,7 @@
 <resources>
 
     <!-- Leave empty if you don't want to show changelog date -->
-    <string name="changelog_date">01 March 2025</string>
+    <string name="changelog_date">06 March 2025</string>
 
     <!-- Changelog support html formatting
     * <b> for Bold
@@ -10,18 +10,18 @@
     * <u> for Underline
     * <a href="linkUrl">Link Text</a> for links -->
     <string-array name="changelog">
-        <item>Added 79 icons</item>
-        <item>Most icons are folder ones lmao</item>
+        <item>Added 52 icons</item>
+        <item>Hopefully fixed the dashboard being blank.</item>
         <item>
             <![CDATA[
             Follow me on <a href="https://fosstodon.org/@wil">Fosstodon</a> for updates!
             ]]>
-        </item>
+        </item>        
         <item>
             <![CDATA[
             Or on <a href="https://bsky.app/profile/wildesign.bsky.social">Bluesky</a>!
             ]]>
-        </item>
+        </item>        
         <item>
             <![CDATA[
             Check the <a href="https://workflowy.com/s/popcons/Pqd6XDLQEliYRDPl">Workflowy</a> for updates!

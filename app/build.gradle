@@ -9,8 +9,8 @@ android {
         applicationId 'com.wil.popcons'
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 15
-        versionName '1.5'
+        versionCode 16
+        versionName '1.6'
     }
 
     bundle {
@@ -32,7 +32,7 @@ android {
         release {
             signingConfig signingConfigs.release
             debuggable false
-            minifyEnabled true
+            minifyEnabled false
         }
     }
 
