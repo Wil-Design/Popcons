@@ -13,7 +13,7 @@
 	<item component=":EMAIL" drawable="email"/>
 	<item component=":GALLERY" drawable="gallery"/>
 	<item component=":PHONE" drawable="phone"/>
-	<item component=":SMS" drawable="messages"/>
+	<item component=":SMS" drawable="messaging"/>
 	<item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="app_drawer"/>
 	<!-- AccuWeather -->
 	<item component="ComponentInfo{com.accuweather.android/com.accuweather.android.activities.SplashActivity}" drawable="accuweather"/>
@@ -265,6 +265,7 @@
 	<item component="ComponentInfo{com.workflowy.android/com.workflowy.android.MainActivity}" drawable="workflowy"/>
 	<!-- YouTube -->
 	<item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube"/>
+	<item component="ComponentInfo{app.revanced.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube" />
 	<!-- YouTube Music -->
 	<item component="ComponentInfo{com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}" drawable="youtube_music"/>
 	<!-- 3DMark -->
@@ -273,6 +274,7 @@
 	<item component="ComponentInfo{com.finalwire.aida64/com.finalwire.aida64.HHMainActivity}" drawable="aida64"/>
 	<!-- Al Quran -->
 	<item component="ComponentInfo{com.greentech.quran/com.greentech.quran.ui.main.MainActivity}" drawable="al_quran"/>
+	<item component="ComponentInfo{com.greentech.quran/com.greentech.quran.ui.apponboarding.OnboardingActivity}" drawable="al_quran" />
 	<!-- Alibaba Com -->
 	<item component="ComponentInfo{com.alibaba.intl.android.apps.poseidon/com.alibaba.intl.android.apps.poseidon.app.activity.ActivityMainMaterial}" drawable="alibaba_com"/>
 	<!-- AliPay -->
@@ -526,6 +528,7 @@
 	<item component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.common.activity.MusicMainActivity}" drawable="samsung_music"/>
 	<!-- Skit -->
 	<item component="ComponentInfo{com.pavelrekun.skit/com.pavelrekun.skit.base.BaseActivity}" drawable="skit"/>
+	<item component="ComponentInfo{com.pavelrekun.skit.premium/com.pavelrekun.skit.base.BaseActivity}" drawable="skit" />
 	<!-- Adobe Acrobat -->
 	<item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="adobe_acrobat"/>
 	<!-- AI Life -->
@@ -551,6 +554,7 @@
 	<item component="ComponentInfo{com.google.android.apps.adm/com.google.android.apps.adm.activities.MainActivity}" drawable="find_device"/>
 	<!-- Proton VPN -->
 	<item component="ComponentInfo{ch.protonvpn.android/com.protonvpn.android.ui.onboarding.SplashActivity}" drawable="proton_vpn"/>
+	<item component="ComponentInfo{ch.protonvpn.android/ch.protonvpn.android.RoutingActivity}" drawable="proton_vpn" />
 	<!-- SAI -->
 	<item component="ComponentInfo{com.aefyr.sai/com.aefyr.sai.ui.activities.MainActivity}" drawable="sai"/>
 	<!-- Play Games -->
@@ -1538,6 +1542,126 @@
 
 	<!-- Uber Eats -->
 	<item component="ComponentInfo{com.ubercab.eats/com.ubercab.eats.core.activity.LauncherActivity}" drawable="uber_eats" />
+
+	<!-- IELTS Reading -->
+	<item component="ComponentInfo{com.milinix.ieltstest/com.milinix.ieltstest.activities.SplashActivity}" drawable="ielts_reading" />
+
+	<!-- Win-X Launcher (No Ads) -->
+	<item component="ComponentInfo{com.InternityLabs.Launcher.WinX/crc64235108d3f9616103.MainActivity}" drawable="win_x_launcher_no_ads_" />
+
+	<!-- Face Unlock -->
+	<item component="ComponentInfo{com.transsion.faceidsub/com.transsion.faceid.FaceManagerActivity}" drawable="face_unlock" />
+
+	<!-- RocoMamas -->
+	<item component="ComponentInfo{com.rocomamas.app/com.rocomamas.app.MainActivity}" drawable="rocomamas" />
+
+	<!-- ReVanced Manager -->
+	<item component="ComponentInfo{app.revanced.manager.flutter/app.revanced.manager.flutter.MainActivity}" drawable="revanced_manager" />
+
+	<!-- Makro mCard -->
+	<item component="ComponentInfo{za.co.makro.mcard/com.example.mcard_flutter.MainActivity}" drawable="makro_mcard" />
+	
+	<!-- Libby -->
+	<item component="ComponentInfo{com.overdrive.mobile.android.libby/com.overdrive.mobile.android.nautilus.ui.Activity_Main}" drawable="libby" />
+
+	<!-- GTA:LCS -->
+	<item component="ComponentInfo{com.rockstargames.gtalcs/com.rockstargames.gtalcs.BootGameActivity}" drawable="gta_lcs" />
+
+	<!-- Sudoku -->
+	<item component="ComponentInfo{com.easybrain.sudoku.android/com.easybrain.template.SplashActivity}" drawable="sudoku" />
+
+	<!-- Sudoku Premium -->
+	<item component="ComponentInfo{com.icenta.sudoku/com.icenta.sudoku.ui.SplashActivityPremium}" drawable="sudoku_premium" />
+
+	<!-- Wallpapers -->
+	<item component="ComponentInfo{com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity}" drawable="google_wallpapers" />
+
+	<!-- Wavelet -->
+	<item component="ComponentInfo{com.pittvandewitt.wavelet/com.pittvandewitt.wavelet.MainActivity}" drawable="wavelet" />
+
+	<!-- Poweramp Unlocker -->
+	<item component="ComponentInfo{com.maxmpz.audioplayer.unlock/com.maxmpz.audioplayer.unlock.LauncherRedirectorActivity}" drawable="poweramp" />
+
+	<!-- Wearable -->
+	<item component="ComponentInfo{com.samsung.android.app.watchmanager/com.samsung.android.app.watchmanager.setupwizard.SetupWizardWelcomeActivity}" drawable="wearable" />
+
+	<!-- Yoco -->
+	<item component="ComponentInfo{za.co.yoco/com.yoco.hub.SplashActivity}" drawable="yoco" />
+
+	<!-- Aluminium -->
+	<item component="ComponentInfo{moe.emi.aluminium/moe.emi.aluminium.MainActivity}" drawable="aluminium" />
+
+	<!-- Edge Gestures -->
+	<item component="ComponentInfo{com.ss.edgegestures/com.ss.edgegestures.SettingsActivity}" drawable="edge_gestures" />
+
+	<!-- Inure -->
+	<item component="ComponentInfo{app.simple.inure/app.simple.inure.activities.app.MainActivity}" drawable="inure" />
+
+	<!-- Lithium -->
+	<item component="ComponentInfo{com.faultexception.reader/com.faultexception.reader.MainActivity}" drawable="lithium" />
+
+	<!-- Letterboxd -->
+	<item component="ComponentInfo{com.letterboxd.letterboxd/com.letterboxd.letterboxd.ui.activities.PopularActivity}" drawable="letterboxd" />
+
+	<!-- Lemuroid -->
+	<item component="ComponentInfo{com.swordfish.lemuroid/com.swordfish.lemuroid.app.mobile.feature.main.MainActivity}" drawable="lemuroid" />
+
+	<!-- zFile -->
+	<item component="ComponentInfo{com.htetznaing.zfile/com.htetz.zfile4.MainActivity}" drawable="folder" />
+
+	<!-- Camera -->
+	<item component="ComponentInfo{com.hmdglobal.app.camera/com.hmdglobal.app.camera.GuideActivity}" drawable="camera_3" />
+
+	<!-- Santander UK -->
+	<item component="ComponentInfo{uk.co.santander.santanderUK/es.bancosantander.apps.mobile.android.activities.PublicActivity}" drawable="santander" />
+
+	<!-- Airtime -->
+	<item component="ComponentInfo{com.karrot/com.karrot.MainActivity}" drawable="airtime" />
+
+	<!-- Aves Libre -->
+	<item component="ComponentInfo{deckers.thibault.aves.libre/deckers.thibault.aves.MainActivity}" drawable="aves_gallery" />
+
+	<!-- Authenticator -->
+	<item component="ComponentInfo{com.google.android.apps.authenticator2/com.google.android.apps.authenticator2.main.MainActivity}" drawable="authenticator" />
+
+	<!-- Dolby Atmos -->
+	<item component="ComponentInfo{co.aospa.dolby.xiaomi/co.aospa.dolby.xiaomi.DolbyActivity}" drawable="dolby_atmos" />
+
+	<!-- microG Settings -->
+	<item component="ComponentInfo{app.revanced.android.gms/org.microg.gms.ui.SettingsActivity}" drawable="microg_settings" />
+
+	<!-- MyJio -->
+	<item component="ComponentInfo{com.jio.myjio/com.jio.myjio.dashboard.activities.SplashActivity}" drawable="myjio" />
+
+	<!-- J2ME Loader -->
+	<item component="ComponentInfo{ru.playsoftware.j2meloader/ru.playsoftware.j2meloader.MainActivity}" drawable="j2me_loader" />
+
+	<!-- JioHotstar -->
+	<item component="ComponentInfo{in.startv.hotstar/com.hotstar.MainActivity}" drawable="jiohotstar" />
+
+	<!-- Ampere -->
+	<item component="ComponentInfo{com.gombosdev.ampere/com.gombosdev.ampere.MainActivity}" drawable="ampere" />
+
+	<!-- DRM Info -->
+	<item component="ComponentInfo{com.androidfung.drminfo/com.androidfung.drminfo.MobileActivity}" drawable="drm_info" />
+
+	<!-- Mi Fitness -->
+	<item component="ComponentInfo{com.xiaomi.wearable/com.xiaomi.fitness.login.SplashActivity}" drawable="mi_fitness" />
+
+	<!-- Music 7 Pro -->
+	<item component="ComponentInfo{siva.app.music7pro/com.zipoapps.premiumhelper.ui.splash.PHSplashActivity}" drawable="music_7_pro" />
+
+	<!-- FIIO Music -->
+	<item component="ComponentInfo{com.fiio.music/com.fiio.music.activity.SplashActivity}" drawable="fiio_music" />
+
+	<!-- Quick Cursor -->
+	<item component="ComponentInfo{com.quickcursor/com.quickcursor.android.activities.MainActivity}" drawable="quick_cursor" />
+
+	<!-- imo -->
+	<item component="ComponentInfo{com.imo.android.imoim/com.imo.android.imoim.home.Home}" drawable="imo" />
+
+	<!-- Octohide VPN -->
+	<item component="ComponentInfo{octohide.vpn/com.octohide.vpn.MainActivity}" drawable="octohide_vpn" />
 
 
 	<!-- System | Default Apps -->

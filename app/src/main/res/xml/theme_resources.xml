@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Theme version="1.5">
+<Theme version="1.6">
 	<!-- FOR LG HOME -->
 	<Label value="Popcons"/>
 	<Wallpaper image="lg_homescreen_wallpaper"/>
@@ -279,6 +279,7 @@
 	<AppIcon name="com.workflowy.android/com.workflowy.android.MainActivity" image="workflowy"/>
 	<!-- YouTube -->
 	<AppIcon name="com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity" image="youtube"/>
+	<AppIcon name="app.revanced.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity" image="youtube"/>
 	<!-- YouTube Music -->
 	<AppIcon name="com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity" image="youtube_music"/>
 	<!-- Logseq -->
@@ -1419,12 +1420,138 @@
 
 	<!-- Niagara Launcher -->
 	<AppIcon name="bitpit.launcher/bitpit.launcher.ui.HomeActivity" image="niagara_launcher"/>
-
+	
 	<!-- Buienradar -->
 	<AppIcon name="com.supportware.Buienradar/nl.rtl.buienradar.main.MainActivity" image="buienradar"/>
 
+	<!-- IELTS Reading -->
+	<AppIcon name="com.milinix.ieltstest/com.milinix.ieltstest.activities.SplashActivity" image="ielts_reading"/>
 
-	<!-- System | Default Apps -->
+	<!-- Win-X Launcher (No Ads) -->
+	<AppIcon name="com.InternityLabs.Launcher.WinX/crc64235108d3f9616103.MainActivity" image="win_x_launcher_no_ads_"/>
+
+	<!-- Face Unlock -->
+	<AppIcon name="com.transsion.faceidsub/com.transsion.faceid.FaceManagerActivity" image="face_unlock"/>
+
+	<!-- RocoMamas -->
+	<AppIcon name="com.rocomamas.app/com.rocomamas.app.MainActivity" image="rocomamas"/>
+
+	<!-- ReVanced Manager -->
+	<AppIcon name="app.revanced.manager.flutter/app.revanced.manager.flutter.MainActivity" image="revanced_manager"/>
+
+	<!-- Makro mCard -->
+	<AppIcon name="za.co.makro.mcard/com.example.mcard_flutter.MainActivity" image="makro_mcard"/>
+
+	<!-- Libby -->
+	<AppIcon name="com.overdrive.mobile.android.libby/com.overdrive.mobile.android.nautilus.ui.Activity_Main" image="libby"/>
+
+	<!-- GTA:LCS -->
+	<AppIcon name="com.rockstargames.gtalcs/com.rockstargames.gtalcs.BootGameActivity" image="gta_lcs"/>
+
+	<!-- Sudoku -->
+	<AppIcon name="com.easybrain.sudoku.android/com.easybrain.template.SplashActivity" image="sudoku"/>
+
+	<!-- Sudoku Premium -->
+	<AppIcon name="com.icenta.sudoku/com.icenta.sudoku.ui.SplashActivityPremium" image="sudoku_premium"/>
+
+	<!-- Wallpapers -->
+	<AppIcon name="com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity" image="google_wallpapers"/>
+
+	<!-- Wavelet -->
+	<AppIcon name="com.pittvandewitt.wavelet/com.pittvandewitt.wavelet.MainActivity" image="wavelet"/>
+
+	<!-- Poweramp Unlocker -->
+	<AppIcon name="com.maxmpz.audioplayer.unlock/com.maxmpz.audioplayer.unlock.LauncherRedirectorActivity" image="poweramp"/>
+
+	<!-- Wearable -->
+	<AppIcon name="com.samsung.android.app.watchmanager/com.samsung.android.app.watchmanager.setupwizard.SetupWizardWelcomeActivity" image="wearable"/>
+
+	<!-- Yoco -->
+	<AppIcon name="za.co.yoco/com.yoco.hub.SplashActivity" image="yoco"/>
+
+	<!-- Aluminium -->
+	<AppIcon name="moe.emi.aluminium/moe.emi.aluminium.MainActivity" image="aluminium"/>
+
+	<!-- Edge Gestures -->
+	<AppIcon name="com.ss.edgegestures/com.ss.edgegestures.SettingsActivity" image="edge_gestures"/>
+
+	<!-- Inure -->
+	<AppIcon name="app.simple.inure/app.simple.inure.activities.app.MainActivity" image="inure"/>
+
+	<!-- Lithium -->
+	<AppIcon name="com.faultexception.reader/com.faultexception.reader.MainActivity" image="lithium"/>
+
+	<!-- Letterboxd -->
+	<AppIcon name="com.letterboxd.letterboxd/com.letterboxd.letterboxd.ui.activities.PopularActivity" image="letterboxd"/>
+
+	<!-- Lemuroid -->
+	<AppIcon name="com.swordfish.lemuroid/com.swordfish.lemuroid.app.mobile.feature.main.MainActivity" image="lemuroid"/>
+
+	<!-- zFile -->
+	<AppIcon name="com.htetznaing.zfile/com.htetz.zfile4.MainActivity" image="folder"/>
+
+	<!-- Camera -->
+	<AppIcon name="com.hmdglobal.app.camera/com.hmdglobal.app.camera.GuideActivity" image="camera_3"/>
+
+	<!-- Santander UK -->
+	<AppIcon name="uk.co.santander.santanderUK/es.bancosantander.apps.mobile.android.activities.PublicActivity" image="santander"/>
+
+	<!-- Airtime -->
+	<AppIcon name="com.karrot/com.karrot.MainActivity" image="airtime"/>
+
+	<!-- Proton VPN -->
+	<AppIcon name="ch.protonvpn.android/ch.protonvpn.android.RoutingActivity" image="proton_vpn"/>
+
+	<!-- Aves Libre -->
+	<AppIcon name="deckers.thibault.aves.libre/deckers.thibault.aves.MainActivity" image="aves_gallery"/>
+
+	<!-- Al Quran -->
+	<AppIcon name="com.greentech.quran/com.greentech.quran.ui.apponboarding.OnboardingActivity" image="al_quran"/>
+
+	<!-- Authenticator -->
+	<AppIcon name="com.google.android.apps.authenticator2/com.google.android.apps.authenticator2.main.MainActivity" image="authenticator"/>
+
+	<!-- Dolby Atmos -->
+	<AppIcon name="co.aospa.dolby.xiaomi/co.aospa.dolby.xiaomi.DolbyActivity" image="dolby_atmos"/>
+
+	<!-- microG Settings -->
+	<AppIcon name="app.revanced.android.gms/org.microg.gms.ui.SettingsActivity" image="microg_settings"/>
+
+	<!-- MyJio -->
+	<AppIcon name="com.jio.myjio/com.jio.myjio.dashboard.activities.SplashActivity" image="myjio"/>
+
+	<!-- J2ME Loader -->
+	<AppIcon name="ru.playsoftware.j2meloader/ru.playsoftware.j2meloader.MainActivity" image="j2me_loader"/>
+
+	<!-- JioHotstar -->
+	<AppIcon name="in.startv.hotstar/com.hotstar.MainActivity" image="jiohotstar"/>
+
+	<!-- Ampere -->
+	<AppIcon name="com.gombosdev.ampere/com.gombosdev.ampere.MainActivity" image="ampere"/>
+
+	<!-- DRM Info -->
+	<AppIcon name="com.androidfung.drminfo/com.androidfung.drminfo.MobileActivity" image="drm_info"/>
+
+	<!-- Mi Fitness -->
+	<AppIcon name="com.xiaomi.wearable/com.xiaomi.fitness.login.SplashActivity" image="mi_fitness"/>
+
+	<!-- Music 7 Pro -->
+	<AppIcon name="siva.app.music7pro/com.zipoapps.premiumhelper.ui.splash.PHSplashActivity" image="music_7_pro"/>
+
+	<!-- FIIO Music -->
+	<AppIcon name="com.fiio.music/com.fiio.music.activity.SplashActivity" image="fiio_music"/>
+
+	<!-- Quick Cursor -->
+	<AppIcon name="com.quickcursor/com.quickcursor.android.activities.MainActivity" image="quick_cursor"/>
+
+	<!-- imo -->
+	<AppIcon name="com.imo.android.imoim/com.imo.android.imoim.home.Home" image="imo"/>
+
+	<!-- Octohide VPN -->
+	<AppIcon name="octohide.vpn/com.octohide.vpn.MainActivity" image="octohide_vpn"/>
+
+	
+<!-- System | Default Apps -->
 
 	<!-- Browser -->
 	<AppIcon name="org.lineageos.jelly/org.lineageos.jelly.MainActivity" image="browser"/>
