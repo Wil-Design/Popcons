@@ -17,9 +17,10 @@ If you have icons that you wanted to get themed, please request icons using the 
 
 ### Contact Me
 
-- [Masstodon](https://fosstodon.org/@wil)
+- [Mastodon](https://fosstodon.org/@wil)
 - **Threema**: WYZR6RC3
 - **Matrix**: @wilard:matrix.org
+- [Bluesky](https://bsky.app/profile/wildesign.bsky.social)
 
 ---
 
