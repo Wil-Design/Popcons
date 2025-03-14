@@ -9,8 +9,8 @@ android {
         applicationId 'com.wil.popcons'
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 16
-        versionName '1.6'
+        versionCode 17
+        versionName '1.7'
     }
 
     bundle {
@@ -72,7 +72,7 @@ dependencies {
 // Code for automatically copying appfilter.xml and drawable.xml
 // from `res/xml` directory to `assets` directory
 tasks.register('copyXMLs') {
-    ['appfilter.xml', 'drawable.xml'].each { file ->
+    ['appfilter.xml', 'drawable.xml', 'themecfg.xml'].each { file ->
         copy {
             from "$projectDir/src/main/res/xml/$file"
             into "$projectDir/src/main/assets/"

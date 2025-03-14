@@ -693,6 +693,7 @@
 	<item component="ComponentInfo{co.brainly/com.brainly.StartActivity}" drawable="brainly"/>
 	<!-- CamScanner -->
 	<item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.launcher.WelcomeDefaultActivity}" drawable="camscanner"/>
+	<item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.mainmenu.mainactivity.MainActivity}" drawable="camscanner" />
 	<!-- Canva -->
 	<item component="ComponentInfo{com.canva.editor/com.canva.app.editor.splash.SplashActivity}" drawable="canva"/>
 	<!-- Google Classroom -->
@@ -1560,7 +1561,7 @@
 
 	<!-- Makro mCard -->
 	<item component="ComponentInfo{za.co.makro.mcard/com.example.mcard_flutter.MainActivity}" drawable="makro_mcard" />
-	
+
 	<!-- Libby -->
 	<item component="ComponentInfo{com.overdrive.mobile.android.libby/com.overdrive.mobile.android.nautilus.ui.Activity_Main}" drawable="libby" />
 
@@ -1662,6 +1663,168 @@
 
 	<!-- Octohide VPN -->
 	<item component="ComponentInfo{octohide.vpn/com.octohide.vpn.MainActivity}" drawable="octohide_vpn" />
+
+	<!-- QuickPic -->
+	<item component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}" drawable="quickpic" />
+
+	<!-- Stremio -->
+	<item component="ComponentInfo{com.stremio.one/com.stremio.MainActivity}" drawable="stremio" />
+
+	<!-- Passtable -->
+	<item component="ComponentInfo{com.ladsers.passtable.android/com.ladsers.passtable.android.activities.MainActivity}" drawable="passtable" />
+
+	<!-- Metrolist -->
+	<item component="ComponentInfo{com.metrolist.music/com.metrolist.music.MainActivity}" drawable="metrolist" />
+
+	<!-- Material Files -->
+	<item component="ComponentInfo{me.zhanghai.android.files/me.zhanghai.android.files.filelist.FileListActivity}" drawable="material_files" />
+
+	<!-- Openreads -->
+	<item component="ComponentInfo{software.mdev.bookstracker/software.mdev.bookstracker.MainActivity}" drawable="openreads" />
+
+	<!-- QuickNovel -->
+	<item component="ComponentInfo{com.lagradost.quicknovel/com.lagradost.quicknovel.MainActivity}" drawable="quicknovel" />
+
+	<!-- Ayoba -->
+	<item component="ComponentInfo{com.ayoba.ayoba/org.kontalk.ui.ayoba.splash.SplashActivity}" drawable="ayoba" />
+
+	<!-- Bing -->
+	<item component="ComponentInfo{com.microsoft.bingintl/com.microsoft.sapphire.app.main.SapphireMainActivity}" drawable="bing" />
+
+	<!-- Betway ZA -->
+	<item component="ComponentInfo{com.betway.sportsbetting/com.betwayafrica.za.ui.views.activities.SplashActivity}" drawable="betway_za" />
+
+	<!-- Absa Banking -->
+	<item component="ComponentInfo{com.barclays.absa.banking/com.barclays.absa.banking.v4.presentation.launch.SplashScreen2faActivity}" drawable="absa_banking" />
+
+	<!-- eVOD -->
+	<item component="ComponentInfo{com.brightcove.evod/com.brightcove.evod.MainActivity}" drawable="evod" />
+
+	<!-- GBox -->
+	<item component="ComponentInfo{com.gbox.android/com.gbox.android.SplashActivity}" drawable="gbox" />
+
+	<!-- Hollywoodbets -->
+	<item component="ComponentInfo{net.hollywoodbets.app/net.hollywoodbets.app.MainActivity}" drawable="hollywoodbets" />
+
+	<!-- Huawei Health -->
+	<item component="ComponentInfo{com.huawei.health/com.huawei.health.MainActivity}" drawable="huawei_health" />
+
+	<!-- Amazon Luna -->
+	<item component="ComponentInfo{com.amazon.spiderpork/com.amazon.spiderpork.activities.MainActivity}" drawable="amazon_luna" />
+
+	<!-- Amazon Photos -->
+	<item component="ComponentInfo{com.amazon.clouddrive.photos/com.amazon.photos.activity.LauncherActivity}" drawable="amazon_photos" />
+
+	<!-- CieID -->
+	<item component="ComponentInfo{it.ipzs.cieid/it.ipzs.cieid.splash.SplashActivity}" drawable="cieid" />
+
+	<!-- Flashscore -->
+	<item component="ComponentInfo{eu.livesport.FlashScore_com/eu.livesport.LiveSport_cz.config.core.DefaultLauncher}" drawable="flashscore " />
+
+	<!-- DualWallpaper -->
+	<item component="ComponentInfo{de.dlyt.yanndroid.dualwallpaper/de.dlyt.yanndroid.dualwallpaper.ui.activity.MainActivity}" drawable="dualwallpaper" />
+
+	<!-- Web Video Caster -->
+	<item component="ComponentInfo{com.instantbits.cast.webvideo/com.instantbits.cast.webvideo.SplashActivity}" drawable="web_video_caster" />
+
+	<!-- Zepp -->
+	<item component="ComponentInfo{com.huami.watch.hmwatchmanager/com.xiaomi.hm.health.activity.StartUpActivity}" drawable="zepp" />
+
+	<!-- Veezie.st -->
+	<item component="ComponentInfo{st.veezie/st.veezie.MainActivity}" drawable="veeziest" />
+
+	<!-- WINDTRE -->
+	<item component="ComponentInfo{it.wind.myWind/it.wind.windtre.SplashActivity}" drawable="windtre" />
+
+	<!-- isybank -->
+	<item component="ComponentInfo{com.intesasanpaolo.isybank.mobile/com.intesasanpaolo.isybank.mobile.presentation.MainActivity}" drawable="isybank" />
+
+	<!-- Nothing X -->
+	<item component="ComponentInfo{com.nothing.smartcenter/com.nothing.home.activity.WelcomeActivity}" drawable="nothing_x" />
+
+	<!-- Poste Italiane -->
+	<item component="ComponentInfo{com.posteitaliane.spim/it.posteitaliane.df_home.splash.SplashActivity}" drawable="poste_italiane" />
+
+	<!-- Prime Video -->
+	<item component="ComponentInfo{com.amazon.avod.thirdpartyclient/com.amazon.avod.thirdpartyclient.LauncherActivity}" drawable="prime_video" />
+
+	<!-- Satispay -->
+	<item component="ComponentInfo{com.satispay.customer/com.satispay.customer.home.SplashActivity}" drawable="satispay" />
+
+	<!-- Stocard -->
+	<item component="ComponentInfo{de.stocard.stocard/de.stocard.ui.main.InitActivity}" drawable="stocard" />
+
+	<!-- EZVIZ -->
+	<item component="ComponentInfo{com.ezviz/com.ezviz.main.LoadingActivity}" drawable="ezviz" />
+
+	<!-- Enel Energia -->
+	<item component="ComponentInfo{it.enel/com.example.it_full_digital.MainActivity}" drawable="enel_energia" />
+
+	<!-- Cx File Explorer -->
+	<item component="ComponentInfo{com.cxinventor.file.explorer/com.alphainventor.filemanager.activity.MainActivity}" drawable="cx_file_explorer" />
+
+	<!-- Good Lock -->
+	<item component="ComponentInfo{com.samsung.android.goodlock/com.samsung.android.goodlock.presentation.view.LaunchActivity}" drawable="good_lock" />
+
+	<!-- Activity Launcher -->
+	<item component="ComponentInfo{de.szalkowski.activitylauncher/de.szalkowski.activitylauncher.MainActivity}" drawable="activity_launcher" />
+
+	<!-- CPU-Z -->
+	<item component="ComponentInfo{com.cpuid.cpu_z/com.cpuid.cpu_z.MainActivity}" drawable="cpu_z" />
+
+	<!-- Lavien Lines Monet Icon Pack -->
+	<item component="ComponentInfo{osmanonurkoc.lavien.lines.monet/osmanonurkoc.lavien.lines.monet.activities.MainActivity}" drawable="lavien_lines_monet_icon_pack" />
+
+	<!-- KernelSU Next -->
+	<item component="ComponentInfo{com.rifsxd.ksunext/com.rifsxd.ksunext.ui.MainActivity}" drawable="kernelsu_next" />
+
+	<!-- FKM -->
+	<item component="ComponentInfo{com.franco.kernel/com.franco.kernel.activities.SplashActivity}" drawable="fkm" />
+
+	<!-- Weather -->
+	<item component="ComponentInfo{com.google.android.apps.weather/com.google.android.apps.weather.home.HomeActivity}" drawable="weather_3" />
+
+	<!-- Xiaomi Earbuds -->
+	<item component="ComponentInfo{com.mi.earphone/com.xiaomi.fitness.login.SplashActivity}" drawable="xiaomi_earbuds" />
+
+	<!-- Popcons -->
+	<item component="ComponentInfo{com.wil.popcons/com.wil.popcons.activities.MainActivity}" drawable="popcons" />
+
+	<!-- Anchor -->
+	<item component="ComponentInfo{com.greymass.anchor/com.greymass.anchor.MainActivity}" drawable="anchor" />
+
+	<!-- BMO -->
+	<item component="ComponentInfo{com.bmo.mobile/com.bmo.mobile.MainActivity}" drawable="bmo" />
+
+	<!-- Coinbase -->
+	<item component="ComponentInfo{com.coinbase.android/com.coinbase.retailnativeruntime.LaunchActivity}" drawable="coinbase" />
+
+	<!-- Crypto.com -->
+	<item component="ComponentInfo{co.mona.android/co.mona.android.splash.ui.SplashActivity}" drawable="cryptocom" />
+
+	<!-- Hiya -->
+	<item component="ComponentInfo{com.webascender.callerid/com.hiya.stingray.features.splash.presentation.SplashActivity}" drawable="hiya" />
+
+	<!-- Wise -->
+	<item component="ComponentInfo{com.transferwise.android/com.transferwise.android.activity.SplashActivity}" drawable="wise" />
+
+	<!-- Wallet -->
+	<item component="ComponentInfo{org.toshi/org.toshi.MainActivity}" drawable="coinbase_wallet" />
+
+	<!-- JLab -->
+	<item component="ComponentInfo{com.jlab.app/com.provista.jlab.SplashActivity}" drawable="jlab" />
+
+	<!-- xPortal -->
+	<item component="ComponentInfo{com.elrond.maiar.wallet/com.maiar2.MainActivity}" drawable="xportal" />
+
+	<!-- Wombat -->
+	<item component="ComponentInfo{io.getwombat.android/io.getwombat.android.features.RootActivity}" drawable="wombat" />
+
+	<!-- MetaMask -->
+	<item component="ComponentInfo{io.metamask/io.metamask.MainActivity}" drawable="metamask" />
+
+	<!-- KOHO -->
+	<item component="ComponentInfo{ca.koho/ca.koho.MainActivity}" drawable="koho" />
 
 
 	<!-- System | Default Apps -->

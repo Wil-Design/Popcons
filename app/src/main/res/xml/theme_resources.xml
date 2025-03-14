@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Theme version="1.6">
+<Theme version="1.7">
 	<!-- FOR LG HOME -->
 	<Label value="Popcons"/>
 	<Wallpaper image="lg_homescreen_wallpaper"/>
@@ -574,6 +574,7 @@
 	<AppIcon name="co.brainly/com.brainly.StartActivity" image="brainly"/>
 	<!-- CamScanner -->
 	<AppIcon name="com.intsig.camscanner/com.intsig.camscanner.launcher.WelcomeDefaultActivity" image="camscanner"/>
+	<AppIcon name="com.intsig.camscanner/com.intsig.camscanner.mainmenu.mainactivity.MainActivity" image="camscanner"/>
 	<!-- Canva -->
 	<AppIcon name="com.canva.editor/com.canva.app.editor.splash.SplashActivity" image="canva"/>
 	<!-- Google Classroom -->
@@ -1420,7 +1421,7 @@
 
 	<!-- Niagara Launcher -->
 	<AppIcon name="bitpit.launcher/bitpit.launcher.ui.HomeActivity" image="niagara_launcher"/>
-	
+
 	<!-- Buienradar -->
 	<AppIcon name="com.supportware.Buienradar/nl.rtl.buienradar.main.MainActivity" image="buienradar"/>
 
@@ -1550,8 +1551,170 @@
 	<!-- Octohide VPN -->
 	<AppIcon name="octohide.vpn/com.octohide.vpn.MainActivity" image="octohide_vpn"/>
 
-	
-<!-- System | Default Apps -->
+	<!-- QuickPic -->
+	<AppIcon name="com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity" image="quickpic"/>
+
+	<!-- Stremio -->
+	<AppIcon name="com.stremio.one/com.stremio.MainActivity" image="stremio"/>
+
+	<!-- Passtable -->
+	<AppIcon name="com.ladsers.passtable.android/com.ladsers.passtable.android.activities.MainActivity" image="passtable"/>
+
+	<!-- Metrolist -->
+	<AppIcon name="com.metrolist.music/com.metrolist.music.MainActivity" image="metrolist"/>
+
+	<!-- Material Files -->
+	<AppIcon name="me.zhanghai.android.files/me.zhanghai.android.files.filelist.FileListActivity" image="material_files"/>
+
+	<!-- Openreads -->
+	<AppIcon name="software.mdev.bookstracker/software.mdev.bookstracker.MainActivity" image="openreads"/>
+
+	<!-- QuickNovel -->
+	<AppIcon name="com.lagradost.quicknovel/com.lagradost.quicknovel.MainActivity" image="quicknovel"/>
+
+	<!-- Ayoba -->
+	<AppIcon name="com.ayoba.ayoba/org.kontalk.ui.ayoba.splash.SplashActivity" image="ayoba"/>
+
+	<!-- Bing -->
+	<AppIcon name="com.microsoft.bingintl/com.microsoft.sapphire.app.main.SapphireMainActivity" image="bing"/>
+
+	<!-- Betway ZA -->
+	<AppIcon name="com.betway.sportsbetting/com.betwayafrica.za.ui.views.activities.SplashActivity" image="betway_za"/>
+
+	<!-- Absa Banking -->
+	<AppIcon name="com.barclays.absa.banking/com.barclays.absa.banking.v4.presentation.launch.SplashScreen2faActivity" image="absa_banking"/>
+
+	<!-- eVOD -->
+	<AppIcon name="com.brightcove.evod/com.brightcove.evod.MainActivity" image="evod"/>
+
+	<!-- GBox -->
+	<AppIcon name="com.gbox.android/com.gbox.android.SplashActivity" image="gbox"/>
+
+	<!-- Hollywoodbets -->
+	<AppIcon name="net.hollywoodbets.app/net.hollywoodbets.app.MainActivity" image="hollywoodbets"/>
+
+	<!-- Huawei Health -->
+	<AppIcon name="com.huawei.health/com.huawei.health.MainActivity" image="huawei_health"/>
+
+	<!-- Amazon Luna -->
+	<AppIcon name="com.amazon.spiderpork/com.amazon.spiderpork.activities.MainActivity" image="amazon_luna"/>
+
+	<!-- Amazon Photos -->
+	<AppIcon name="com.amazon.clouddrive.photos/com.amazon.photos.activity.LauncherActivity" image="amazon_photos"/>
+
+	<!-- CieID -->
+	<AppIcon name="it.ipzs.cieid/it.ipzs.cieid.splash.SplashActivity" image="cieid"/>
+
+	<!-- Flashscore -->
+	<AppIcon name="eu.livesport.FlashScore_com/eu.livesport.LiveSport_cz.config.core.DefaultLauncher" image="flashscore"/>
+
+	<!-- DualWallpaper -->
+	<AppIcon name="de.dlyt.yanndroid.dualwallpaper/de.dlyt.yanndroid.dualwallpaper.ui.activity.MainActivity" image="dualwallpaper"/>
+
+	<!-- Web Video Caster -->
+	<AppIcon name="com.instantbits.cast.webvideo/com.instantbits.cast.webvideo.SplashActivity" image="web_video_caster"/>
+
+	<!-- Zepp -->
+	<AppIcon name="com.huami.watch.hmwatchmanager/com.xiaomi.hm.health.activity.StartUpActivity" image="zepp"/>
+
+	<!-- Veezie.st -->
+	<AppIcon name="st.veezie/st.veezie.MainActivity" image="veeziest"/>
+
+	<!-- WINDTRE -->
+	<AppIcon name="it.wind.myWind/it.wind.windtre.SplashActivity" image="windtre"/>
+
+	<!-- isybank -->
+	<AppIcon name="com.intesasanpaolo.isybank.mobile/com.intesasanpaolo.isybank.mobile.presentation.MainActivity" image="isybank"/>
+
+	<!-- Nothing X -->
+	<AppIcon name="com.nothing.smartcenter/com.nothing.home.activity.WelcomeActivity" image="nothing_x"/>
+
+	<!-- Poste Italiane -->
+	<AppIcon name="com.posteitaliane.spim/it.posteitaliane.df_home.splash.SplashActivity" image="poste_italiane"/>
+
+	<!-- Prime Video -->
+	<AppIcon name="com.amazon.avod.thirdpartyclient/com.amazon.avod.thirdpartyclient.LauncherActivity" image="prime_video"/>
+
+	<!-- Satispay -->
+	<AppIcon name="com.satispay.customer/com.satispay.customer.home.SplashActivity" image="satispay"/>
+
+	<!-- Stocard -->
+	<AppIcon name="de.stocard.stocard/de.stocard.ui.main.InitActivity" image="stocard"/>
+
+	<!-- EZVIZ -->
+	<AppIcon name="com.ezviz/com.ezviz.main.LoadingActivity" image="ezviz"/>
+
+	<!-- Enel Energia -->
+	<AppIcon name="it.enel/com.example.it_full_digital.MainActivity" image="enel_energia"/>
+
+	<!-- Cx File Explorer -->
+	<AppIcon name="com.cxinventor.file.explorer/com.alphainventor.filemanager.activity.MainActivity" image="cx_file_explorer"/>
+
+	<!-- Good Lock -->
+	<AppIcon name="com.samsung.android.goodlock/com.samsung.android.goodlock.presentation.view.LaunchActivity" image="good_lock"/>
+
+	<!-- Activity Launcher -->
+	<AppIcon name="de.szalkowski.activitylauncher/de.szalkowski.activitylauncher.MainActivity" image="activity_launcher"/>
+
+	<!-- CPU-Z -->
+	<AppIcon name="com.cpuid.cpu_z/com.cpuid.cpu_z.MainActivity" image="cpu_z"/>
+
+	<!-- Lavien Lines Monet Icon Pack -->
+	<AppIcon name="osmanonurkoc.lavien.lines.monet/osmanonurkoc.lavien.lines.monet.activities.MainActivity" image="lavien_lines_monet_icon_pack"/>
+
+	<!-- KernelSU Next -->
+	<AppIcon name="com.rifsxd.ksunext/com.rifsxd.ksunext.ui.MainActivity" image="kernelsu_next"/>
+
+	<!-- FKM -->
+	<AppIcon name="com.franco.kernel/com.franco.kernel.activities.SplashActivity" image="fkm"/>
+
+	<!-- Weather -->
+	<AppIcon name="com.google.android.apps.weather/com.google.android.apps.weather.home.HomeActivity" image="weather_3"/>
+
+	<!-- Xiaomi Earbuds -->
+	<AppIcon name="com.mi.earphone/com.xiaomi.fitness.login.SplashActivity" image="xiaomi_earbuds"/>
+
+	<!-- Popcons -->
+	<AppIcon name="com.wil.popcons/com.wil.popcons.activities.MainActivity" image="popcons"/>
+
+	<!-- Anchor -->
+	<AppIcon name="com.greymass.anchor/com.greymass.anchor.MainActivity" image="anchor"/>
+
+	<!-- BMO -->
+	<AppIcon name="com.bmo.mobile/com.bmo.mobile.MainActivity" image="bmo"/>
+
+	<!-- Coinbase -->
+	<AppIcon name="com.coinbase.android/com.coinbase.retailnativeruntime.LaunchActivity" image="coinbase"/>
+
+	<!-- Crypto.com -->
+	<AppIcon name="co.mona.android/co.mona.android.splash.ui.SplashActivity" image="cryptocom"/>
+
+	<!-- Hiya -->
+	<AppIcon name="com.webascender.callerid/com.hiya.stingray.features.splash.presentation.SplashActivity" image="hiya"/>
+
+	<!-- Wise -->
+	<AppIcon name="com.transferwise.android/com.transferwise.android.activity.SplashActivity" image="wise"/>
+
+	<!-- Wallet -->
+	<AppIcon name="org.toshi/org.toshi.MainActivity" image="coinbase_wallet"/>
+
+	<!-- JLab -->
+	<AppIcon name="com.jlab.app/com.provista.jlab.SplashActivity" image="jlab"/>
+
+	<!-- xPortal -->
+	<AppIcon name="com.elrond.maiar.wallet/com.maiar2.MainActivity" image="xportal"/>
+
+	<!-- Wombat -->
+	<AppIcon name="io.getwombat.android/io.getwombat.android.features.RootActivity" image="wombat"/>
+
+	<!-- MetaMask -->
+	<AppIcon name="io.metamask/io.metamask.MainActivity" image="metamask"/>
+
+	<!-- KOHO -->
+	<AppIcon name="ca.koho/ca.koho.MainActivity" image="koho"/>
+
+
+	<!-- System | Default Apps -->
 
 	<!-- Browser -->
 	<AppIcon name="org.lineageos.jelly/org.lineageos.jelly.MainActivity" image="browser"/>
