@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Theme version="1.7">
+<Theme version="1.8">
 	<!-- FOR LG HOME -->
 	<Label value="Popcons"/>
 	<Wallpaper image="lg_homescreen_wallpaper"/>
@@ -790,6 +790,7 @@
 
 	<!-- SHAREit -->
 	<AppIcon name="com.lenovo.anyshare.gps/com.lenovo.anyshare.ApMainActivity" image="shareit"/>
+	<AppIcon name="com.lenovo.anyshare.gps/com.lenovo.anyshare.ApMainActivityA" image="shareit"/>
 
 	<!-- SHAREit Lite -->
 	<AppIcon name="shareit.lite/com.lenovo.anyshare.ApMainActivity" image="shareit_lite"/>
@@ -1124,6 +1125,7 @@
 
 	<!-- Obtainium -->
 	<AppIcon name="dev.imranr.obtainium/dev.imranr.obtainium.MainActivity" image="obtainium"/>
+	<AppIcon name="dev.imranr.obtainium.fdroid/dev.imranr.obtainium.MainActivity" image="obtainium"/>
 
 	<!-- KDE Connect -->
 	<AppIcon name="org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MainActivity" image="kde_connect"/>
@@ -1421,7 +1423,7 @@
 
 	<!-- Niagara Launcher -->
 	<AppIcon name="bitpit.launcher/bitpit.launcher.ui.HomeActivity" image="niagara_launcher"/>
-
+	
 	<!-- Buienradar -->
 	<AppIcon name="com.supportware.Buienradar/nl.rtl.buienradar.main.MainActivity" image="buienradar"/>
 
@@ -1652,6 +1654,7 @@
 
 	<!-- Good Lock -->
 	<AppIcon name="com.samsung.android.goodlock/com.samsung.android.goodlock.presentation.view.LaunchActivity" image="good_lock"/>
+	<AppIcon name="com.samsung.android.goodlock/com.samsung.android.goodlock.MainActivity" image="good_lock"/>
 
 	<!-- Activity Launcher -->
 	<AppIcon name="de.szalkowski.activitylauncher/de.szalkowski.activitylauncher.MainActivity" image="activity_launcher"/>
@@ -1713,8 +1716,215 @@
 	<!-- KOHO -->
 	<AppIcon name="ca.koho/ca.koho.MainActivity" image="koho"/>
 
+	<!-- DITMM? -->
+	<AppIcon name="dev.corruptedark.diditakemymeds/dev.corruptedark.diditakemymeds.MainActivity" image="ditmm_"/>
 
-	<!-- System | Default Apps -->
+	<!-- MUBI -->
+	<AppIcon name="com.mubi/com.mubi.ui.MainActivity" image="mubi"/>
+
+	<!-- Nextcloud -->
+	<AppIcon name="com.nextcloud.client/com.nmc.android.ui.LauncherActivity" image="nextcloud"/>
+
+	<!-- Slowly -->
+	<AppIcon name="com.slowlyapp/com.slowlyapp.MainActivity" image="slowly"/>
+
+	<!-- Tumblr -->
+	<AppIcon name="com.tumblr/com.tumblr.ui.activity.JumpoffActivity" image="tumblr"/>
+
+	<!-- Stealth -->
+	<AppIcon name="com.cosmos.unreddit/com.cosmos.unreddit.MainActivity" image="stealth"/>
+
+	<!-- Shelter -->
+	<AppIcon name="net.typeblog.shelter/net.typeblog.shelter.ui.MainActivity" image="shelter"/>
+
+	<!-- Quillpad -->
+	<AppIcon name="io.github.quillpad/org.qosp.notes.ui.MainActivity" image="quillpad"/>
+
+	<!-- Scrinium -->
+	<AppIcon name="com.gmail.sekovchuk.scrinium/com.gmail.sekovchuk.scrinium.view.MainActivity" image="scrinium"/>
+
+	<!-- Twine -->
+	<AppIcon name="dev.sasikanth.rss.reader/dev.sasikanth.rss.reader.MainActivity" image="twine"/>
+
+	<!-- MotionMonkey -->
+	<AppIcon name="gg.omega.motionmonkey/gg.omega.WActivity" image="motionmonkey"/>
+
+	<!-- Klick'r -->
+	<AppIcon name="com.buzbuz.smartautoclicker/com.buzbuz.smartautoclicker.scenarios.ScenarioActivity" image="klickr"/>
+
+	<!-- Vault -->
+	<AppIcon name="com.arsvechkarev.vault/com.arsvechkarev.vault.MainActivity" image="vault"/>
+
+	<!-- xBrowserSync -->
+	<AppIcon name="com.xBrowserSync.android/com.xBrowserSync.android.MainActivity" image="xbrowsersync"/>
+
+	<!-- MiX -->
+	<AppIcon name="com.mixplorer/com.mixplorer.activities.BrowseActivity" image="mix"/>
+
+	<!-- Revolut -->
+	<AppIcon name="com.revolut.revolut/com.revolut.ui.login.pin.LoginActivity" image="revolut"/>
+
+	<!-- Samsung Shop -->
+	<AppIcon name="com.samsung.ecomm.global.gbr/com.samsung.ecomm.global.shop_app.MainActivity" image="samsung_shop"/>
+
+	<!-- Theme Park -->
+	<AppIcon name="com.samsung.android.themedesigner/com.samsung.android.themedesigner.ui.view.SplashComposeActivity" image="theme_park"/>
+
+	<!-- Theme Park -->
+	<AppIcon name="com.samsung.android.themedesigner/com.samsung.android.themedesigner.SplashActivity" image="theme_park"/>
+
+	<!-- Ace Stream -->
+	<AppIcon name="org.acestream.node/org.acestream.engine.ui.MainWebViewActivity" image="ace_stream"/>
+
+	<!-- MONOPOLY GO -->
+	<AppIcon name="com.scopely.monopolygo/com.scopely.unity.ScopelyUnityActivity" image="monopoly_go"/>
+
+	<!-- LiveScore -->
+	<AppIcon name="com.livescore/com.livescore.media.activity.MainActivity" image="livescore"/>
+
+	<!-- TuLotero -->
+	<AppIcon name="com.tulotero/com.tulotero.activities.SplashActivity" image="tulotero"/>
+
+	<!-- Spark -->
+	<AppIcon name="com.readdle.spark/com.readdle.spark.app.MainActivity" image="spark"/>
+
+	<!-- Alarma de Lluvia -->
+	<AppIcon name="de.mdiener.rain.usa/de.mdiener.rain.usa.MainMaps2" image="rain_alarm"/>
+
+	<!-- CaixaBankNow -->
+	<AppIcon name="es.lacaixa.mobile.android.newwapicon/es.lacaixa.mobile.appcbk.features.splash.view.SplashActivity" image="caixabanknow"/>
+
+	<!-- Modos y rutinas -->
+	<AppIcon name="com.samsung.android.app.routines/com.samsung.android.app.routines.ui.main.RoutineLaunchActivityDummy" image="modes_and_routines"/>
+
+	<!-- Standard/Stanbic Bank -->
+	<AppIcon name="com.sbg.mobile.phone/com.sbg.mobile.phone.login.LoginWelcomeActivity" image="standard_stanbic_bank"/>
+
+	<!-- Memento Database -->
+	<AppIcon name="com.luckydroid.droidbase/com.luckydroid.droidbase.DroidBaseActivity2" image="memento_database"/>
+
+	<!-- LifeUp Pro -->
+	<AppIcon name="net.sarasarasa.lifeup/net.sarasarasa.lifeup.ui.simple.SplashActivity" image="lifeup_pro"/>
+
+	<!-- Diarium -->
+	<AppIcon name="partl.Diarium/crc64379322c6af5bbbbe.MainActivity" image="diarium"/>
+
+	<!-- Cryptomator -->
+	<AppIcon name="org.cryptomator/org.cryptomator.presentation.ui.activity.VaultListActivity" image="cryptomator"/>
+
+	<!-- Instapaper -->
+	<AppIcon name="com.instapaper.android/com.instapaper.android.MainActivity" image="instapaper"/>
+
+	<!-- Neo Store -->
+	<AppIcon name="com.machiav3lli.fdroid/com.machiav3lli.fdroid.NeoActivity" image="neo_store"/>
+
+	<!-- Grayjay -->
+	<AppIcon name="com.futo.platformplayer/com.futo.platformplayer.activities.MainActivity" image="grayjay"/>
+
+	<!-- Kvaesitso -->
+	<AppIcon name="de.mm20.launcher2.release/de.mm20.launcher2.ui.launcher.LauncherActivity" image="kvaesitso"/>
+
+	<!-- Cash Giraffe -->
+	<AppIcon name="cashgiraffe.app/de.mcoins.applike.MainActivity" image="cash_giraffe"/>
+
+	<!-- Catch Yoo -->
+	<AppIcon name="com.otterpaw.game_platform_client/com.otterpaw.game_platform_client.MainActivity" image="catch_yoo"/>
+
+	<!-- Audible for Samsung -->
+	<AppIcon name="com.audible.application/com.audible.application.MainLauncher" image="audible"/>
+
+	<!-- Webex -->
+	<AppIcon name="com.cisco.wx2.android/com.webex.teams.WebexLauncherActivity" image="webex"/>
+
+	<!-- Yahoo Mail -->
+	<AppIcon name="com.yahoo.mobile.client.android.mail/com.yahoo.mobile.client.android.mail.activity.MainActivity" image="yahoo_mail"/>
+
+	<!-- Yahoo News -->
+	<AppIcon name="com.yahoo.mobile.client.android.yahoo/com.yahoo.doubleplay.stream.presentation.view.activity.MainNavigationActivity" image="yahoo_news"/>
+
+	<!-- Yelp -->
+	<AppIcon name="com.yelp.android/com.yelp.android.home.ui.RootSingleActivity" image="yelp"/>
+
+	<!-- APKMirror Installer (beta) -->
+	<AppIcon name="com.apkmirror.helper.prod/com.apkmirror.presentation.start.StartActivity" image="apkmirror_installer"/>
+
+	<!-- Opera GX -->
+	<AppIcon name="com.opera.gx/com.opera.gx.MainActivity" image="opera_gx"/>
+
+	<!-- Daily Yoga -->
+	<AppIcon name="com.dailyyoga.inc/com.dailyyoga.inc.LoadingActivity" image="daily_yoga"/>
+
+	<!-- GSMArena -->
+	<AppIcon name="com.gsmarena.android/com.gsmarena.android.activity.SplashActivity" image="gsmarena"/>
+
+	<!-- BofA -->
+	<AppIcon name="com.infonow.bofa/com.bofa.ecom.marvel.application.Flagscape" image="bofa"/>
+
+	<!-- Lyft -->
+	<AppIcon name="me.lyft.android/me.lyft.android.ui.MainActivity" image="lyft"/>
+
+	<!-- My Verizon -->
+	<AppIcon name="com.vzw.hss.myverizon/com.vzw.hss.myverizon.ui.activities.LauncherActivity" image="my_verizon"/>
+
+	<!-- Call Filter -->
+	<AppIcon name="com.vzw.ecid/com.cequint.callfilter.MainActivity" image="call_filter"/>
+
+	<!-- Cloud -->
+	<AppIcon name="com.vcast.mediamanager/com.vcast.mediamanager.gui.activities.SplashLogoActivity" image="verizon_cloud"/>
+
+	<!-- DeviantArt -->
+	<AppIcon name="com.deviantart.android.damobile/com.deviantart.android.damobile.activity.HomeActivity" image="deviantart"/>
+
+	<!-- DIRECTV -->
+	<AppIcon name="com.directv.dvrscheduler/com.directv.dvrscheduler.activity.core.Setup" image="directv"/>
+
+	<!-- eBay -->
+	<AppIcon name="com.ebay.mobile/com.ebay.mobile.home.impl.main.MainActivity" image="ebay"/>
+
+	<!-- Progressive -->
+	<AppIcon name="com.phonevalley.progressive/com.phonevalley.progressive.common.activities.SplashActivity" image="progressive"/>
+
+	<!-- Quora -->
+	<AppIcon name="com.quora.android/com.quora.android.components.activities.LauncherActivity" image="quora"/>
+
+	<!-- The Weather Channel -->
+	<AppIcon name="com.weather.Weather/com.weather.corgikit.view.CorgiActivity" image="the_weather_channel"/>
+
+	<!-- GoToWebinar -->
+	<AppIcon name="com.logmein.gotowebinar/com.logmein.gotowebinar.ui.activity.SplashActivity" image="gotowebinar"/>
+
+	<!-- iHeartRadio -->
+	<AppIcon name="com.clearchannel.iheartradio.controller/com.iheart.activities.NavDrawerActivity" image="iheartradio"/>
+
+	<!-- Life360 -->
+	<AppIcon name="com.life360.android.safetymapd/com.life360.koko.root.RootActivity" image="life360"/>
+
+	<!-- TeamViewer -->
+	<AppIcon name="com.teamviewer.teamviewer.market.mobile/com.teamviewer.remotecontrollib.activity.MainActivity" image="teamviewer"/>
+
+	<!-- Host -->
+	<AppIcon name="com.teamviewer.host.market/com.teamviewer.host.ui.HostActivity" image="teamviewer_host"/>
+
+	<!-- PENUP -->
+	<AppIcon name="com.sec.penup/com.sec.penup.ui.SplashActivity" image="penup"/>
+
+	<!-- Pluto TV -->
+	<AppIcon name="tv.pluto.android/tv.pluto.android.EntryPoint" image="pluto_tv"/>
+
+	<!-- SHEIN -->
+	<AppIcon name="com.zzkko/com.shein.welcome.WelcomeActivity" image="shein"/>
+
+	<!-- Tango -->
+	<AppIcon name="com.sgiggle.production/com.sgiggle.app.main_screen.MainScreenActivity" image="tango"/>
+
+	<!-- RD Client -->
+	<AppIcon name="com.microsoft.rdc.androidx/com.microsoft.rdc.ui.activities.HomeActivity" image="rd_client"/>
+
+	<!-- SmartNews -->
+	<AppIcon name="jp.gocro.smartnews.android/jp.gocro.smartnews.android.activity.SmartNewsActivity" image="smartnews"/>
+
+	
+<!-- System | Default Apps -->
 
 	<!-- Browser -->
 	<AppIcon name="org.lineageos.jelly/org.lineageos.jelly.MainActivity" image="browser"/>
