@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Theme version="1.8">
+<Theme version="1.9">
 	<!-- FOR LG HOME -->
 	<Label value="Popcons"/>
 	<Wallpaper image="lg_homescreen_wallpaper"/>
@@ -264,7 +264,7 @@
 	<!-- Twitch -->
 	<AppIcon name="tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity" image="twitch"/>
 	<!-- Twitter -->
-	<AppIcon name="com.twitter.android/com.twitter.android.StartActivity" image="twitter"/>
+	<AppIcon name="com.twitter.android/com.twitter.android.StartActivity" image="x"/>
 	<!-- Uber -->
 	<AppIcon name="com.ubercab/com.ubercab.presidio.app.core.root.RootActivity" image="uber"/>
 	<!-- Unit Lab -->
@@ -1922,6 +1922,144 @@
 
 	<!-- SmartNews -->
 	<AppIcon name="jp.gocro.smartnews.android/jp.gocro.smartnews.android.activity.SmartNewsActivity" image="smartnews"/>
+
+	<!-- Remote Desktop -->
+	<AppIcon name="com.google.chromeremotedesktop/com.google.remoting.androidwrapper.MainActivity" image="remote_desktop"/>
+
+	<!-- Glide -->
+	<AppIcon name="com.glidetalk.glideapp/com.glidetalk.glideapp.LandingPageActivity" image="glide"/>
+
+	<!-- News Break -->
+	<AppIcon name="com.particlenews.newsbreak/com.hipu.yidian.ui.guide.UserGuideActivity" image="news_break"/>
+
+	<!-- 2go -->
+	<AppIcon name="im.twogo.godroid/im.twogo.godroid.activities.TwogoMain" image="_2go"/>
+
+	<!-- Angry Birds -->
+	<AppIcon name="com.rovio.abclassic22/com.unity3d.player.UnityPlayerActivity" image="angry_birds"/>
+
+	<!-- AniHyou -->
+	<AppIcon name="com.axiel7.anihyou/com.axiel7.anihyou.ui.screens.main.MainActivity" image="anihyou"/>
+
+	<!-- TikTok Lite -->
+	<AppIcon name="com.zhiliaoapp.musically.go/com.ss.android.ugc.aweme.main.homepage.MainActivity" image="tiktok_lite"/>
+
+	<!-- Reigns -->
+	<AppIcon name="com.devolver.reigns/com.unity3d.player.UnityPlayerActivity" image="reigns"/>
+
+	<!-- My Files -->
+	<AppIcon name="com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity" image="my_files"/>
+
+	<!-- Gallery -->
+	<AppIcon name="com.sec.android.gallery3d/com.sec.android.gallery3d.app.GalleryOpaqueActivity" image="gallery_5"/>
+
+	<!-- Play Console -->
+	<AppIcon name="com.google.android.apps.playconsole/com.google.android.apps.play.console.mobile.MainActivity" image="play_console"/>
+
+	<!-- Musify -->
+	<AppIcon name="com.gokadzev.musify/com.ryanheise.audioservice.AudioServiceActivity" image="musify"/>
+
+	<!-- FFUpdater -->
+	<AppIcon name="de.marmaro.krt.ffupdater/de.marmaro.krt.ffupdater.activity.main.MainActivity" image="ffupdater"/>
+
+	<!-- HERE WeGo -->
+	<AppIcon name="com.here.app.maps/com.here.app.wego.MainActivity" image="here_wego"/>
+
+	<!-- Fulguris -->
+	<AppIcon name="net.slions.fulguris.full.fdroid/fulguris.activity.SplashActivity" image="fulguris"/>
+
+	<!-- OSS Document Scanner -->
+	<AppIcon name="com.akylas.documentscanner/com.akylas.documentscanner.MainActivity" image="oss_document_scanner"/>
+
+	<!-- Threes -->
+	<AppIcon name="vo.threes.exclaim/com.unity3d.player.UnityPlayerActivity" image="threes"/>
+
+	<!-- Blokada 5 -->
+	<AppIcon name="org.blokada.origin.alarm/ui.MainActivity" image="blokada_5"/>
+
+	<!-- Anghami -->
+	<AppIcon name="com.anghami/com.anghami.activities.SplashActivity_" image="anghami"/>
+
+	<!-- Tarteel -->
+	<AppIcon name="com.mmmoussa.iqra/com.mmmoussa.iqra.MainActivity" image="tarteel"/>
+
+	<!-- ADIB Mobile -->
+	<AppIcon name="com.adib.mobile/com.adib.mobile.ui2.splash.SplashScreen" image="adib_mobile"/>
+
+	<!-- aShell You -->
+	<AppIcon name="in.hridayan.ashell/in.hridayan.ashell.activities.MainActivity" image="ashell_you"/>
+
+	<!-- Broccoli -->
+	<AppIcon name="com.flauschcode.broccoli/com.flauschcode.broccoli.MainActivity" image="broccoli"/>
+
+	<!-- Ivy Wallet -->
+	<AppIcon name="com.ivy.wallet/com.ivy.wallet.RootActivity" image="ivy_wallet"/>
+
+	<!-- p!n -->
+	<AppIcon name="de.nproth.pin/de.nproth.pin.NoteActivity" image="p_n"/>
+
+	<!-- Shizuku -->
+	<AppIcon name="moe.shizuku.privileged.api/moe.shizuku.manager.MainActivity" image="shizuku"/>
+
+	<!-- URLCheck -->
+	<AppIcon name="com.trianguloy.urlchecker/com.trianguloy.urlchecker.activities.MainActivity" image="urlcheck"/>
+
+	<!-- YTDLnis -->
+	<AppIcon name="com.deniscerri.ytdl/com.deniscerri.ytdl.Default" image="ytdlnis"/>
+
+	<!-- Undo Notification -->
+	<AppIcon name="in.codeseed.undonotification.pro/in.codeseed.undonotification.home.SettingsActivity" image="undo_notification"/>
+
+	<!-- Subhub -->
+	<AppIcon name="com.crazylegend.subhub/com.crazylegend.subhub.MainActivity" image="subhub"/>
+
+	<!-- Max VPN -->
+	<AppIcon name="com.opera.max.oem/com.opera.max.ui.v2.MainActivity" image="max_vpn"/>
+
+	<!-- Lite Writer -->
+	<AppIcon name="core.writer/core.writer.activity.main.MainActivity" image="lite_writer"/>
+
+	<!-- Snapp -->
+	<AppIcon name="cab.snapp.passenger/cab.snapp.passenger.app_starter.LauncherActivity" image="snapp"/>
+
+	<!-- blu -->
+	<AppIcon name="com.samanpr.blu/com.samanpr.blu.BLUE" image="blu"/>
+
+	<!-- Samsung Wallet -->
+	<AppIcon name="com.samsung.android.spaymini/com.samsung.android.spay.ui.SpayMainActivity" image="samsung_wallet"/>
+
+	<!-- v2rayNG -->
+	<AppIcon name="com.v2ray.ang/com.v2ray.ang.ui.MainActivity" image="v2rayng"/>
+
+	<!-- Remixlive -->
+	<AppIcon name="com.mixvibes.remixlive/com.mixvibes.remixlive.app.RemixliveSplashScreenActivity" image="remixlive"/>
+
+	<!-- PhotoScan -->
+	<AppIcon name="com.google.android.apps.photos.scanner/com.google.android.apps.photos.scanner.home.HomeActivity" image="photoscan"/>
+
+	<!-- ZIGAP -->
+	<AppIcon name="com.smilinno.zigap/com.smilinno.zigap.ui.splash.SplashActivity" image="zigap"/>
+
+	<!-- Rubika -->
+	<AppIcon name="app.rbmain.a/org.rbmain.ui.LaunchActivity" image="rubika"/>
+
+	<!-- Sheypoor -->
+	<AppIcon name="com.sheypoor.mobile/com.sheypoor.mobile.MainActivity" image="sheypoor"/>
+
+	<!-- AccuWeather -->
+	<AppIcon name="com.accuweather.android/com.accuweather.android.splashscreen.SplashActivity" image="accuweather"/>
+
+	<!-- ActivityTracker -->
+	<AppIcon name="com.bitscoffee.ActivityTracker/com.bitscoffee.ActivityTracker.Interface.ActivityNavigation" image="activitytracker"/>
+
+	<!-- Abstracto -->
+	<AppIcon name="com.lagguy.abstracto/com.amaan.app.features.MainActivity" image="abstracto"/>
+
+	<!-- AVG AntiVirus -->
+	<AppIcon name="com.antivirus/com.avast.android.one.base.ui.main.MainActivity" image="avg_antivirus"/>
+
+	<!-- CMF Watch -->
+	<AppIcon name="com.nothing.cmf.watch/com.watchmanager.MainActivity" image="cmf_watch"/>
 
 	
 <!-- System | Default Apps -->

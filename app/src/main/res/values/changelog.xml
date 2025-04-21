@@ -2,7 +2,7 @@
 <resources>
 
     <!-- Leave empty if you don't want to show changelog date -->
-    <string name="changelog_date">24 March 2025</string>
+    <string name="changelog_date">19 April 2025</string>
 
     <!-- Changelog support html formatting
     * <b> for Bold
@@ -10,7 +10,7 @@
     * <u> for Underline
     * <a href="linkUrl">Link Text</a> for links -->
     <string-array name="changelog">
-        <item>Added 71 icons</item>
+        <item>47 new and updated icons.</item>
         <item>Fixed some icons.</item>
         <item>
             <![CDATA[
@@ -20,6 +20,11 @@
         <item>
             <![CDATA[
             Or on <a href="https://bsky.app/profile/wildesign.bsky.social">Bluesky</a>!
+            ]]>
+        </item>           
+        <item>
+            <![CDATA[
+            Join the <a href="https://discord.gg/372w5Dr8xh">Discord!</a> for updates and behind the scenes stuff!
             ]]>
         </item>        
         <item>

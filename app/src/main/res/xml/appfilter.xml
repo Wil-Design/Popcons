@@ -248,7 +248,7 @@
 	<!-- Twitch -->
 	<item component="ComponentInfo{tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity}" drawable="twitch"/>
 	<!-- Twitter -->
-	<item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="twitter"/>
+	<item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="x"/>
 	<!-- Uber -->
 	<item component="ComponentInfo{com.ubercab/com.ubercab.presidio.app.core.root.RootActivity}" drawable="uber"/>
 	<!-- Unit Lab -->
@@ -791,6 +791,7 @@
 	<item component="ComponentInfo{com.freelancer.android.messenger/com.freelancer.main.MainActivity}" drawable="freelancer"/>
 	<!-- Play Console -->
 	<item component="ComponentInfo{com.google.android.apps.playconsole/com.google.android.apps.playconsole.activity.MainAndroidActivity}" drawable="play_console"/>
+	<item component="ComponentInfo{com.google.android.apps.playconsole/com.google.android.apps.play.console.mobile.MainActivity}" drawable="play_console" />
 	<!-- DiskUsage -->
 	<item component="ComponentInfo{com.google.android.diskusage/com.google.android.diskusage.SelectActivity}" drawable="diskusage"/>
 	<!-- Action Launcher -->
@@ -2036,6 +2037,141 @@
 
 	<!-- SmartNews -->
 	<item component="ComponentInfo{jp.gocro.smartnews.android/jp.gocro.smartnews.android.activity.SmartNewsActivity}" drawable="smartnews" />
+
+	<!-- Remote Desktop -->
+	<item component="ComponentInfo{com.google.chromeremotedesktop/com.google.remoting.androidwrapper.MainActivity}" drawable="remote_desktop" />
+
+	<!-- Glide -->
+	<item component="ComponentInfo{com.glidetalk.glideapp/com.glidetalk.glideapp.LandingPageActivity}" drawable="glide" />
+
+	<!-- News Break -->
+	<item component="ComponentInfo{com.particlenews.newsbreak/com.hipu.yidian.ui.guide.UserGuideActivity}" drawable="news_break" />
+
+	<!-- 2go -->
+	<item component="ComponentInfo{im.twogo.godroid/im.twogo.godroid.activities.TwogoMain}" drawable="_2go" />
+
+	<!-- Angry Birds -->
+	<item component="ComponentInfo{com.rovio.abclassic22/com.unity3d.player.UnityPlayerActivity}" drawable="angry_birds" />
+
+	<!-- AniHyou -->
+	<item component="ComponentInfo{com.axiel7.anihyou/com.axiel7.anihyou.ui.screens.main.MainActivity}" drawable="anihyou" />
+
+	<!-- TikTok Lite -->
+	<item component="ComponentInfo{com.zhiliaoapp.musically.go/com.ss.android.ugc.aweme.main.homepage.MainActivity}" drawable="tiktok_lite" />
+
+	<!-- Reigns -->
+	<item component="ComponentInfo{com.devolver.reigns/com.unity3d.player.UnityPlayerActivity}" drawable="reigns" />
+
+	<!-- My Files -->
+	<item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity}" drawable="my_files" />
+
+	<!-- Gallery -->
+	<item component="ComponentInfo{com.sec.android.gallery3d/com.sec.android.gallery3d.app.GalleryOpaqueActivity}" drawable="gallery_5" />
+
+	<!-- Musify -->
+	<item component="ComponentInfo{com.gokadzev.musify/com.ryanheise.audioservice.AudioServiceActivity}" drawable="musify" />
+
+	<!-- FFUpdater -->
+	<item component="ComponentInfo{de.marmaro.krt.ffupdater/de.marmaro.krt.ffupdater.activity.main.MainActivity}" drawable="ffupdater" />
+
+	<!-- HERE WeGo -->
+	<item component="ComponentInfo{com.here.app.maps/com.here.app.wego.MainActivity}" drawable="here_wego" />
+
+	<!-- Fulguris -->
+	<item component="ComponentInfo{net.slions.fulguris.full.fdroid/fulguris.activity.SplashActivity}" drawable="fulguris" />
+
+	<!-- OSS Document Scanner -->
+	<item component="ComponentInfo{com.akylas.documentscanner/com.akylas.documentscanner.MainActivity}" drawable="oss_document_scanner" />
+
+	<!-- Threes -->
+	<item component="ComponentInfo{vo.threes.exclaim/com.unity3d.player.UnityPlayerActivity}" drawable="threes" />
+
+	<!-- Blokada 5 -->
+	<item component="ComponentInfo{org.blokada.origin.alarm/ui.MainActivity}" drawable="blokada_5" />
+
+	<!-- Anghami -->
+	<item component="ComponentInfo{com.anghami/com.anghami.activities.SplashActivity_}" drawable="anghami" />
+
+	<!-- Tarteel -->
+	<item component="ComponentInfo{com.mmmoussa.iqra/com.mmmoussa.iqra.MainActivity}" drawable="tarteel" />
+
+	<!-- ADIB Mobile -->
+	<item component="ComponentInfo{com.adib.mobile/com.adib.mobile.ui2.splash.SplashScreen}" drawable="adib_mobile" />
+
+	<!-- aShell You -->
+	<item component="ComponentInfo{in.hridayan.ashell/in.hridayan.ashell.activities.MainActivity}" drawable="ashell_you" />
+
+	<!-- Broccoli -->
+	<item component="ComponentInfo{com.flauschcode.broccoli/com.flauschcode.broccoli.MainActivity}" drawable="broccoli" />
+
+	<!-- Ivy Wallet -->
+	<item component="ComponentInfo{com.ivy.wallet/com.ivy.wallet.RootActivity}" drawable="ivy_wallet" />
+
+	<!-- p!n -->
+	<item component="ComponentInfo{de.nproth.pin/de.nproth.pin.NoteActivity}" drawable="p_n" />
+
+	<!-- Shizuku -->
+	<item component="ComponentInfo{moe.shizuku.privileged.api/moe.shizuku.manager.MainActivity}" drawable="shizuku" />
+
+	<!-- URLCheck -->
+	<item component="ComponentInfo{com.trianguloy.urlchecker/com.trianguloy.urlchecker.activities.MainActivity}" drawable="urlcheck" />
+
+	<!-- YTDLnis -->
+	<item component="ComponentInfo{com.deniscerri.ytdl/com.deniscerri.ytdl.Default}" drawable="ytdlnis" />
+
+	<!-- Undo Notification -->
+	<item component="ComponentInfo{in.codeseed.undonotification.pro/in.codeseed.undonotification.home.SettingsActivity}" drawable="undo_notification" />
+
+	<!-- Subhub -->
+	<item component="ComponentInfo{com.crazylegend.subhub/com.crazylegend.subhub.MainActivity}" drawable="subhub" />
+
+	<!-- Max VPN -->
+	<item component="ComponentInfo{com.opera.max.oem/com.opera.max.ui.v2.MainActivity}" drawable="max_vpn" />
+
+	<!-- Lite Writer -->
+	<item component="ComponentInfo{core.writer/core.writer.activity.main.MainActivity}" drawable="lite_writer" />
+
+	<!-- Snapp -->
+	<item component="ComponentInfo{cab.snapp.passenger/cab.snapp.passenger.app_starter.LauncherActivity}" drawable="snapp" />
+
+	<!-- blu -->
+	<item component="ComponentInfo{com.samanpr.blu/com.samanpr.blu.BLUE}" drawable="blu" />
+
+	<!-- Samsung Wallet -->
+	<item component="ComponentInfo{com.samsung.android.spaymini/com.samsung.android.spay.ui.SpayMainActivity}" drawable="samsung_wallet" />
+
+	<!-- v2rayNG -->
+	<item component="ComponentInfo{com.v2ray.ang/com.v2ray.ang.ui.MainActivity}" drawable="v2rayng" />
+
+	<!-- Remixlive -->
+	<item component="ComponentInfo{com.mixvibes.remixlive/com.mixvibes.remixlive.app.RemixliveSplashScreenActivity}" drawable="remixlive" />
+
+	<!-- PhotoScan -->
+	<item component="ComponentInfo{com.google.android.apps.photos.scanner/com.google.android.apps.photos.scanner.home.HomeActivity}" drawable="photoscan" />
+
+	<!-- ZIGAP -->
+	<item component="ComponentInfo{com.smilinno.zigap/com.smilinno.zigap.ui.splash.SplashActivity}" drawable="zigap" />
+
+	<!-- Rubika -->
+	<item component="ComponentInfo{app.rbmain.a/org.rbmain.ui.LaunchActivity}" drawable="rubika" />
+
+	<!-- Sheypoor -->
+	<item component="ComponentInfo{com.sheypoor.mobile/com.sheypoor.mobile.MainActivity}" drawable="sheypoor" />
+
+	<!-- AccuWeather -->
+	<item component="ComponentInfo{com.accuweather.android/com.accuweather.android.splashscreen.SplashActivity}" drawable="accuweather" />
+
+	<!-- ActivityTracker -->
+	<item component="ComponentInfo{com.bitscoffee.ActivityTracker/com.bitscoffee.ActivityTracker.Interface.ActivityNavigation}" drawable="activitytracker" />
+
+	<!-- Abstracto -->
+	<item component="ComponentInfo{com.lagguy.abstracto/com.amaan.app.features.MainActivity}" drawable="abstracto" />
+
+	<!-- AVG AntiVirus -->
+	<item component="ComponentInfo{com.antivirus/com.avast.android.one.base.ui.main.MainActivity}" drawable="avg_antivirus" />
+
+	<!-- CMF Watch -->
+	<item component="ComponentInfo{com.nothing.cmf.watch/com.watchmanager.MainActivity}" drawable="cmf_watch" />
 
 
 	<!-- System | Default Apps -->
