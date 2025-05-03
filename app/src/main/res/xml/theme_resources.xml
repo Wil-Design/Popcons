@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Theme version="1.9">
+<Theme version="1.10">
 	<!-- FOR LG HOME -->
 	<Label value="Popcons"/>
 	<Wallpaper image="lg_homescreen_wallpaper"/>
@@ -170,8 +170,8 @@
 	<AppIcon name="net.gsantner.markor/net.gsantner.markor.activity.MainActivity" image="markor"/>
 	<!-- MEGA -->
 	<AppIcon name="mega.privacy.android.app/mega.privacy.android.app.lollipop.ManagerActivityLollipop" image="mega"/>
-	<!-- MEGA -->
 	<AppIcon name="mega.privacy.android.app/mega.privacy.android.app.main.ManagerActivity" image="mega"/>
+	<AppIcon name="mega.privacy.android.app/mega.privacy.android.app.presentation.login.LoginActivity" image="mega"/>
 	<!-- Messages -->
 	<AppIcon name="com.samsung.android.messaging/com.android.mms.ui.ConversationComposer" image="messages"/>
 	<!-- Microsoft SwiftKey Keyboard -->
@@ -627,6 +627,7 @@
 	<AppIcon name="com.obsmobile/com.obsmobile.SplashActivity" image="akbim_obs"/>
 	<!-- Google Authenticator -->
 	<AppIcon name="com.google.android.apps.authenticator2/com.google.android.apps.authenticator.AuthenticatorActivity" image="google_authenticator"/>
+	<AppIcon name="com.google.android.apps.authenticator2/com.google.android.apps.authenticator2.main.MainActivity" image="google_authenticator"/>
 	<!-- AnyDesk -->
 	<AppIcon name="com.anydesk.anydeskandroid/com.anydesk.anydeskandroid.gui.activity.MainActivity" image="anydesk"/>
 	<!-- Last.fm -->
@@ -1116,6 +1117,9 @@
 
 	<!-- Delta -->
 	<AppIcon name="website.leifs.delta/website.leifs.delta.activities.MainActivity" image="delta_icon_pack"/>
+
+	<!-- Delta -->
+	<AppIcon name="website.leifs.delta.foss/website.leifs.delta.activities.MainActivity" image="delta_icon_pack"/>
 
 	<!-- Iceraven -->
 	<AppIcon name="io.github.forkmaintainers.iceraven/io.github.forkmaintainers.iceraven.App" image="iceraven"/>
@@ -1630,6 +1634,7 @@
 
 	<!-- Nothing X -->
 	<AppIcon name="com.nothing.smartcenter/com.nothing.home.activity.WelcomeActivity" image="nothing_x"/>
+	<AppIcon name="com.nothing.smartcenter/com.nothing.smartcenter.host.MainActivity" image="nothing_x"/>
 
 	<!-- Poste Italiane -->
 	<AppIcon name="com.posteitaliane.spim/it.posteitaliane.df_home.splash.SplashActivity" image="poste_italiane"/>
@@ -2061,7 +2066,118 @@
 	<!-- CMF Watch -->
 	<AppIcon name="com.nothing.cmf.watch/com.watchmanager.MainActivity" image="cmf_watch"/>
 
-	
+	<!-- GlassWire -->
+	<AppIcon name="com.glasswire.android/com.glasswire.android.presentation.activities.start.StartActivity" image="glasswire"/>
+
+	<!-- Another Widget -->
+	<AppIcon name="com.tommasoberlose.anotherwidget/com.tommasoberlose.anotherwidget.ui.activities.MainActivity" image="another_widget"/>
+
+	<!-- Blue Line Console -->
+	<AppIcon name="net.nhiroki.bluelineconsole/net.nhiroki.bluelineconsole.applicationMain.MainActivity" image="blue_line_console"/>
+
+	<!-- Chat -->
+	<AppIcon name="com.google.android.apps.dynamite/com.google.android.apps.dynamite.startup.StartUpActivity" image="google_chat"/>
+
+	<!-- Circo -->
+	<AppIcon name="com.mookie.circo/com.mookie.circo.MainActivity" image="circo"/>
+
+	<!-- cuscon -->
+	<AppIcon name="com.froxot.cuscon.foss/com.froxot.cuscon.activities.MainActivity" image="cuscon"/>
+
+	<!-- Dollphone -->
+	<AppIcon name="me.x2gd4.dollphone/me.x2gd4.dollphone.activities.MainActivity" image="dollphone"/>
+
+	<!-- Volume Styles -->
+	<AppIcon name="com.tombayley.volumepanel/com.tombayley.volumepanel.app.ui.home.MainActivity" image="volume_styles"/>
+
+	<!-- soundcore -->
+	<AppIcon name="com.oceanwing.soundcore/com.oceanwing.soundcore.activity.WelcomeActivity" image="soundcore"/>
+
+	<!-- Spheroid -->
+	<AppIcon name="com.indigomadina.spheroid/com.indigomadina.spheroid.activities.MainActivity" image="spheroid"/>
+
+	<!-- Themes -->
+	<AppIcon name="com.heytap.themestore/com.nearme.themespace.activities.ThemeActivity" image="heytap_themes"/>
+
+	<!-- SD Maid SE -->
+	<AppIcon name="eu.darken.sdmse/eu.darken.sdmse.main.ui.MainActivity" image="sd_maid_se"/>
+
+	<!-- Anytype -->
+	<AppIcon name="io.anytype.app/com.anytypeio.anytype.ui.main.MainActivity" image="anytype"/>
+
+	<!-- DAVx⁵ -->
+	<AppIcon name="at.bitfire.davdroid/at.bitfire.davdroid.ui.AccountsActivity" image="davx"/>
+
+	<!-- Syncara -->
+	<AppIcon name="syncara.app/syncara.app.MainActivity" image="syncara"/>
+
+	<!-- 1.1.1.1 -->
+	<AppIcon name="com.cloudflare.onedotonedotonedotone/com.cloudflare.app.presentation.main.SplashActivity" image="_1111"/>
+
+	<!-- CalenTile -->
+	<AppIcon name="com.gustavoas.calendarqst/com.gustavoas.calendarqst.activities.SettingsActivity" image="calentile"/>
+
+	<!-- ICSx⁵ -->
+	<AppIcon name="at.bitfire.icsdroid/at.bitfire.icsdroid.ui.views.CalendarListActivity" image="icsx5"/>
+
+	<!-- Bridge -->
+	<AppIcon name="com.xitlabs.bridge/com.xitlabs.bridge.activities.MainActivity" image="bridge"/>
+
+	<!-- Prima -->
+	<AppIcon name="it.prima/it.prima.feature.launcher.LauncherTrampolineActivity" image="prima"/>
+
+	<!-- SiMeal -->
+	<AppIcon name="com.iccs.simeal.pro/com.iccs.simeal.pro.MainActivity" image="simeal"/>
+
+	<!-- Subito -->
+	<AppIcon name="it.subito/it.subito.v2.search.ListingActivity" image="subito"/>
+
+	<!-- Lumin PDF -->
+	<AppIcon name="com.luminpdfapp/com.luminpdfapp.MainActivity" image="lumin_pdf"/>
+
+	<!-- Image Toolbox -->
+	<AppIcon name="ru.tech.imageresizershrinker/ru.tech.imageresizershrinker.app.presentation.AppActivity" image="image_toolbox"/>
+
+	<!-- ZetaBarber -->
+	<AppIcon name="com.zumbat.zbarber/com.zumbat.zbarber.MainActivity" image="zetabarber"/>
+
+	<!-- SuperCards -->
+	<AppIcon name="de.superapps.supercards/de.superapps.supercards.MainActivity" image="supercards"/>
+
+	<!-- RaiPlay -->
+	<AppIcon name="it.rainet/it.rainet.ui.splash.SplashActivity" image="raiplay"/>
+
+	<!-- Mediaset Infinity -->
+	<AppIcon name="it.fabbricadigitale.android.videomediaset/com.mediaset.mediasetplay.ui.main.MainActivity" image="mediaset_infinity"/>
+
+	<!-- Finder You -->
+	<AppIcon name="com.findernet.FinderYou/crc64ea1b2066d477397c.MainActivity" image="finder_you"/>
+
+	<!-- MicoPacks -->
+	<AppIcon name="dev.ukanth.iconmanager/dev.ukanth.iconmgr.MainActivity" image="micopacks"/>
+
+	<!-- HomeWhiz -->
+	<AppIcon name="com.homewhiz.global/com.homewhiz.global.landing.LandingActivity" image="homewhiz"/>
+
+	<!-- Guida TV -->
+	<AppIcon name="com.ionicframework.tv879795/com.ionicframework.tv879795.MainActivity" image="guida_tv"/>
+
+	<!-- didUP Famiglia -->
+	<AppIcon name="it.argosoft.didup.famiglia.new/it.argosoft.didup.famiglia.MainActivity" image="didup_famiglia"/>
+
+	<!-- Epic Freebie Games Radar -->
+	<AppIcon name="com.arioch.efgr/com.arioch.efgr.MainActivity" image="epic_freebie_games_radar"/>
+
+	<!-- Xbox -->
+	<AppIcon name="com.microsoft.xboxone.smartglass/com.microsoft.xbox.MainActivity" image="xbox"/>
+
+	<!-- Xbox Game Pass -->
+	<AppIcon name="com.gamepass/com.gamepass.MainActivity" image="xbox_game_pass"/>
+
+	<!-- UNO -->
+	<AppIcon name="com.matteljv.uno/com.netease.uno.CustomOverrideActivity" image="uno"/>
+
+
 <!-- System | Default Apps -->
 
 	<!-- Browser -->
@@ -2072,6 +2188,7 @@
 	<AppIcon name="com.android.calculator2/com.android.calculator2.Calculator" image="calculator"/>
 	<AppIcon name="com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator" image="calculator"/>
 	<AppIcon name="com.darkempire78.opencalculator/com.darkempire78.opencalculator.MainActivity" image="calculator"/>
+	<AppIcon name="com.coloros.calculator/com.android.calculator2.Calculator" image="calculator"/>
 	<!-- Calendar -->
 	<AppIcon name="com.xiaomi.calendar/com.android.calendar.homepage.AllInOneActivity" image="calendar"/>
 	<AppIcon name="com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity" image="calendar"/>
@@ -2090,14 +2207,18 @@
 	<AppIcon name="com.android.contacts/com.android.contacts.activities.PeopleActivity" image="contacts"/>
 	<!-- Clock -->
 	<AppIcon name="com.android.deskclock/com.android.deskclock.DeskClockTabActivity" image="clock"/>
+	<!-- Compass -->
+	<AppIcon name="com.coloros.compass2/com.coloros.compass.flat.FlatCompass" image="compass"/>
 	<!-- FM Radio -->
 	<AppIcon name="com.miui.fm/com.miui.fmradio.FmRadioActivity" image="fmradio_3"/>
+	<AppIcon name="com.android.fmradio/com.android.fmradio.FmMainActivity" image="fmradio"/>
 	<!-- Messages -->
 	<AppIcon name="com.android.mms/com.android.mms.ui.ConversationList" image="messages"/>
 	<AppIcon name="com.android.messaging/com.android.messaging.ui.conversation.FirstActivity" image="messaging"/>
 	<AppIcon name="com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity" image="messages"/>
 	<!-- Music -->
 	<AppIcon name="org.lineageos.eleven/org.lineageos.eleven.ui.activities.HomeActivity" image="music"/>
+	<AppIcon name="com.heytap.music/com.allsaints.music.ui.splash.SplashActivity" image="music_2"/>
 	<!-- Telephone -->
 	<AppIcon name="com.android.dialer/com.android.dialer.main.impl.MainActivity" image="dialer"/>
 	<AppIcon name="com.android.contacts/com.android.contacts.DialtactsActivityAlias" image="dialer"/>
@@ -2106,6 +2227,7 @@
 	<AppIcon name="com.coloros.gallery3d/com.coloros.gallery3d.app.MainActivity" image="gallery"/>
 	<AppIcon name="com.miui.gallery/com.miui.gallery.activity.HomePageActivity" image="gallery"/>
 	<AppIcon name="com.android.gallery3d/com.android.gallery3d.app.GalleryActivity" image="gallery"/>
+	<AppIcon name="photo.gallery.photoeditor.photo.album/com.ijoysoft.gallery.activity.WelcomeActivity" image="gallery_3"/>
 	<!-- Sim Toolkit -->
 	<AppIcon name="com.android.stk/com.android.stk.StkMain" image="sim_toolkit"/>
 	<AppIcon name="com.android.stk/com.android.stk.StkLauncherActivity" image="sim_toolkit"/>
@@ -2114,6 +2236,11 @@
 	<AppIcon name="com.android.soundrecorder/com.android.soundrecorder.SoundRecorder" image="voice_recorder"/>
 	<AppIcon name="org.lineageos.recorder/org.lineageos.recorder.RecorderActivity" image="voice_recorder"/>
 	<AppIcon name="com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity" image="voice_recorder"/>
+	<AppIcon name="com.coloros.soundrecorder/oppo.multimedia.soundrecorder.filebrowser.BrowseFile" image="voice_recorder"/>
+	<!-- Video Player -->
+	<AppIcon name="com.coloros.video/com.oplus.video.SplashActivity" image="video_player_3"/>
 	<!-- Weather -->
 	<AppIcon name="com.miui.weather2/com.miui.weather2.ActivityWeatherMain" image="weather"/>
+	<AppIcon name="com.coloros.weather2/com.coloros.weather.main.view.WeatherMainActivity" image="weather_3"/>
+
 </Theme>

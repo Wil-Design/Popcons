@@ -2,7 +2,7 @@
 <resources>
 
     <!-- Leave empty if you don't want to show changelog date -->
-    <string name="changelog_date">19 April 2025</string>
+    <string name="changelog_date">25 April 2025</string>
 
     <!-- Changelog support html formatting
     * <b> for Bold
@@ -11,12 +11,18 @@
     * <a href="linkUrl">Link Text</a> for links -->
     <string-array name="changelog">
         <item>47 new and updated icons.</item>
-        <item>Fixed some icons.</item>
+        <item>Fixed icons not applying.</item>
+        <item>Updated icon categories.</item>
+        <item>
+            <![CDATA[
+            Full changelog <a href="https://monogr.ph/6807c66f1c17806c608359d9l">here</a>.
+            ]]>
+        </item> 
         <item>
             <![CDATA[
             Follow me on <a href="https://fosstodon.org/@wil">Fosstodon</a> for updates!
             ]]>
-        </item>        
+        </item>               
         <item>
             <![CDATA[
             Or on <a href="https://bsky.app/profile/wildesign.bsky.social">Bluesky</a>!
@@ -24,7 +30,7 @@
         </item>           
         <item>
             <![CDATA[
-            Join the <a href="https://discord.gg/372w5Dr8xh">Discord!</a> for updates and behind the scenes stuff!
+            Join the <a href="https://discord.gg/372w5Dr8xh">Discord</a> for updates and behind the scenes stuff!
             ]]>
         </item>        
         <item>

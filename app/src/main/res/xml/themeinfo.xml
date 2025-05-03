@@ -4,8 +4,8 @@
     <!-- FOR ATOM LAUNCHER -->
 
     <packageName>com.wil.popcons</packageName>
-    <versionName>1.9</versionName>
-    <versionCode>1900</versionCode>
+    <versionName>1.10</versionName>
+    <versionCode>10000</versionCode>
     <themeName>Popcons</themeName>
 
     <!-- Default Component Color -->
