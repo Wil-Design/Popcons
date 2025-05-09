@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Theme version="1.10">
+<Theme version="1.11">
 	<!-- FOR LG HOME -->
 	<Label value="Popcons"/>
 	<Wallpaper image="lg_homescreen_wallpaper"/>
@@ -1520,6 +1520,7 @@
 
 	<!-- Dolby Atmos -->
 	<AppIcon name="co.aospa.dolby.xiaomi/co.aospa.dolby.xiaomi.DolbyActivity" image="dolby_atmos"/>
+	<AppIcon name="com.motorola.dolby.dolbyui/com.motorola.dolby.dolbyui.ui.LauncherActivity" image="dolby_atmos"/>
 
 	<!-- microG Settings -->
 	<AppIcon name="app.revanced.android.gms/org.microg.gms.ui.SettingsActivity" image="microg_settings"/>
@@ -1744,6 +1745,7 @@
 
 	<!-- Quillpad -->
 	<AppIcon name="io.github.quillpad/org.qosp.notes.ui.MainActivity" image="quillpad"/>
+	<AppIcon name="io.github.quillpad/org.qosp.notes.ui.launcher.LauncherActivity" image="quillpad"/>
 
 	<!-- Scrinium -->
 	<AppIcon name="com.gmail.sekovchuk.scrinium/com.gmail.sekovchuk.scrinium.view.MainActivity" image="scrinium"/>
@@ -1948,6 +1950,7 @@
 
 	<!-- TikTok Lite -->
 	<AppIcon name="com.zhiliaoapp.musically.go/com.ss.android.ugc.aweme.main.homepage.MainActivity" image="tiktok_lite"/>
+	<AppIcon name="com.ss.android.ugc.trill/com.ss.android.ugc.aweme.splash.SplashActivity" image="tiktok"/>
 
 	<!-- Reigns -->
 	<AppIcon name="com.devolver.reigns/com.unity3d.player.UnityPlayerActivity" image="reigns"/>
@@ -2177,6 +2180,153 @@
 	<!-- UNO -->
 	<AppIcon name="com.matteljv.uno/com.netease.uno.CustomOverrideActivity" image="uno"/>
 
+	<!-- Soloop Cut -->
+	<AppIcon name="com.coloros.videoeditor/com.coloros.videoeditor.SplashActivity" image="soloop_cut"/>
+
+	<!-- HyperOS - icon pack -->
+	<AppIcon name="com.debojyoti.hyperos_icpack/com.debojyoti.hyperos_icpack.activities.MainActivity" image="hyperos_icon_pack"/>
+
+	<!-- Aliucord -->
+	<AppIcon name="com.aliucord/com.discord.app.AppActivity$Main" image="aliucord"/>
+
+	<!-- Aliucord Installer -->
+	<AppIcon name="com.aliucord.installer/com.aliucord.installer.MainActivity" image="aliucord_installer"/>
+
+	<!-- AusweisApp -->
+	<AppIcon name="com.governikus.ausweisapp2/com.governikus.ausweisapp2.MainActivity" image="ausweisapp"/>
+
+	<!-- Blizzard Authenticator -->
+	<AppIcon name="com.blizzard.bma/com.blizzard.bma.ui.welcome.SplashActivity" image="blizzard_auth"/>
+
+	<!-- AutoDoc -->
+	<AppIcon name="de.autodoc.gmbh/de.autodoc.gmbh.ui.activity.SplashActivity" image="autodoc"/>
+
+	<!-- Avira Security -->
+	<AppIcon name="com.avira.android/com.avira.android.dashboard.SplashActivity" image="avira_security"/>
+
+	<!-- Battle.net -->
+	<AppIcon name="com.blizzard.messenger/com.blizzard.messenger.ui.splash.SplashActivity" image="battlenet"/>
+
+	<!-- Nintendo Switch Online -->
+	<AppIcon name="com.nintendo.znca/com.nintendo.coral.ui.boot.BootActivity" image="nintendo_switch_online"/>
+
+	<!-- Photomath -->
+	<AppIcon name="com.microblink.photomath/com.microblink.photomath.main.activity.LauncherActivity" image="photomath"/>
+
+	<!-- GMX Mail -->
+	<AppIcon name="de.gmx.mobile.android.mail/com.unitedinternet.portal.ui.HostActivity" image="gmx_mail"/>
+
+	<!-- LifeTotal -->
+	<AppIcon name="com.snowleopardgames.lifetotal/com.snowleopardgames.lifetotal.MainActivity" image="lifetotal"/>
+
+	<!-- Moovit -->
+	<AppIcon name="com.tranzmate/com.moovit.app.home.HomeActivity" image="moovit"/>
+
+	<!-- Roborock -->
+	<AppIcon name="com.roborock.smart/com.roborock.smart.refactor.ui.splash.SplashActivity" image="roborock"/>
+
+	<!-- Meine AOK -->
+	<AppIcon name="de.aoksystems.amg/de.aoksystems.amg.splash.SplashActivity" image="meine_aok"/>
+
+	<!-- Testerheld -->
+	<AppIcon name="io.gonative.android.pmqloj/com.testerheld.MainActivity" image="testerheld"/>
+
+	<!-- Kleinanzeigen -->
+	<AppIcon name="com.ebay.kleinanzeigen/ebk.ui.splash.SplashActivity" image="kleinanzeigen"/>
+
+	<!-- Keys Cafe -->
+	<AppIcon name="com.samsung.android.keyscafe/com.samsung.android.keyscafe.main.ui.KeysCafeSplashActivity" image="keys_cafe"/>
+
+	<!-- BeReal. -->
+	<AppIcon name="com.bereal.ft/bereal.app.MainActivity" image="bereal"/>
+
+	<!-- Blitzer.de -->
+	<AppIcon name="de.blitzer/de.blitzer.activity.SplashScreen" image="blitzerde"/>
+
+	<!-- AOK Bonus -->
+	<AppIcon name="de.aoksystems.ma.abp.app/de.aoksystems.ma.abp.app.ui.base.MainHostActivity" image="aok_bonus"/>
+
+	<!-- Migu -->
+	<AppIcon name="watch.migu/watch.migu.MainActivity" image="migu"/>
+
+	<!-- Shiru -->
+	<AppIcon name="watch.shiru/watch.shiru.MainActivity" image="shiru"/>
+
+	<!-- AnymeX -->
+	<AppIcon name="com.ryan.anymex/com.ryan.anymex.MainActivity" image="anymex"/>
+
+	<!-- Starth Bing Wallpaper -->
+	<AppIcon name="me.liaoheng.wallpaper/me.liaoheng.wallpaper.ui.MainActivity" image="starth_bing_wallpaper"/>
+
+	<!-- Randomizer -->
+	<AppIcon name="org.random.number.generator/org.random.number.generator.activities.SplashActivity" image="randomizer_org"/>
+
+	<!-- Pixasso -->
+	<AppIcon name="com.erfanrouhani.ai.imagegenerator/com.erfanrouhani.ai.imagegenerator.ui.activities.MainActivity" image="pixasso"/>
+
+	<!-- Magisk -->
+	<AppIcon name="com.topjohnwu.magisk/com.topjohnwu.magisk.ui.MainActivity" image="magisk"/>
+
+	<!-- MYT Müzik -->
+	<AppIcon name="com.lmr.lfm/com.lmr.lfm.MainActivity" image="myt_muzik"/>
+
+	<!-- Ofsayt -->
+	<item component="ComponentInfo{com.ofsayt.offside/com.ofsayt.offside.presentation.MainActivity}" drawable="ofsayt" />
+
+	<!-- Ofsayt -->
+	<AppIcon name="com.ofsayt.offside/com.ofsayt.offside.presentation.MainActivity" image="ofsayt"/>
+
+	<!-- Google Slides -->
+	<AppIcon name="com.google.android.apps.docs.editors.slides/com.google.android.apps.docs.app.NewMainProxyActivity" image="google_slides"/>
+
+	<!-- Iconify -->
+	<AppIcon name="com.drdisagree.iconify/com.drdisagree.iconify.SplashActivity" image="iconify"/>
+
+	<!-- ReVanced Manager -->
+	<AppIcon name="com.revanced.net.revancedmanager/com.revanced.net.revancedmanager.MainActivity" image="revanced_manager"/>
+
+	<!-- Accord -->
+	<AppIcon name="org.akanework.accord/org.akanework.gramophone.ui.MainActivity" image="accord"/>
+
+	<!-- Türk Telekom -->
+	<AppIcon name="com.tmob.AveaOIM/moim.android.init.SplashActivity" image="turk_telekom"/>
+
+	<!-- Brawl Stars -->
+	<AppIcon name="com.supercell.brawlstars/com.supercell.brawlstars.GameApp" image="brawl_stars"/>
+
+	<!-- YouTube -->
+	<AppIcon name="anddea.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity" image="youtube"/>
+
+	<!-- YT Music -->
+	<AppIcon name="anddea.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity" image="youtube_music"/>
+
+	<!-- Letters Icon Pack -->
+	<AppIcon name="com.tanujnotes.leiconpack/com.tanujnotes.leiconpack.MainActivity" image="letters_icon_pack"/>
+
+	<!-- AniLib -->
+	<AppIcon name="com.revolgenx.anilib/com.revolgenx.anilib.app.ui.activity.SplashScreenActivity" image="anilib"/>
+
+	<!-- Borders -->
+	<AppIcon name="com.matteolobello.borders/com.matteolobello.borders.ui.activity.LaunchScreenActivity" image="borders"/>
+
+	<!-- Dooz -->
+	<AppIcon name="io.github.yamin8000.dooz/io.github.yamin8000.dooz.content.MainActivity" image="dooz"/>
+
+	<!-- Just Player -->
+	<AppIcon name="com.brouken.player/com.brouken.player.PlayerActivity" image="just_player"/>
+
+	<!-- Mini Metro -->
+	<AppIcon name="nz.co.codepoint.minimetro/com.dinopoloclub.minimetro.nbo.LicensedActivity" image="mini_metro"/>
+
+	<!-- Plex -->
+	<AppIcon name="com.plexapp.android/tv.plex.app.MainActivity" image="plex"/>
+
+	<!-- Wallow Wallpaper -->
+	<AppIcon name="io.otim.wallow/io.otim.wallow.MainActivity" image="wallow_wallpaper"/>
+
+	<!-- Yōkai -->
+	<AppIcon name="eu.kanade.tachiyomi.yokai/eu.kanade.tachiyomi.ui.main.MainActivity" image="yokai"/>
+
 
 <!-- System | Default Apps -->
 
@@ -2202,6 +2352,8 @@
 	<AppIcon name="com.android.camera2/com.android.camera.CameraLauncher" image="camera"/>
 	<AppIcon name="com.google.android.apps.cameralite/com.google.android.apps.cameralite.capture.CaptureActivity" image="camera"/>
 	<AppIcon name="com.oplus.camera/com.oplus.camera.Camera" image="camera"/>
+	<AppIcon name="com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher" image="camera"/>
+	<AppIcon name="com.motorola.camera3/com.motorola.camera.Camera" image="camera"/>
 	<!-- Contacts App -->
 	<AppIcon name="com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity" image="contacts"/>
 	<AppIcon name="com.android.contacts/com.android.contacts.activities.PeopleActivity" image="contacts"/>
@@ -2212,6 +2364,8 @@
 	<!-- FM Radio -->
 	<AppIcon name="com.miui.fm/com.miui.fmradio.FmRadioActivity" image="fmradio_3"/>
 	<AppIcon name="com.android.fmradio/com.android.fmradio.FmMainActivity" image="fmradio"/>
+	<AppIcon name="com.caf.fmradio/com.caf.fmradio.FMRadio" image="fmradio"/>
+	<AppIcon name="com.motorola.fmplayer/com.motorola.fmplayer.ChangeThemeActivity" image="radio_fm"/>
 	<!-- Messages -->
 	<AppIcon name="com.android.mms/com.android.mms.ui.ConversationList" image="messages"/>
 	<AppIcon name="com.android.messaging/com.android.messaging.ui.conversation.FirstActivity" image="messaging"/>
@@ -2228,6 +2382,7 @@
 	<AppIcon name="com.miui.gallery/com.miui.gallery.activity.HomePageActivity" image="gallery"/>
 	<AppIcon name="com.android.gallery3d/com.android.gallery3d.app.GalleryActivity" image="gallery"/>
 	<AppIcon name="photo.gallery.photoeditor.photo.album/com.ijoysoft.gallery.activity.WelcomeActivity" image="gallery_3"/>
+	<AppIcon name="org.derpfest.glimpse/org.lineageos.glimpse.MainActivity" image="gallery"/>
 	<!-- Sim Toolkit -->
 	<AppIcon name="com.android.stk/com.android.stk.StkMain" image="sim_toolkit"/>
 	<AppIcon name="com.android.stk/com.android.stk.StkLauncherActivity" image="sim_toolkit"/>
@@ -2242,5 +2397,6 @@
 	<!-- Weather -->
 	<AppIcon name="com.miui.weather2/com.miui.weather2.ActivityWeatherMain" image="weather"/>
 	<AppIcon name="com.coloros.weather2/com.coloros.weather.main.view.WeatherMainActivity" image="weather_3"/>
+	<AppIcon name="com.motorola.timeweatherwidget/com.motorola.commandcenter.MainActivity" image="prognoza_pogody"/>
 
 </Theme>

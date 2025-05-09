@@ -2,7 +2,7 @@
 <resources>
 
     <!-- Leave empty if you don't want to show changelog date -->
-    <string name="changelog_date">25 April 2025</string>
+    <string name="changelog_date">09 May 2025</string>
 
     <!-- Changelog support html formatting
     * <b> for Bold
@@ -10,9 +10,8 @@
     * <u> for Underline
     * <a href="linkUrl">Link Text</a> for links -->
     <string-array name="changelog">
-        <item>47 new and updated icons.</item>
-        <item>Fixed icons not applying.</item>
-        <item>Updated icon categories.</item>
+        <item>51 new and updated icons.</item>
+        <item>Fixed some icons not applying.</item>
         <item>
             <![CDATA[
             Full changelog <a href="https://monogr.ph/6807c66f1c17806c608359d9l">here</a>.
