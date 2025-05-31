@@ -341,6 +341,7 @@
 	<item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}" drawable="facebook"/>
 	<!-- SofaScore -->
 	<item component="ComponentInfo{com.sofascore.results/com.sofascore.results.main.StartActivity}" drawable="sofascore"/>
+	<item component="ComponentInfo{com.sofascore.results/com.sofascore.results.main.start.StartActivity}" drawable="sofascore" />
 	<!-- 1DM -->
 	<item component="ComponentInfo{idm.internet.download.manager/idm.internet.download.manager.MainActivity}" drawable="___idm"/>
 	<!-- 1DM+ -->
@@ -587,6 +588,7 @@
 	<item component="ComponentInfo{pl.inpost.inmobile/pl.inpost.inmobile.presentation.splashscreen.SplashScreenActivity}" drawable="inpost_mobile"/>
 	<!-- OLX.pl -->
 	<item component="ComponentInfo{pl.tablica/pl.tablica2.app.startup.activity.StartupActivity}" drawable="olx"/>
+	<item component="ComponentInfo{ua.slando/pl.tablica2.app.startup.activity.StartupActivity}" drawable="olx" />
 	<!-- Disney+ -->
 	<item component="ComponentInfo{com.disney.disneyplus/com.bamtechmedia.dominguez.main.MainActivity}" drawable="disney_"/>
 	<!-- Outlook -->
@@ -1165,6 +1167,7 @@
 
 	<!-- Burger King SA -->
 	<item component="ComponentInfo{za.co.wigroup.burgerking/rbi.android.app.Launcher}" drawable="burger_king" />
+	<item component="ComponentInfo{es.burgerking.android/rbi.android.app.Launcher}" drawable="burger_king" />
 
 	<!-- Checkers -->
 	<item component="ComponentInfo{za.co.shoprite.eezicoupon/za.co.shoprite.eezicoupon.MainActivity}" drawable="checkers" />
@@ -2197,6 +2200,7 @@
 
 	<!-- cuscon -->
 	<item component="ComponentInfo{com.froxot.cuscon.foss/com.froxot.cuscon.activities.MainActivity}" drawable="cuscon" />
+	<item component="ComponentInfo{com.froxot.cuscon/com.froxot.cuscon.activities.MainActivity}" drawable="cuscon" />
 
 	<!-- Dollphone -->
 	<item component="ComponentInfo{me.x2gd4.dollphone/me.x2gd4.dollphone.activities.MainActivity}" drawable="dollphone" />
@@ -2205,6 +2209,7 @@
 	<item component="ComponentInfo{com.tombayley.volumepanel/com.tombayley.volumepanel.app.ui.home.MainActivity}" drawable="volume_styles" />
 
 	<!-- soundcore -->
+	<item component="ComponentInfo{com.oceanwing.soundcore/com.oceanwing.soundcore.activity.WelcomeActivity}" drawable="soundcore" />
 	<item component="ComponentInfo{com.oceanwing.soundcore/com.oceanwing.soundcore.activity.WelcomeActivity}" drawable="soundcore" />
 
 	<!-- Spheroid -->
@@ -2432,6 +2437,165 @@
 	<!-- Yōkai -->
 	<item component="ComponentInfo{eu.kanade.tachiyomi.yokai/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="yokai" />
 
+	<!-- Glassdoor -->
+	<item component="ComponentInfo{com.glassdoor.app/com.glassdoor.app.presentation.ui.MainActivity}" drawable="glassdoor" />
+
+	<!-- Olauncher -->
+	<item component="ComponentInfo{app.olauncher/app.olauncher.MainActivity}" drawable="olauncher" />
+
+	<!-- Oto Music -->
+	<item component="ComponentInfo{com.piyush.music/com.piyush.music.activities.main.MainActivity}" drawable="oto_music" />
+
+	<!-- Walpy -->
+	<item component="ComponentInfo{com.feresr.walpy/com.feresr.walpy.ui.MainActivity}" drawable="walpy" />
+
+	<!-- ALONE -->
+	<item component="ComponentInfo{com.laserdog.alone/com.ansca.corona.CoronaActivity}" drawable="alone" />
+
+	<!-- Purchased Apps -->
+	<item component="ComponentInfo{com.azefsw.purchasedapps/com.azefsw.purchasedapps.ui.startup.StartupActivity}" drawable="purchased_apps" />
+
+	<!-- SuperAlarm -->
+	<item component="ComponentInfo{io.pickyz.superalarm/io.pickyz.superalarm.LauncherActivity}" drawable="superalarm" />
+
+	<!-- Notification Dictionary -->
+	<item component="ComponentInfo{com.xtreak.notificationdictionary/com.xtreak.notificationdictionary.MainActivity}" drawable="notification_dictionary" />
+
+	<!-- MyDramaList -->
+	<item component="ComponentInfo{com.mydramalist.app/com.mydramalist.app.MainActivity}" drawable="mydramalist" />
+
+	<!-- Momkin -->
+	<item component="ComponentInfo{eu.dorfbrunnen.momkin/eu.dorfbrunnen.momkin.MainActivity}" drawable="momkin" />
+
+	<!-- Koofr -->
+	<item component="ComponentInfo{net.koofr.app/net.koofr.android.app.account.LoginActivity}" drawable="koofr" />
+
+	<!-- CurioMate -->
+	<item component="ComponentInfo{com.appcodecraft.curiomate/com.appcodecraft.curiomate.MainActivity}" drawable="curiomate" />
+
+	<!-- Proton Pass -->
+	<item component="ComponentInfo{proton.android.pass/proton.android.pass.ui.MainActivity}" drawable="proton_pass" />
+
+	<!-- Ring -->
+	<item component="ComponentInfo{com.ringapp/com.ring.launch.LaunchActivity}" drawable="ring" />
+
+	<!-- Keepa -->
+	<item component="ComponentInfo{com.keepa.mobile/com.tns.NativeScriptActivity}" drawable="keepa" />
+
+	<!-- JustWatch -->
+	<item component="ComponentInfo{com.justwatch.justwatch/com.justwatch.justwatch.MainActivity}" drawable="justwatch" />
+
+	<!-- imagin -->
+	<item component="ComponentInfo{com.imaginbank.app/com.imaginbank.appima.darkimagin}" drawable="imagin" />
+
+	<!-- Insta360 -->
+	<item component="ComponentInfo{com.arashivision.insta360akiko/com.arashivision.insta360akiko.app.SplashActivity}" drawable="insta360" />
+
+	<!-- TheFork -->
+	<item component="ComponentInfo{com.lafourchette.lafourchette/com.fork.android.app.launch.LaunchActivity}" drawable="thefork" />
+
+	<!-- Termómetro -->
+	<item component="ComponentInfo{com.google.android.apps.pixel.health/com.google.android.apps.pixel.health.thermometer.ThermometerHomeActivity}" drawable="termometro" />
+
+	<!-- Kick -->
+	<item component="ComponentInfo{com.kick.mobile/com.kick.mobile.MainActivity}" drawable="kick" />
+
+	<!-- OKX -->
+	<item component="ComponentInfo{com.okinc.okex.gp/com.okinc.core.ok_app.homepage.ui.welcome.WelcomeActivity}" drawable="okx" />
+
+	<!-- Work.ua -->
+	<item component="ComponentInfo{ua.work.mobileClient/ua.work.mobileClient.MainActivity}" drawable="workua" />
+
+	<!-- World App -->
+	<item component="ComponentInfo{com.worldcoin/com.worldcoin.app.main.MainActivity}" drawable="world_app" />
+
+	<!-- WhiteBIT -->
+	<item component="ComponentInfo{com.whitebit.android/com.whitebit.whitebitu.MainActivityDefault}" drawable="whitebit" />
+
+	<!-- Wake On Lan -->
+	<item component="ComponentInfo{co.uk.mrwebb.wakeonlan/co.uk.mrwebb.wakeonlan.MainActivity}" drawable="wake_on_lan" />
+
+	<!-- Voicemail -->
+	<item component="ComponentInfo{com.coremobility.app.vnotes/com.coremobility.app.vnotes.CM_VnoteInbox}" drawable="voicemail" />
+
+	<!-- Uklon -->
+	<item component="ComponentInfo{ua.com.uklontaxi/ua.com.uklontaxi.Ukraine}" drawable="uklon" />
+
+	<!-- Nest -->
+	<item component="ComponentInfo{com.nest.android/com.obsidian.v4.activity.LoginActivity}" drawable="nest" />
+
+	<!-- KuCoin -->
+	<item component="ComponentInfo{com.kubi.kucoin/com.kubi.kucoin.feature.SplashActivity}" drawable="kucoin" />
+
+	<!-- Quickoffice -->
+	<item component="ComponentInfo{com.quickoffice.android/com.qo.android.quickoffice.QuickofficeDispatcher}" drawable="quickoffice" />
+
+	<!-- Grok -->
+	<item component="ComponentInfo{ai.x.grok/ai.x.grok.main.GrokActivity}" drawable="grok" />
+
+	<!-- EtherMail -->
+	<item component="ComponentInfo{com.ethermail.ethermail_android/com.ethermail.ethermail_android.MainActivity}" drawable="ethermail" />
+
+	<!-- Fishka -->
+	<item component="ComponentInfo{com.myfishka.android/com.myfishka.android.presentation.toolbox.util.AppIconSwitcher.IconMode.DEFAULT}" drawable="fishka" />
+
+	<!-- Lists -->
+	<item component="ComponentInfo{com.microsoft.lists.public/com.microsoft.lists.MainActivity}" drawable="lists" />
+
+	<!-- Xbox Family -->
+	<item component="ComponentInfo{com.microsoft.xboxfamily/com.xboxfamily.MainActivity}" drawable="xbox_family" />
+
+	<!-- what3words -->
+	<item component="ComponentInfo{com.what3words.android/com.what3words.android.ui.splash.SplashActivity}" drawable="what3words" />
+
+	<!-- Starling -->
+	<item component="ComponentInfo{com.starlingbank.android/com.starlingbank.android.DEFAULT}" drawable="starling" />
+
+	<!-- Roku -->
+	<item component="ComponentInfo{com.roku.remote/com.roku.remote.ui.activities.BrowseContentActivity}" drawable="roku" />
+
+	<!-- Pi -->
+	<item component="ComponentInfo{com.blockchainvault/com.pinetwork.MainActivity}" drawable="pi" />
+
+	<!-- Paired -->
+	<item component="ComponentInfo{com.getpaired.app/com.getpaired.app.MainActivity}" drawable="paired" />
+
+	<!-- Fitbit -->
+	<item component="ComponentInfo{com.fitbit.FitbitMobile/com.fitbit.FirstActivity}" drawable="fitbit" />
+
+	<!-- Family Link -->
+	<item component="ComponentInfo{com.google.android.apps.kids.familylink/com.google.android.apps.kids.familylink.flutter.standalone.HomeActivity}" drawable="family_link" />
+
+	<!-- BlueMail -->
+	<item component="ComponentInfo{me.bluemail.mail/com.trtf.blue.activity.Accounts}" drawable="bluemail" />
+
+	<!-- Adaptive You -->
+	<item component="ComponentInfo{com.jndapp.adaptive.material.you.iconpack/com.jndapp.adaptive.material.you.iconpack.MainActivity}" drawable="adaptive_you" />
+
+	<!-- APKPure -->
+	<item component="ComponentInfo{com.apkpure.aegon/com.apkpure.aegon.main.activity.SplashActivity}" drawable="apkpure" />
+
+	<!-- Arcticons Material You -->
+	<item component="ComponentInfo{com.donnnno.arcticons.you.play/com.donnnno.arcticons.activities.MainActivity}" drawable="arcticons_material_you" />
+
+	<!-- Australis -->
+	<item component="ComponentInfo{com.unvoid.australis/com.unvoid.australis.activities.MainActivity}" drawable="australis" />
+
+	<!-- BBC iPlayer -->
+	<item component="ComponentInfo{bbc.iplayer.android/uk.co.bbc.iplayer.startup.RoutingActivity}" drawable="bbc_iplayer" />
+
+	<!-- Beats -->
+	<item component="ComponentInfo{com.apple.bnd/com.apple.vienna.v4.interaction.presentation.screens.welcome.WelcomeActivity}" drawable="beats" />
+
+	<!-- Battery Widget -->
+	<item component="ComponentInfo{com.lstapps.batterywidget/com.lstapps.batterywidget.MainActivity}" drawable="battery_widget" />
+
+	<!-- Crayon -->
+	<item component="ComponentInfo{com.jndapp.cartoon.crayon.iconpack/com.jndapp.cartoon.crayon.iconpack.MainActivity}" drawable="crayon" />
+
+	<!-- Geekbench 6 -->
+	<item component="ComponentInfo{com.primatelabs.geekbench6/com.primatelabs.geekbench.HomeActivity}" drawable="geekbench_6" />
+
 
 	<!-- System | Default Apps -->
 
@@ -2466,6 +2630,8 @@
 	<item component="ComponentInfo{com.google.android.apps.cameralite/com.google.android.apps.cameralite.capture.CaptureActivity}" drawable="camera"/>
 	<item component="ComponentInfo{com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher}" drawable="camera" />
 	<item component="ComponentInfo{com.motorola.camera3/com.motorola.camera.Camera}" drawable="camera" />
+	<item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="camera" />
+	<item component="ComponentInfo{com.hmdglobal.app.camera/com.hmdglobal.app.camera.CameraActivity}" drawable="camera" />
 	<!-- Compass -->
 	<item component="ComponentInfo{com.coloros.compass2/com.coloros.compass.flat.FlatCompass}" drawable="compass" />
 	<!-- Contacts -->
@@ -2480,6 +2646,7 @@
 	<item component="ComponentInfo{/com.android.contacts.DialtactsContactsEntryActivity}" drawable="contacts"/>
 	<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts"/>
 	<item component="ComponentInfo{com.android.contacts/}" drawable="contacts"/>
+	<item component="ComponentInfo{com.samsung.android.contacts/com.android.dialer.DialtactsActivity}" drawable="contacts" />
 	<!-- FM Radio -->
 	<item component="ComponentInfo{com.miui.fm/com.miui.fmradio.FmRadioActivity}" drawable="fmradio_3"/>
 	<item component="ComponentInfo{com.android.fmradio/com.android.fmradio.FmMainActivity}" drawable="fmradio" />
