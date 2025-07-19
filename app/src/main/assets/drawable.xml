@@ -1,8 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<version>1.12</version>
+	<version>1.13</version>
 	<category title="Newly added"/>
-	<item drawable="adaptive_you"/>
+	<item drawable="aimp"/>
+	<item drawable="amazon_music"/>
+	<item drawable="appstation"/>
+	<item drawable="buz"/>
+	<item drawable="cashew"/>
+	<item drawable="daily_wallpaper"/>
+	<item drawable="dana"/>
+	<item drawable="digipaws"/>
+	<item drawable="easter_eggs"/>
+	<item drawable="excel"/>
+	<item drawable="fast_downloader"/>
+	<item drawable="filmora"/>
+	<item drawable="freedom"/>
+	<item drawable="hot_apps"/>
+	<item drawable="hue"/>
+	<item drawable="ibispaint_x"/>
+	<item drawable="ivpn"/>
+	<item drawable="lens_2"/>
+	<item drawable="letsclean"/>
+	<item drawable="lg_thinq"/>
+	<item drawable="materialos"/>
+	<item drawable="mint_browser"/>
+	<item drawable="money_manager"/>
+	<item drawable="motioneasetune"/>
+	<item drawable="motionlock"/>
+	<item drawable="mpv"/>
+	<item drawable="nordvpn"/>
+	<item drawable="notistar"/>
+	<item drawable="nzb360"/>
+	<item drawable="onenote"/>
+	<item drawable="powerpoint"/>
+	<item drawable="pronote"/>
+	<item drawable="prusa"/>
+	<item drawable="ps_app"/>
+	<item drawable="roblox"/>
+	<item drawable="sharepoint"/>
+	<item drawable="slideshow_wallpaper"/>
+	<item drawable="sonic_mania_plus"/>
+	<item drawable="stario_launcher"/>
+	<item drawable="the_fuse"/>
+	<item drawable="ticketmaster"/>
+	<item drawable="timelybills"/>
+	<item drawable="trakt"/>
+	<item drawable="transit"/>
+	<item drawable="vodapay"/>
+	<item drawable="word"/>
+	<item drawable="xbox"/>
+
+	<category title="All icons"/>
 	<item drawable="alone"/>
 	<item drawable="apkpure"/>
 	<item drawable="arcticons_material_you"/>
@@ -54,8 +102,6 @@
 	<item drawable="workua"/>
 	<item drawable="world_app"/>
 	<item drawable="xbox_family"/>
-
-	<category title="All icons"/>
 	<item drawable="___idm"/>
 	<item drawable="_1111" />
 	<item drawable="_17track"/>
